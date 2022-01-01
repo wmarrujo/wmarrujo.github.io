@@ -1,0 +1,10 @@
+{
+	"name": "William Marrujo",
+	"short_name": "wmarrujo",
+	"icons":  [
+		{"src": "images/logo-dark.png", "purpose": "maskable any", "sizes": "any", "type": "image/svg"},
+	],
+	"theme_color": "#000000",
+	"background_color": "#000000",
+	"display": "standalone"
+}
