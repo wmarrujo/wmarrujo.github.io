@@ -40,11 +40,46 @@ h1 {
 	right: 0;
 	top: 0;
 	height: 100vh;
+	width: calc(30vw + 0.34202014333 * 100vh); /* 0.34202014333 = sin(20deg) */
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	padding: 4vw;
+	row-gap: 4vw;
+	justify-content: space-between;
 }
 
 #logo {
 	height: 12vw;
 	width: 12vw;
+	position: relative;
+	right: 6vw;
+}
+
+#navigation {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	justify-content: space-between;
+	flex-grow: 1;
+	width: 70%;
+	padding-right: 10%;
+}
+
+#navigation a {
+	font-size: 5vh;
+	font-family: "Helvetica Neue", sans-serif;
+	color: white;
+}
+
+#navigation a:hover {
+	color: yellow;
+}
+
+#links {
+	width: 90%;
+	display: flex;
+	justify-content: space-around;
 }
 
 #links img {
