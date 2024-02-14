@@ -35,18 +35,20 @@
 	const profile = profiles[Math.floor(Math.random() * profiles.length)]
 	
 	onMount(() => {
-		document.querySelector<HTMLImageElement>("#profile")!.style.objectPosition = `${profile.face * 100}% 50%`
-		// FIXME: no good way to get mouse position on mount, so it'll do a little jitter at the beginning if the mouse isn't in the center
+		document.querySelector<HTMLImageElement>("#profile")!.style.objectPosition = `${profile.face * 100}% 50%` // NOTE: no good way to stop jitter when mouse first moves after page loads
+		
+		if (window.matchMedia("(pointer:fine)").matches) addEventListener("mousemove", pointerMoved) // if the device has a mouse
+		// else addEventListener("deviceorientation", deviceOrientationChanged) // if the device doesn't have a mouse // TODO: enable parallax on device tilting for phones & tablets
 	})
 	
 	function pointerMoved(event: MouseEvent) {
-		let pixelsFromCenter = {x: event.clientX - window.innerWidth/2, y: event.clientY - window.innerHeight/2}
+		let fromCenter = {x: (event.clientX/window.innerWidth - 0.5) * 2, y: (event.clientY/window.innerHeight - 0.5) * 2} // -1 to 1 with 0 being in the center
 		document.querySelector<HTMLImageElement>("#profile")!.style.objectPosition =
-			`calc(${profile.face * 100}% - ${pixelsFromCenter.x * 0.02}px) calc(50% - ${pixelsFromCenter.y * 0.02}px)`
+			`calc(${profile.face * 100}% - ${fromCenter.x * 20}px) calc(50% - ${fromCenter.y * 20}px)` // move by 20 pixels maximum
 	}
 </script>
 
-<div class="h-lvh w-full md:flex md:flex-row overflow-x-hidden md:overflow-y-hidden" on:pointermove={pointerMoved}>
+<div class="h-lvh w-full md:flex md:flex-row overflow-x-hidden md:overflow-y-hidden">
 	<div class="w-full md:w-2/3 h-2/3 md:h-lvh relative">
 		<div id="profile-container" class="h-full">
 			<enhanced:img id="profile" src={profile.image} alt="William in some cool place" />
