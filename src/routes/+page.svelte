@@ -1,4 +1,6 @@
 <script lang="ts">
+	import {onMount} from "svelte"
+	
 	import logo from "$lib/images/logos/logo-dark.svg"
 	import aaosc from "$lib/images/logos/aaosc-dark.svg"
 	import github from "$lib/images/logos/github-dark.svg"
@@ -16,20 +18,38 @@
 	import villa from "$lib/images/profiles/villa.jpeg?enhanced"
 	import zoo from "$lib/images/profiles/zoo.jpeg?enhanced"
 	
-	// const profiles = import.meta.glob("$lib/images/profiles/*.jpeg", {query: {enhanced: true}})
-	const profiles = [capri, forum, hike, neil, orvieto, riomaggiore, rocks, spanish, vernazza, villa, zoo]
+	// has the images, and the vertical in the image with my face on it, so we can center it properly on a thin screen
+	const profiles = [
+		{image: capri, face: 0.60},
+		{image: forum, face: 0.20},
+		{image: hike, face: 0.30},
+		{image: neil, face: 0.40},
+		{image: orvieto, face: 0.30},
+		{image: riomaggiore, face: 0.80},
+		{image: rocks, face: 0.50},
+		{image: spanish, face: 0.70},
+		{image: vernazza, face: 0.30},
+		{image: villa, face: 0.70},
+		{image: zoo, face: 0.50},
+	]
 	const profile = profiles[Math.floor(Math.random() * profiles.length)]
+	
+	onMount(() => {
+		document.querySelector<HTMLImageElement>("#profile")!.style.objectPosition = `${profile.face * 100}% 50%`
+		// FIXME: no good way to get mouse position on mount, so it'll do a little jitter at the beginning if the mouse isn't in the center
+	})
 	
 	function pointerMoved(event: MouseEvent) {
 		let pixelsFromCenter = {x: event.clientX - window.innerWidth/2, y: event.clientY - window.innerHeight/2}
-		document.querySelector<HTMLImageElement>("#profile")!.style.objectPosition = `calc(50% - ${pixelsFromCenter.x * 0.02}px) calc(50% - ${pixelsFromCenter.y * 0.02}px)`
+		document.querySelector<HTMLImageElement>("#profile")!.style.objectPosition =
+			`calc(${profile.face * 100}% - ${pixelsFromCenter.x * 0.02}px) calc(50% - ${pixelsFromCenter.y * 0.02}px)`
 	}
 </script>
 
-<div class="h-lvh w-full flex flex-col md:flex-row overflow-x-hidden" on:pointermove={pointerMoved}>
+<div class="h-lvh w-full md:flex md:flex-row overflow-x-hidden md:overflow-y-hidden" on:pointermove={pointerMoved}>
 	<div class="w-full md:w-2/3 h-2/3 md:h-lvh relative">
 		<div id="profile-container" class="h-full">
-			<enhanced:img id="profile" src={profile} alt="William in some cool place" />
+			<enhanced:img id="profile" src={profile.image} alt="William in some cool place" />
 		</div>
 		<h1 class="font-heading-token text-8xl absolute top-0 left-0 pt-10 px-5 md:pt-20 md:px-20 drop-shadow-lg">William Marrujo</h1>
 	</div>
