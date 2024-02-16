@@ -1,38 +1,62 @@
-# create-svelte
-
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+# wmarrujo.com
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### Setup
 
-```bash
-npm run dev
+run `npm install`
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+### Running
+
+run `npm run dev`
+
+## Publishing
+
+update the version in the `package.json`
+
+### Building
+
+run `npm run build`
+
+the project is using the `node` adapter
+
+preview with `npm run preview`<br>
+or alternately preview with `HOST=127.0.0.1 PORT=3000 node build/index.js`
+
+### Deploying
+
+copy the files to the server `scp -pr package.json build wmarrujo@wmarrujo.com:/var/www/wmarrujo/X.Y.Z`<br>
+log on to the server and go to the `/var/www/wmarrujo` directory<br>
+re-bind the latest symlink `ln -s X.Y.Z latest`<br>
+navigate inside the `latest` directory (or the `X.Y.Z` directory)<br>
+download necessary node dependencies `yarn install --prod`<br>
+reload server `pm2 restart wmarrujo`
+
+#### Server Configuration
+
+where files are stored
+```
+/
+└ var
+	└ www
+		├ Caddyfile						<- proxy server configuration file
+		└ wmarrujo
+			├ ecosystem.config.js		<- pm2's configuration file
+			├ latest					<- symlink to latest version
+			├ 0.1.0
+			┊
+			└ X.Y.Z						<- versions of the project
+				├ package.json			<- must include package.json
+				├ build					<- project files
+				├ node_modules
+				└ yarn.lock
 ```
 
-## Building
-
-To create a production version of your app:
-
+if on the tiny $4/mo server, in order to run `npm install` you have to give the server some more memory (swap memory) with:
 ```bash
-npm run build
+sudo /bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=1024
+sudo /sbin/mkswap /var/swap.1
+sudo /sbin/swapon /var/swap.1
 ```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+have `yarn` installed to use instead (since it uses less memory)
