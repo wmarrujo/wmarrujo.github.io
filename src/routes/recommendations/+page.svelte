@@ -12,5 +12,6 @@
 	</AppBar>
 	<div class="flex justify-center">
 		<h1 class="h1">Recommendations</h1>
+		<p>🚧 Under Construction 🚧</p>
 	</div>
 </AppShell>

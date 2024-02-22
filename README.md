@@ -27,7 +27,7 @@ or alternately preview with `HOST=127.0.0.1 PORT=3000 node build/index.js`
 
 copy the files to the server `scp -pr package.json build wmarrujo@wmarrujo.com:/var/www/wmarrujo/X.Y.Z`<br>
 log on to the server and go to the `/var/www/wmarrujo` directory<br>
-re-bind the latest symlink `ln -s X.Y.Z latest`<br>
+re-bind the latest symlink `rm latest && ln -s X.Y.Z latest`<br>
 navigate inside the `latest` directory (or the `X.Y.Z` directory)<br>
 download necessary node dependencies `yarn install --prod`<br>
 reload server `pm2 restart wmarrujo`
