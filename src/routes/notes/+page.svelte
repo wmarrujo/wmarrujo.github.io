@@ -11,7 +11,9 @@
 		</svelte:fragment>
 	</AppBar>
 	<div class="flex justify-center">
-		<h1 class="h1">Notes</h1>
-		<p>🚧 Under Construction 🚧</p>
+		<article class="prose lg:prose-xl prose-invert shadow-lg p-10">
+			<h1 class="h1 text-center">Notes</h1>
+			<p>🚧 Under Construction 🚧</p>
+		</article>
 	</div>
 </AppShell>
