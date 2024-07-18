@@ -1,10 +1,10 @@
 <script lang="ts">
 	import {onMount} from "svelte"
 	
-	import logo from "$lib/images/logos/logo-dark.svg"
-	import aaosc from "$lib/images/logos/aaosc-dark.svg"
-	import github from "$lib/images/logos/github-dark.svg"
-	import linkedin from "$lib/images/logos/linkedin-dark.svg"
+	import logo from "$lib/images/logos/logo.svg"
+	import tradeseek from "$lib/images/logos/tradeseek.svg"
+	import github from "$lib/images/logos/github.svg"
+	import linkedin from "$lib/images/logos/linkedin.svg"
 	
 	import capri from "$lib/images/profiles/capri.jpeg?enhanced"
 	import forum from "$lib/images/profiles/forum.jpeg?enhanced"
@@ -64,7 +64,7 @@
 			<li class="grow hover:text-yellow-200"><a href="recommendations" class="h-full">Recommendations</a></li>
 		</ul>
 		<div class="flex flex-row justify-between py-10 md:py-20 px-10 md:pr-20">
-			<a href="https://factory-twin.com"><img src={aaosc} alt="Advisory Aerospace Icon" class="w-12"></a>
+			<a href="https://tradeseek.co"><img src={tradeseek} alt="TradeSeek Icon" class="w-12"></a>
 			<a href="https://github.com/wmarrujo"><img src={github} alt="Github Logo" class="w-12"></a>
 			<a href="https://linkedin.com/in/wmarrujo"><img src={linkedin} alt="LinkedIn Logo" class="w-12"></a>
 		</div>
