@@ -23,6 +23,7 @@
 						<li><a href="https://agilemanifesto.org/">Agile</a> (<a href="https://agilemanifesto.org/principles.html">12 principles</a>)</li>
 						<li><a href="https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13">The Cult of Done</a></li>
 						<li><a href="https://content.chrisguillebeau.com/wp-content/uploads/2023/05/worlddomination.pdf">A Brief Guide to World Domination</a></li>
+						<li><a href="https://www.jofreeman.com/joreen/tyranny.htm">The Tyranny of Structurelessness</a></li>
 					</ul>
 				</li>
 				<li><a href="https://docs.google.com/spreadsheets/d/1KRnU3sqC9SOir41nX-W9bFKeoXA2moFyOQl5owUbIY0/edit?usp=sharing">Books</a></li>
@@ -37,10 +38,11 @@
 						<li><a href="https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/">5D Chess</a></li>
 					</ul>
 				</li>
-				<li>Youtube Channels
+				<li>Creators
 					<ul>
 						<li>Math & Science
 							<ul>
+								<li><a href="https://ncase.me/">Nicky Case</a></li>
 								<li><a href="https://www.youtube.com/@3blue1brown">3Blue1Brown</a></li>
 								<li><a href="https://www.youtube.com/@AlphaPhoenixChannel">AlphaPhoenix Channel</a></li>
 								<li><a href="https://www.youtube.com/@braincraft">BrainCraft</a></li>
