@@ -24,6 +24,7 @@
 						<li><a href="https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13">The Cult of Done</a></li>
 						<li><a href="https://content.chrisguillebeau.com/wp-content/uploads/2023/05/worlddomination.pdf">A Brief Guide to World Domination</a></li>
 						<li><a href="https://www.jofreeman.com/joreen/tyranny.htm">The Tyranny of Structurelessness</a></li>
+						<li><a href="https://12factor.net/">The Twelve-Factor App</a></li>
 					</ul>
 				</li>
 				<li><a href="https://docs.google.com/spreadsheets/d/1KRnU3sqC9SOir41nX-W9bFKeoXA2moFyOQl5owUbIY0/edit?usp=sharing">Books</a></li>
