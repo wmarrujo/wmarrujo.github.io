@@ -25,6 +25,8 @@
 						<li><a href="https://content.chrisguillebeau.com/wp-content/uploads/2023/05/worlddomination.pdf">A Brief Guide to World Domination</a></li>
 						<li><a href="https://www.jofreeman.com/joreen/tyranny.htm">The Tyranny of Structurelessness</a></li>
 						<li><a href="https://12factor.net/">The Twelve-Factor App</a></li>
+						<li><a href="https://youtu.be/rDDaEVcwIJM?si=SMRy32925p7w-1_5">The Best Way to Count</a></li>
+						<!-- TODO: read it fully first <li><a href="https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/328/George_0777_EBk_v6.0.pdf">Progress & Poverty</a></li> -->
 					</ul>
 				</li>
 				<li><a href="https://docs.google.com/spreadsheets/d/1KRnU3sqC9SOir41nX-W9bFKeoXA2moFyOQl5owUbIY0/edit?usp=sharing">Books</a></li>
