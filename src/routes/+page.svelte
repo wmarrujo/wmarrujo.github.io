@@ -18,7 +18,7 @@
 	import villa from "$lib/images/profiles/villa.jpeg?enhanced"
 	import zoo from "$lib/images/profiles/zoo.jpeg?enhanced"
 	
-	// has the images, and the vertical in the image with my face on it, so we can center it properly on a thin screen
+	// has the images, and the vertical line in the image with my face on it, so we can center it properly on a thin screen
 	const profiles = [
 		{image: capri, face: 0.60},
 		{image: forum, face: 0.20},

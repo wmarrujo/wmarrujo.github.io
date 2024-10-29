@@ -41,6 +41,12 @@
 						<li><a href="https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/">5D Chess</a></li>
 					</ul>
 				</li>
+				<li>Organizations
+					<ul>
+						<li><a href="https://www.gapminder.org/">GapMinder</a></li>
+						<li><a href="https://www.theschooloflife.com/">The School of Life</a></li>
+					</ul>
+				</li>
 				<li>Creators
 					<ul>
 						<li>Math & Science
