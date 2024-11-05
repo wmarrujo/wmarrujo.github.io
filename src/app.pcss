@@ -8,6 +8,9 @@
 	src: url("/fonts/JosefinSans-Regular.ttf")
 }
 
-:root [data-theme="wintry"] {
-	--theme-font-family-heading: "Josefin Sans", sans-serif;
+@layer base {
+	body {
+		@apply bg-base;
+		color: white;
+	}
 }
