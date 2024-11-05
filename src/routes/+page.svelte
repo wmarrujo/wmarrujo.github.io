@@ -48,22 +48,24 @@
 	}
 </script>
 
-<div class="h-lvh w-full tablet:flex tablet:flex-row overflow-x-hidden tablet:overflow-y-hidden">
-	<div class="w-full tablet:w-2/3 h-2/3 tablet:h-lvh relative">
-		<div id="profile-container" class="h-full">
-			<enhanced:img id="profile" src={profile.image} alt="William in some cool place" />
+<div class="h-lvh w-full laptop:flex laptop:flex-row overflow-x-hidden laptop:overflow-y-hidden">
+	<div class="w-full laptop:w-[calc(100%-25rem)] h-2/3 laptop:h-lvh relative">
+		<div id="profile-shadow" class="h-full">
+			<div id="profile-container" class="h-full">
+				<enhanced:img id="profile" src={profile.image} alt="William in some cool place" />
+			</div>
 		</div>
-		<h1 class="font-title text-8xl absolute top-0 left-0 pt-10 px-5 tablet:pt-20 tablet:px-20 drop-shadow-lg">William Marrujo</h1>
+		<h1 id="title" class="font-title text-8xl absolute top-0 left-0 pt-10 px-5 laptop:pt-20 laptop:px-20">William Marrujo</h1>
 	</div>
-	<nav class="w-full tablet:w-1/3 flex flex-col justify-between">
-		<img src={logo} alt="logo" class="w-1/5 tablet:w-1/3 m-10 tablet:m-20 self-center">
-		<ul class="grow flex flex-col pr-10 tablet:pr-20 text-3xl tablet:text-4xl items-end">
+	<nav class="w-full laptop:w-[25rem] flex flex-col justify-between">
+		<img src={logo} alt="logo" class="w-32 laptop:w-1/3 m-10 laptop:m-20 self-center">
+		<ul class="grow flex flex-col pr-10 laptop:pr-20 text-3xl laptop:text-4xl items-end">
 			<li class="grow hover:text-yellow-200"><a href="about" class="h-full">About</a></li>
 			<li class="grow hover:text-yellow-200"><a href="notes" class="h-full">Notes</a></li>
 			<li class="grow hover:text-yellow-200"><a href="projects" class="h-full">Projects</a></li>
 			<li class="grow hover:text-yellow-200"><a href="recommendations" class="h-full">Recommendations</a></li>
 		</ul>
-		<div class="flex flex-row justify-between py-10 tablet:py-20 px-10 tablet:pr-20">
+		<div class="flex flex-row justify-between py-10 laptop:py-20 px-10 laptop:pr-20">
 			<a href="https://tradeseek.co"><img src={tradeseek} alt="TradeSeek Icon" class="w-12"></a>
 			<a href="https://github.com/wmarrujo"><img src={github} alt="Github Logo" class="w-12"></a>
 			<a href="https://linkedin.com/in/wmarrujo"><img src={linkedin} alt="LinkedIn Logo" class="w-12"></a>
@@ -72,10 +74,21 @@
 </div>
 
 <style lang="postcss" scoped>
+	#title {
+		text-shadow: 1px 0.5px 0px lightgray, -1px 1px 4px rgba(0, 0, 0, 0.8);
+	}
+	
+	#profile-shadow {
+		filter: drop-shadow(-2px 3px 4px black);
+		@screen laptop {
+			filter: drop-shadow(3px -2px 4px black);
+		}
+	}
+	
 	#profile-container {
-		clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
-		@screen tablet {
-			clip-path: polygon(0 0, 100% 0, 80% 100%, 0 100%);
+		clip-path: polygon(0 0, 100% 0, 100% calc(100% - 4em), 0 100%);
+		@screen laptop {
+			clip-path: polygon(0 0, 100% 0, calc(100% - 8em) 100%, 0 100%);
 		}
 	}
 	
