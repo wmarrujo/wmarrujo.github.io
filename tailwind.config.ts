@@ -16,11 +16,9 @@ export default {
 		},
 		extend: {
 			colors: {
-				"base": "#001225",
-				"base-light": "#00203D",
-				"base-content": "#FFF7CE",
+				"primary": "#003566",
+				"primary-content": "#FFF7CE",
 				"accent": "#FFC300",
-				"accent-light": "#FFD60A",
 				"accent-content": "#000814",
 			},
 			fontFamily: {
