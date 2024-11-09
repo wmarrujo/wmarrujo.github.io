@@ -4,7 +4,7 @@
 
 <nav class="flex items-center gap-4 p-3">
 	<a href="/"><img src={logo} alt="Logo" class="w-6"></a>
-	<a href="/about" class="hover:underline">About</a>
+	<a href="/#about" class="hover:underline">About</a>
 	<a href="/notes" class="hover:underline">Notes</a>
 	<a href="/projects" class="hover:underline">Projects</a>
 	<a href="/recommendations" class="underline">Recommendations</a>
