@@ -36,11 +36,19 @@
 	function onMouseLeave() { x = 0.5; y = 0.5 }
 </script>
 
-<div onmousemove={onMouseMove} onmouseleave={onMouseLeave} role="listitem" class="card" style={style ?? ""}>
-	<div class="card-inner {className}">
-		{@render children?.()}
+{#if href}
+	<a {href} onmousemove={onMouseMove} onmouseleave={onMouseLeave} class="card" style={style ?? ""}>
+		<div class="card-inner {className}">
+			{@render children?.()}
+		</div>
+	</a>
+{:else}
+	<div onmousemove={onMouseMove} onmouseleave={onMouseLeave} role="listitem" class="card" style={style ?? ""}>
+		<div class="card-inner {className}">
+			{@render children?.()}
+		</div>
 	</div>
-</div>
+{/if}
 
 <style lang="postcss">
 	.card {
