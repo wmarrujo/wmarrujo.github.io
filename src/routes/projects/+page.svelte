@@ -36,7 +36,7 @@
 	<a href="/notes" class="hover:underline">Notes</a>
 	<a href="/recommendations" class="hover:underline">Recommendations</a>
 </nav>
-<main class="flex gap-10 flex-wrap justify-center laptop:p-10">
+<main class="flex gap-10 flex-wrap justify-center py-10 laptop:p-10">
 	<Card href="https://tradeseek.co" class="p-4 rounded-xl w-[24rem] h-[32rem] bg-secondary flex flex-col gap-2">
 		<img src={TradeSeek} alt="TradeSeek landing page" class="h-[16rem] w-full object-cover rounded-md">
 		<div class="flex flex-col grow">

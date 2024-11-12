@@ -36,8 +36,8 @@
 	function onMouseLeave() { x = 0.5; y = 0.5 }
 </script>
 
-<div onmousemove={onMouseMove} onmouseleave={onMouseLeave} role="listitem" class="card" {style}>
-	<div class="card-inner w-full h-full {className}">
+<div onmousemove={onMouseMove} onmouseleave={onMouseLeave} role="listitem" class="card" style={style ?? ""}>
+	<div class="card-inner {className}">
 		{@render children?.()}
 	</div>
 </div>

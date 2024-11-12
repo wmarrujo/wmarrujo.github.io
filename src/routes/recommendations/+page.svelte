@@ -10,7 +10,7 @@
 	<a href="/recommendations" class="underline">Recommendations</a>
 </nav>
 <main class="flex justify-center">
-	<article class="prose lg:prose-xl prose-invert shadow-lg p-10">
+	<article class="prose lg:prose-xl prose-invert p-10">
 		<h1 class="h1 text-center font-title">Recommendations</h1>
 		<ul class="text-2xl">
 			<li>Manifestos
