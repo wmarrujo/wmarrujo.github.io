@@ -36,8 +36,7 @@
 	const profile = profiles[Math.floor(Math.random() * profiles.length)]
 	
 	onMount(() => {
-		
-		document.querySelector<HTMLImageElement>("#profile")!.style.objectPosition = `${profile.face * 100}% 50%` // NOTE: no good way to stop jitter when mouse first moves after page loads
+		document.querySelector<HTMLImageElement>("#profile")!.style.objectPosition = `${profile.face * 100}% 50%` // TODO: find a way to stop jitter when mouse first moves after page loads (maybe css transition timings?)
 		
 		if (window.matchMedia("(pointer:fine)").matches) addEventListener("mousemove", pointerMoved) // if the device has a mouse
 		// else addEventListener("deviceorientation", deviceOrientationChanged) // if the device doesn't have a mouse // TODO: enable parallax on device tilting for phones & tablets
@@ -117,7 +116,7 @@
 	
 	.nav-link {
 		background-size: 220% auto;
-		background-image: linear-gradient(-0.2turn, #FFD60A 0%, #FFD60A 45%, #FFF1AD 50%, #FFD60A 55%, #FFD60A 100%);
+		background-image: linear-gradient(-0.2turn, #FFC300 0%, #FFC300 45%, #FFF1AD 50%, #FFC300 55%, #FFC300 100%);
 		background-position: right center;
 		transition: 0.5s;
 		box-shadow: 2px 2px 4px black;

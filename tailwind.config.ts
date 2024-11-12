@@ -18,6 +18,8 @@ export default {
 			colors: {
 				"primary": "#003566",
 				"primary-content": "#FFF7CE",
+				"secondary": "#002A52",
+				"secondary-content": "#FFF7CE",
 				"accent": "#FFC300",
 				"accent-content": "#000814",
 			},

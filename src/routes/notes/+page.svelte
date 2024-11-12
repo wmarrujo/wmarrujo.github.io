@@ -58,7 +58,7 @@
 </script>
 
 <nav class="flex items-center gap-4 p-3">
-	<a href="/"><img src={logo} alt="Logo" class="w-6"></a>
+	<a href="/"><img src={logo} alt="Logo" class="w-6 min-w-6"></a>
 	<a href="/#about" class="hover:underline">About</a>
 	<a href="/projects" class="hover:underline">Projects</a>
 	<a href="/notes" class="underline">Notes</a>
@@ -66,7 +66,7 @@
 </nav>
 <main class="flex justify-between flex-wrap gap-6 p-6">
 	{#each notes as note, index (index)}
-		<a href={note.link} class="bg-slate-800 flex items-center shadow-lg">
+		<a href={note.link} class="bg-slate-800 flex items-center shadow-lg grow max-w-96 hover:scale-105 transition-all">
 			<img src={note.image} alt="icon" class="h-16">
 			<span class="text-white text-lg px-6">{note.title}</span>
 		</a>
