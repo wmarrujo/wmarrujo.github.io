@@ -126,7 +126,7 @@
 		background-position: left -5rem center;
 		text-decoration: none;
 		box-shadow: 2px 4px 4px black;
-		transform: scale(1.02);
+		transform: scale(1.01) translateX(-0.5%);
 	}
 	
 	.nav-link:active {
