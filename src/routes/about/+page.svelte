@@ -22,10 +22,10 @@
 			<li>Enabling effective communication of difficult topics</li>
 		</ul>
 		
-		<h2>Principles</h2>
+		<!-- <h2>Principles</h2> -->
 		<!-- TODO: principles -->
 		
-		<h2>Experience & Accomplishments</h2>
+		<!-- <h2>Experience & Accomplishments</h2> -->
 		<!-- TODO: link to resume -->
 		
 		<h2>Over the years I've accumulated many principles of good engineering, and software engineering in particular:</h2>
