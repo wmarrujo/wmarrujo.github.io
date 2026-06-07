@@ -1,0 +1,2576 @@
+# Wisdom
+
+- The only way to make a person do something is to make them want to do it
+- Bose-Einstein Condensates are Cool
+- All is fair in Love and War
+- All people are NOT created Equal
+- Influence is Power
+- It's not that A players don't work well with anyone, it's just that they want to work with other A players, not B or C players
+- Take a risk only when you know you'll win
+- The best part of waking up is going back to sleep
+- Required volunteering is not volunteering
+- Judge non-fiction books by their covers
+- If it sounds right, it's probably right
+- If at first you don't succeed, you're not Chuck Norris
+- Whoever eats the fastest gets the most!
+- Songs that are noticeably short usually don't last that long
+- Lost time is never found
+- The more you practice the luckier you get
+- You can't be late until you show up
+- War doesn't determine who's right, war determines who's left
+- It's always darkest before it turns absolutely pitch black
+- Today is the longest day - ever (by 63 ns/day)
+- Never interrupt your opponent while he's making a mistake
+- Friendships last when each thinks he has a slight superiority over the other
+- There is nothing more annoying than someone talking while you are trying to interrupt
+- If you want to become rich, you're never going to become rich; If you want to do it because it's good, you have a good chance of becoming rich
+- You'll never learn to appreciate something until you've experienced worse
+- Cords & Clothes always seem to find a way to get directly under the wheels of your rolling chair
+- Give people a second chance, but not a third
+- Don't waste time playing cards
+- Never ask a a lawyer or accountant for business advice, they are trained to find problems, not solutions
+- If it doesn't work, debug it. If it still doesn't work, re-write it in assembler. This won't fix the bug, but it will make sure no one else finds it and makes you look bad
+- The motivation for any action is to try to make the situation better
+- Self Evaluations: If I didn't think I did it well, I would have done it differently
+- The only thing we learn from history is that no one learns from history
+- An eye for an eye leaves the whole world monocular
+- There is no steady job that can't be done better by a robot
+- God is exactly who you want him to be
+- Winning isn't the most important part of it - It's the only part of it
+- Procreating how one Wins at Life
+- Assigned notes are not notes
+- Don't quit - You'll suffer now, but you'll live the rest of your life a champion
+- Live long and prosper
+- Be proud of what you don't do
+- There's a way to do it better - find it
+- Never leave that for tomorrow which you can do today
+- The way to fit in is to be predictable
+- The way to be interesting is to be unpredictable
+- During every decision, be always thinking: what would people say at my funeral if I were to die immediately; without being able to say last words
+- Two halves make a whole only if they're connected
+- Don't turn discussions into fights
+- treat others as you would like them to treat you
+- Amateurs practice until they get it right - Professionals practice until they can't get it wrong
+- True delight is in the finding out rather than the knowing
+- Some will scarce believe that such a one as this ever walked upon this earth
+- In order to be #1 you must make everyone else #2
+- It's hard to explain puns to thieves because they always take things literally
+- It is not that our senses deceive us, it is just that we must learn to not be fooled by their limitations
+- The key to life is structured Asymmetry
+- It is very easy to be different, but very difficult to be better
+- In the cave that you fear to enter lies the treasure you seek
+- Trying to put an idea into words is like trying to represent the world as a map
+- Our worldly substitute for telepathy is rituals
+- until you show someone that they don't have the right to do something, they still have a right to do it
+- The thing is to rise to the top without losing yourself in the process
+- anything you feel you have to study for, you know you're not learning
+- if something is grindy, there's a better way
+- Never answer the question that has been asked of you - Answer the question that you wish had been asked of you
+- people don't buy what you do, they buy why you do it
+- you don't want to be smart, you want to be wise - Smartness gets you money, wisdom gets you success
+- Why you don't make radical decisions is because you know what you want, but you also know what you don't want
+- Don't follow rules - unless they make sense
+- In order for your ventures to have true success, the goal must be an Ideal
+- If you do what you always did, you will get what you always got
+- Everything is temporary
+- Everything is permanent
+- When in doubt, eat your hamburger upside-down
+- Education is not the learning of facts, but of training the mind to think
+- If you don't build your dream, someone else will hire you to build theirs
+- It is not good enough to be good, you must be the best
+- It is not good enough to be the best, you must know how to use your abilities
+- Abandon the myth of pure evil
+- If you're not sure of yourself, use a pencil. If you're sure of yourself, use a pen. If you don't want to be sure of yourself, use a pencil
+- Every generation must rediscover democracy
+- Just because something is legal is not any reason to think it is the right thing to do & just because something is illegal doesn't mean it's wrong
+- Jealousy works the opposite way you want it to
+- the youth are not the future - you determine the future
+- even a broken clock is right twice a day
+- sometimes it's the people who often imagine things that can do the things that no one can imagine
+- the "paradox" is only a conflict between reality and what you think reality ought to be
+- nostalgia is not a fatal disease
+- an artists job is a long conversation with the audience
+- An army of deer led by a lion is more to be feared than an army of lion led by a deer, but an army of lions led by a lion is to be feared most of all
+- the first thing the enemy tries to do is isolate revolutionaries from the people, making us horrible and hideous monsters so that the people will hate us
+- The only way to have a friend is to be one
+- Alcohol is borrowing happiness from tomorrow
+- True nobility is being better than one's former self
+- Compositionality is The way to control complexity
+- those who dance are judged insane by those who can't hear the music
+- Every time people try to end a war before it starts, innocent people die
+- The wheels keep turning, but that only matters to the people on the rim
+- If you want something done efficiently, hire a lazy worker
+- Qui ne dit mot consent
+- The Human Brain only operates at 10% efficiency - the rest is overhead for the operating system
+- To doubt everything or to believe everything are two equally convenient solutions; both dispense with the necessity of reflection
+- Happiness isn't having what you want, it's wanting what you have
+- You don't become a failure until you're satisfied with being one
+- Your first projects aren't the greatest things in the world, and they may have no money value, they may go nowhere, but that is how you learn - you put so much effort into making something right if it is for yourself
+- Friends may come and go, but enemies accumulate
+- Arbitrary decisions hinder generality
+- Redundancy is good. Redundancy is good
+- An error does not become a mistake until you refuse to correct it
+- There is no education that is not political; An apolitical education is also political because it is purposely isolating
+- I have gained this from philosophy: that I do without being commanded, what others do only from fear of the law
+- If at first you do succeed, try to hide your astonishment
+- Art is advertising for the great truths
+- We are all creatures who love. Love is attracted to beauty. So whatever we wish people to love we must first make beautiful
+- Half of being knowledgeable about something is being able to find more information about it
+- Sometimes people are so intent on making their mark on the world they don't care if it's a scar
+- I have never met a man so stupid I could not learn something from him
+- "Euphemism" has become a euphemism for "bald-faced lie"
+- Willpower is how you change habits
+- May you live in uninteresting times
+- In a world which all too often is merciless to the sinner and lenient to the sin, we need to cultivate a strong sense of justice
+- About the time we think we can make ends meet, somebody moves the ends
+- The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not
+- I don't mind arguing with myself - It's when I lose that it bothers me
+- You will never come up against a greater adversary then your own potential
+- Strength may be useless when faced with terrorism
+- Anything created must necessarily be inferior to the essence of the creator
+- Any sufficiently advanced technology is indistinguishable from magic
+- Most of your faults are not your fault
+- Thieves respect property; they merely wish the property to become their property that they may more perfectly respect it
+- Two wrong's don't make a right, but three left's do
+- Death before dishonor - but neither before breakfast
+- Be weary of stooping so low that you can't get back up
+- Politics: the gentle art of getting votes from the poor and campaign funds from the rich by promising to protect each from the other
+- It is not possible to parody something so significantly that someone will not confuse it for the real thing
+- They're on our right, they're on our left, they're in front of us, they're behind us; they can't get away from us this time!
+- Youth is such a wonderful thing, what a crime to waste it on children
+- You've got to have a gimmick if your brand sucks
+- Text processing has made it possible to right-justify any idea, even one which cannot be justified on any other grounds
+- Hire the morally handicapped
+- No person should ever give up their privacy in the promise of security
+- Half of writing history is hiding the truth
+- Rely on time rather than timing
+- Insanity is the final defense
+- The only limits to our realization of tomorrow will be our doubts of today
+- Men who cherish for women the highest respect are seldom popular with them
+- The director does not play their instrument by air or percussion, but by rational instruction and gesture
+- The computer will do exactly what you tell it to do, especially if it is not what you mean
+- There are two ways to make error free programs - only the third one works
+- God is real. Unless declared integer
+- Any code of your own that you haven't looked at for six months might as well have been written by someone else
+- Never put off until run time what you can do at compile time
+- If you give someone a program, you will frustrate them for a day. If you teach them to program, you will frustrate them for a lifetime
+- If builders built buildings the way coders write programs, then the first woodpecker that came along would destroy civilization
+- Before borrowing money from a friend, decide which you need more
+- Money and women are the most sought after and the least known of any two things we have
+- You've got to be very careful if you don't know where you're going
+- Everything has some value - if you use the right currency
+- Paint splashes last longer than the paint job
+- Search and ye shall find - but make sure it was lost
+- There is no such thing as a "big idea" that changes the world
+- Genius is a team sport
+- Hindsight is always 20/20
+- Teaching is the highest form of understanding
+- Those who can't do, teach. those who can't teach, teach gym
+- Life is like a shit sandwich, it's better with more bread
+- The moment you ask someone if they found a certain lego, you find it yourself
+- One does not change society by politics, one changes society through the education system
+- Evil is that which one believes of others; It is a sin to believe evil of others, but it is seldom a mistake
+- There is no science to Coincidence
+- If there is no struggle, there is no progress
+- Power concedes nothing without a demand. It never did and it never will
+- It is easier to build strong children than to repair broken men
+- Do not rely on obscurity as your primary security measure
+- It's a fairly simple thing to improve things, but in many cases only whole-scale reworking will actually fix the problem
+- Human resources are human first, and resources second
+- A hungry dog hunts best
+- In order to rise from its ashes, a phoenix first must burn
+- Make the marvelous seem mundane, then the mundane will seem marvelous
+- Regardless of whether a mission expands or contracts, administrative overhead continues to grow at a steady rate
+- A quote for all the ages: "And this too, shall pass away"
+- Do not put your trust in money, put your money in trust
+- We all declare for liberty, but in using the same word we do not all mean the same thing
+- One man's "simple." is another man's  "huh?"
+- A soft answer turneth away wrath; but grievous words stir up anger
+- Not all that is gold glitters
+- Deep roots are untouched by the frost
+- A carelessly planned project takes three times longer to complete than expected; a carefully planed project takes only twice as long
+- In theory, there is no difference between theory and practice. In practice, there is
+- War is never imperative
+- If you want to go fast, go alone. If you want to go far, go together
+- Behind every successful child is an astonished parent
+- The problem today that we'll have to repent for is not the vitriolic words or the actions of the bad people, but the silence and indifference of the good people
+- No idea is above scrutiny
+- No person is below dignity
+- If not you, who? If not now, when?
+- Power is only given to those who are willing to lower themselves to pick it up
+- No matter what the anticipated result, there will always be someone eager to misinterpret it, fake it, or believe it happened according to his own pet theory
+- Fashion is for those with no taste
+- Education is where you convince yourself that what they're telling you is true rather than just taking it as the authority gives you
+- Don't mistake kindness for weakness
+- Intelligence does not replace hard work
+- A free society is one where it's safe to be unpopular
+- It is always better to know the full truth, than to live in a lie, however appealing that lie may be by comparison
+- It's useless to try to hold some people to anything they say while they're madly in love, drunk, or running for office
+- One way to make your old car run better is to look up the price of a new model
+- Whoever undertakes to set himself up as a judge of Truth and Knowledge is shipwrecked by the laughter of the gods
+- To err is human, to forgive, is outside the scope of the Operating System
+- Real users never know what they want, but they always know when your program doesn't deliver it
+- All that glitters has a high refractive index
+- A smooth sea never made a skilled sailor
+- Facts are stubborn, but statistics are more pliable
+- The aim of education is not to put knowledge into the soul, but to put the right desires into the soul - to fill the soul with a lust for truth, so that it desires to move past the visible world, into the intelligible, ultimately to the Form of the Good
+- He who lives without folly is less wise than he believes
+- Accept the things you Cannot Change, Change the things you cannot accept, be wise enough to know the difference
+- If you have a worldview that can be undone by a novel, the problem is not with the novel
+- The reliability of machinery is inversely proportional to the number and significance of any persons watching it
+- People who develop the habit of thinking of themselves as world citizens are fulfilling the first requirement of sanity in our time
+- Imbalance of power corrupts, and monopoly of power corrupts absolutely
+- If you tell the truth, you don't have to remember anything
+- Every once in a while, declare peace - It confuses the hell out of your enemies
+- Influence is not about convincing people to want different things than they already want, but it's about showing them that the way to get what they want is by following you
+- We have to be able to trust each other or society falls apart
+- Ten people who speak make more noise than ten thousand who are silent
+- strength incites challenge - challenge incites conflict - and conflict breeds catastrophe
+- Never hold a belief out of spite
+- An intellectual is someone whose mind watches itself
+- Nothing is so good that somebody somewhere will not hate it
+- The only way of discovering the limits of the possible is to venture a little way past them into the impossible
+- Facts do not cease to exist because they are ignored
+- Tonight we dine on the labor of centuries
+- A commune is where people go to share their lack of wealth
+- Experience is a good teacher, but she sends in terrific bills
+- Never argue invoking the law except in a cause for which you are willing to kill
+- Art is a most visceral encounter with the most important ideas of your faith
+- If you want to change the world, you have to be collaborative
+- Art is the discipline that is designed to get important concepts powerfully into our imagination
+- You cannot strengthen the weak by weakening the strong
+- If we were to strive to reach absolute safety, we would not have freedom
+- Never attribute to malice what can be explained by incompetence
+- We judge ourselves by what we feel capable of doing, while others judge us by what we have done
+- We are what we pretend to be, so we must be careful of what we pretend to be
+- Nothing recedes like success
+- The greatest fault is to be conscious of none
+- Mother is far too clever to understand anything she does not like
+- Remember you're unique - just like everyone else
+- Once you know love, you can love anyone
+- The tree of learning bears the noblest fruit - but noble fruit tastes bad
+- A wise person makes his own decisions, a weak one obeys public opinion
+- Don't tell me what you value, show me your budget and I will tell you what you value
+- Where there's a will, there's a relative
+- Don't worry about grades, so long as they don't restrict you
+- Don't worry about weight, so long as you will remain healthy
+- Humans model the world to understand it
+- You are only young once, but you can stay immature indefinitely
+- Remember, even if you win the rat-race, you're still a rat
+- Riches cover a multitude of woes
+- Retirement means that when someone says "have a nice day", you actually have a shot at it
+- Wait until something's broken and you've waited too long
+- Pencils, when dropped, will either be caught, or fall to the lowest possible spot
+- If you wait until you know everything, you'll never do anything
+- While anyone can admit to themselves they were wrong, the true test is admission to someone else
+- When you come to a fork in the road - pick it up
+- Get to the point where you want to explain yourself to other people
+- Never let your schooling interfere with your education
+- Abstractness is the price of generality
+- No one has a monopoly on righteousness
+- All things that are, are with more spirit chased than enjoyed
+- Imagine others complexly
+- Be regular and orderly in your life, so that you may be violent and original in your work
+- The relative importance of files depends on their cost in terms of the human effort needed to regenerate them
+- The only thing worse than being blind, is having sight, but no vision
+- Time is precious, waste it wisely
+- There are two types of people, those who divide people into two types, and those who don't
+- Procrastination is the key to tomorrow's success
+- A penny saved has not been spent
+- Words must be weighted, not counted
+- The problem with grad students, in general, is that they have to sleep every few days
+- The Law, in its majestic equality, forbids the rich, as well as the poor, to sleep under the bridges, to beg in the streets, and to steal bread
+- It may be bad manners to talk with your mouth full, but it isn't too good either if you speak when your head is empty
+- What we Are is God's gift to us - What we Become is our gift to God
+- If you've already convinced yourself, be sure you can convince someone else too
+- God must love the common man, after all, he made so many of them
+- There's always free cheese in a mousetrap
+- People are alike in dignity but different in culture
+- Aging is a case of mind over matter, if you don't mind, it don't matter
+- You will tell them everything they need to know upon the sole condition that they convince you that they want what you want
+- The difference between screwing around and science is writing it down
+- A computer without COBOL and Fortran is like a piece of chocolate cake without ketchup and mustard
+- What's the difference between ignorance and indifference? I don't know, and I don't care
+- You are never given a wish without also being given the power to make it true - you may have to work for it however
+- The very powerful and the very stupid have one thing in common: Instead of altering their views to fit the facts, they alter the facts to fit their views... which can be very uncomfortable if you happen to be one of the facts that needs altering
+- Nostalgia isn't what it used to be
+- If you only have a hammer, you tend to see every problem as a nail
+- A little inaccuracy saves a world of explanation
+- If you aren't rich you should always look useful
+- Do not seek death; death will find you. But seek the road which makes death a fulfillment
+- That all men should be brothers is the dream of men that have no brothers
+- People grow old only by deserting their ideals
+- The hardest part of climbing the ladder of success is getting through the crowd at the bottom
+- The real trouble with reality is that there's no background music
+- If you get close enough, that's probably good enough
+- The thickness of the proposal required to win a multimillion dollar contract is about one millimeter per million dollars. If all the proposals confirming this standard were piled on top of each other at the bottom of the grand canyon, it would probably be a good idea
+- Ninety percent of the time things will turn out worse than you expect - the other 10 percent of the time you had no right to expect so much
+- The early bird gets the worm, and the early worm gets eaten
+- Never promise to complete any project within six months of the end of the year - in either direction
+- Most projects start out slowly, and then sort of taper off
+- Conformity is the refuge of the uncreative
+- Life does not begin at the moment of conception or the moment of birth - It begins when the kids leave home and the dog dies
+- If you are given an open-book exam, you will forget your book - If you are given a take-home exam, you will forget where you live
+- In order to get a loan, you must first prove you don't need it
+- Democracy is a form of government that substitutes the election by the many for appointment by the corrupt few
+- Only the hypocrite is really rotten to the core
+- Only a fool has no doubts
+- Be consistent in following your own conventions
+- Establish a good set of defaults
+- Be boring and orderly in your life so that you may be violent and original in your work
+- If you’re not paying, you’re the product
+- Curiosity was framed, Ignorance killed the cat
+- If you do something not because it is easy but because it is hard, then you're doing it for bragging rights
+- People will forget what you said, people will forget what you did, but people will never forget how you made them feel
+- Beauty is the promise of happiness
+- Smart people learn by their mistakes, and wise people learn from others
+- Any computer is a laptop if you're brave enough
+- We never lose our demons, we only learn to live above them
+- Knowing why ten things will not work is more important than not knowing why one does
+- It's nice to be first, but the money's on being better
+- Experience is a difficult teacher, because she gives you the test first, and the lesson afterward
+- Live Deliberately
+- Research is to see what everyone has seen, and think what nobody has thought
+- Things may come to those who wait, but only the things left by those who hustle
+- Nearly all men can stand adversity, but if you want to test a man’s character, give him power
+- Have an obsession for improvement
+- A goal without a plan is just a wish
+- Crisis doesn't make heroes, crisis reveals who people were before it happened
+- Motivation is garbage, it's never there when you need it
+- Consistency makes things look more beautiful than using even the most beautiful components
+- In the minds of geniuses, we find - once more - our own neglected thoughts
+- You can live the entire rest of your life without breathing
+- The tricky part about anything which confers the benefit of originality is that this benefit cannot be easily shared
+- A sheltered life can be a daring life for all serious daring starts from within
+- If there is no enemy within, the enemy outside can do no harm
+- They are allowed to do anything we cannot stop them from doing
+- Sports is to war as pornography is to Sex
+- Life is not a zero-sum game
+- Your adversaries are not as dumb as you want them to be
+- The best way to predict the future is to create it
+- Energy is not something you have - it's something you do
+- You are the sum of the 5 people you surround yourself with
+- Money does not bring happiness, it brings access
+- Boys ask for permission - Men take charge
+- The effect you have on others is the most valuable currency there is
+- Competence breeds Confidence
+- Wealth consists not in having great possessions, but in having few wants
+- The greatest dangers to liberty lurk in the insidious encroachment by men of zeal, well meaning but without understanding
+- Leadership is not a rank or position, it is a decision
+- Not doing something impactful is a much bigger risk than financial or social failure
+- Every decision we make in our lives is a piece of communication
+- If you don't understand people, you don't understand business
+- The quality of your life is directly related to the quality of your communication
+- Love is not something you have to go looking for when it's where you come from
+- People tend to be whatever you make them
+- The opposite of success is mediocrity
+- An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question
+- The value of an idea lies in using it
+- The fastest way to change yourself is to hang out with people who are already the way you want to be
+- You are not entitled to your opinion. You are entitled to your informed opinion. No one is entitled to be ignorant
+- Even the most powerful humans are fragile and mortal creatures in a very large universe that is indifferent to their needs
+- Resentment is a fire that burns with more light than heat
+- Leaders who don't listen will eventually be surrounded by people who have nothing to say
+- Steal everything - cite your sources
+- Compatibility is an achievement of love, not a precondition
+- Injustice anywhere is a threat to justice everywhere
+- True friends say good things behind your back and bad things to your face
+- Never reply when you are angry
+- Never make a promise when you are happy
+- Never make a decision when you are sad
+- The law of conservation of bull shit - the bull shit into the system is equal to the bull shit out of the system
+- In a group, don't ask a question for you - ask a question you think the whole group would want answered, save the other questions for a personal conversation later
+- When a measure becomes a target, it ceases to be a good measure
+- Geography's just physics slowed with trees on top
+- If you can't stand no for an answer, don't ask the question
+- Spread the knowledge to the right people - it's better than a newspaper ad
+- Don't ask how you can get the most out of your people, ask what you can do to have your people working at their natural best
+- Don't ever let your entertainment budget surpass your self-education budget
+- The drama in speech comes from the diction
+- Whenever you find yourself on the side of the majority, it's time to pause and reflect
+- Ignorance is bliss, but it can kill ya
+- You can do anything you want, you just can't do everything you want
+- We should all carry two slips of paper in our pockets: one that says "I am ashes and dust", and one that reads "The world was made for me"
+- Growing old requires one to shed the illusion that there is only one version of the world
+- Efficiency is attained not by doing things faster, but by avoiding doing things that should not be done in the first place
+- Money is a tool, nothing more, nothing less
+- If you don't have time to do it right, you won't have time to do it over
+- You can break the rules to get what you want, you just can't get in the way of someone else getting what they want
+- Sometimes you're the problem
+- You get to take credit only when you take accountability
+- Don't mistake a bad outcome for a bad decision
+- You don't need to be certain to be confident
+- Beliefs are bets on the future
+- Luck is when opportunity meets with preparation
+- Social errors are ok unless you're oblivious to them
+- If you don't feel like doing it, do all the preparatory things first, chances are you'll end up doing the thing anyway
+- You can't please everyone, and that's ok
+- Don't borrow trouble
+- The way someone treats you says everything about them and nothing about you
+- Don't think about what it costs, think about what it costs per use
+- You can't be sorry for the sick when you're dying
+- Anything worth doing is worth doing right
+- You wouldn't care what people thought about you if you knew how seldom they did
+- If it's more work than fun, it's time to get out
+- Holding a grudge is like letting someone live inside your head rent free
+- The shadow is always larger than the object it casts
+- By failing to prepare, you're preparing to fail
+- Ignorance breeds fear
+- The mind is not a vessel to be filled, but a fire to be lighted
+- Rights, properly understood, are responsibilities
+- The universe is what it is, take it or leave it
+- The best antidote to fear is competence
+- You don't have to be better, you just have to be good enough
+- Self confidence is like a muscle. When it's lost, it takes a long time to grow back
+- Don't use more force than necessary
+- Nothing comes for free
+- True humility is not in thinking less of yourself, it is in thinking of yourself less
+- Familiarity breeds contempt
+- Show, don't tell
+- Audit your time, energy, and emotions
+- If you want someone to be your best friend, get them to do you a favor
+- The purpose of life, is to continue
+- Success is not final. Failure is not final. It is the courage to continue that counts
+- Communication is leadership
+- One of the most useful and damning tools our brain has is inference
+- Focus only on giving value, never on getting it
+- Give value to those who give value back
+- Mean it when you apologize
+- To know is good, to check is better
+- The more you know, the less you fear
+- The teacher arrives when the student is ready
+- You're either guarded by your soul or driven by your ego, it is only a matter of choice
+- Creating more money is not the same as creating more value
+- The best way to answer difficult questions is to avoid the need to ask them
+- The bearing of a child takes nine months, no matter how many women are assigned
+- But to make yourself feel nothing so as to not feel anything - what a waste
+- Never hate your enemies - it affects your judgement
+- I never trust anyone who's more excited about success than doing the thing they want to be successful at
+- There's nothing more reassuring than realizing the world is crazier than you are
+- What punishments of god are not gifts?
+- A monstrous act only creates a victim, not a monster
+- Don't mislead - Reframe
+- People don't forget people's names, they forget to remember their name
+- A programming language that doesn't change the way you think is not worth learning
+- The best way to avoid office politics is to say something nice about people behind their backs
+- If you look closely, every sharp line turns out to be blurry
+- In god we trust, all others must bring data
+- There is no true meritocracy
+- Nothing is more mystifying than a proof of the obvious
+- Don't let anybody tell you who you are, you tell them who you are
+- Competition is about winning, Rivalry is about advancing
+- What's the Purpose? What's the Call? What's the belief?
+- Don't optimize a thing that shouldn't exist
+- Mathematics is the playing of games, Science is finding out what game you're playing
+- Just because there aren't any patterns to find doesn't mean we won't find any
+- Every strength you have has liability, every weakness you have has hidden opportunity
+- Make everything you do a means to an ideal
+- It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do
+- When you have really good people, you don't have to baby them - by expecting them to do great things, you can get them to do great things
+- Deciding what not to do is as important as deciding what to do
+- Extreme wealth is bad for everyone - especially the wealthy
+- It is possible to commit no mistakes and still lose
+- The great thing about math is that it lets you see something obvious after only 30 or 40 years
+- If it isn't written, write it yourself
+- Predictions are hard - especially those about the future
+- Falsehood flies and the truth comes limping after it
+- Your opinions are in a box you carry around with you, they are not part of you - if a better one comes along, don't be hesitant to swap it out
+- Science is in the business of finding facts, and if you see a theory predicts the world better than the one you know, adopt that one instead
+- You don't need to be perfect to be good
+- If you can't accurately articulate the opposite point, then you don't know your own well enough
+- Pay attention to what you pay attention to
+- If you never heal from what hurt you, you'll bleed on people who didn't cut you
+- Forgiveness is divine, but never pay full price for a late pizza
+- Never play chess with a pigeon - It knocks all the pieces over, shits all over the board, then walks around like it's won
+- It is easier to fool someone than to convince them they've been fooled
+- We judge ourselves by our intentions, but we judge others by their behavior
+- Don’t take criticism from someone you wouldn’t take advice from
+- Learning from mistakes is one of the best ways to learn, but there's no reason those mistakes have to be your own
+- If you raise your kids, you can spoil your grandchildren; however, if you spoil your kids, you will have to raise your grandchildren
+- Measure twice, cut once
+- Wars are won in the general's tent
+- Hate is like drinking poison and hoping the other person dies
+- All it takes for evil to prevail is for good people to do nothing
+- We have two lives, and the second begins when we realize we only have one
+- Don't cry for something that can't cry for you
+- You don’t need to light yourself on fire to keep others warm
+- We all want recognition - that is the source of all of our problems
+- Do not pursue love with the mindset of how you want to see yourself or how you want others to see you
+- Perception is not reality, perception is just your reality
+- The truth, poorly expressed, may as well be a lie
+- There is a mammoth difference in needing something and feeling like you need something
+- All forms of exceptionality are exclusionary
+- At a certain point, distillation becomes a form of deception
+- Myths are not stories that are untrue, rather they are tales that don't fit neatly into the historical record, which serve as a foundation to a culture
+- Good judgment is the result of experience and experience is the result of bad judgment
+- Don't use the progress to feel good, use the process to feel good
+- The process of fulfilling your dream is more fulfilling than fulfilling your dream
+- All social interaction is manipulation
+- Espionage is a crooked game, but those who don't play along have already lost
+- How you experience life is a representation of what you believe about it
+- Understanding your opponent's objections to your idea is what you will need if you are to persuade them on the truth of your own
+- In the end, we'll all become stories
+- The danger is writing something that stops instead of ends
+- Evidence should not determine beliefs, but update them
+- Perfection is achieved when there is nothing left to taken away
+- The thing about science is that its truths are true whether or not you believe in them
+- Structure your environment so you don't have to exercise your willpower
+- If you get to the point where insults are being hurled, you're no longer changing minds, but competing in a dominance game
+- the true work of art is but a shadow of the divine perfection
+- If I knew what I was doing I'd be doing it right now
+- Negotiation is letting the other side have your way
+- The value of brainstorming is not to solve the problem, but to ask the question
+- There's only one thing worse than not having it all, and that is having it all and realizing that you're still not happy
+- The journey is not just about what you see, but also how you see it
+- Do not tie the idea of your earnings to the number of hours you work
+- Resenting the wealthy says more about you than about the wealthy
+- The love of money is the root of many kinds of evil
+- You are likely to be about as wealthy and successful as the average of the five people closest to you
+- It is not the quality of your work that determines your income
+- Put 20% of your energy into saving your money and 80% into generating more money
+- Give yourself permission to fail
+- Give others permission to laugh at you
+- You are not separated from your goals by a number of years - you are separated from your goals by a number of actions
+- If it hasn't changed your behavior, you haven't learned it
+- Change before you have to
+- You don't need to know everything - you just need to know where to get the information you need when you need it
+- Science is not a satchel of knowledge, it's a method of querying nature
+- Jealousy is not an indicator of how much you love someone, but of how much you love yourself
+- There's no legacy as rich as honesty
+- You can't think too much, you can only think badly
+- In practice you exercise what you can't do, in performance you allow what you can do
+- You learn how to fight so you don't have to
+- The opposite of faith isn't doubt, the opposite of faith is certainty
+- There is no description, other than poetry, that can possibly be timeless
+- Happy are they who are guided by reason, they will laugh at things that make others cry
+- The problem with stereotypes is not that they are untrue, but that they are incomplete
+- Your primary task as a speaker is to build an idea in the minds of your audience
+- Make your idea worth sharing
+- It's hard to win a war without a map
+- There's no guarantee that good ideas prevail
+- There is no problem so bad that you can't make it worse
+- Never restrict someone with passion
+- Accept, then change
+- Don't depend on the external world to make you happy
+- Courage is an external thing
+- Don't be beholden to a certain vision of joy
+- Crises provide an opportunity for reinvention
+- The first criterion of being a leader is you have to want to be one
+- Beauty is pleasure objectified
+- We rely on technology, we do not trust it
+- We don't just trust people to obey the rules, we also trust that they know when to break them
+- You can easily judge the character of a man by how he treats those who can do nothing for him
+- Responsibility is not doing as we are told, that's obedience - Responsibility is doing what is right
+- Taking responsibility for one's actions must happen at the time you perform your actions, not at the time you get caught
+- Niceness is not anti-racist
+- It is not the strongest or the most intelligent who will survive but those who can best manage change
+- We are punished by our sins, not for them
+- Whenever you cannot decide what to do, choose the action that represents a change, not the status quo
+- Faith sees best in the dark
+- How we orient our attention is how we orient our lives
+- No one will listen to you more than someone who transcribes your words
+- Realists are dreamers who got their heart broken along the way
+- If you cannot dazzle people with brilliance, baffle them with bullshit
+- Parenting is not about giving your kids everything they want, it's about giving them everything they need
+- If you sit in the river long enough, the dead bodies of your enemies will float by
+- Nobody on their death bed wished they worked more
+- It is easier to invent the future than predict it
+- Joy is something you produce
+- What gets measured gets done
+- When you compete against everyone else, no one wants to help you, but when you compete against yourself, everyone wants to help you
+- Believing everything you hear is just as intellectually lazy as believing nothing you hear
+- It is fine to come up with good thoughts, but it is much better to know them when you see them in the works of others - you can get a lot more done that way
+- Give a man a fish and he is fed for a day, teach a man to fish and he is fed for the rest of his life
+- Give a man a fire and he is warm for a day, set a man on fire and he is warm for the rest of his life
+- Charisma is about acting, charm is about reacting
+- Simplicity is the highest form of sophistication
+- Before you give your child a 'unique' name, spend a week ordering with that name at Starbucks, and then see if you still want to burden your child with it
+- Your network is your net worth
+- Saying you don't care about your right to privacy because you've got nothing to hide is like saying you don't care about freedom of speech because you've got nothing to say
+- Truth only springs from an argument among friends
+- A problem well stated is a problem half solved
+- Representation is the essence of computer programming
+- Bad programmers worry about the code - Good programmers worry about the data structures and their relationships
+- Never argue with a fool, because onlookers may not be able to tell the difference
+- When people show you who they are, believe them
+- No one is beyond redemption
+- Technology is neither good nor bad, nor is it neutral
+- Do not confuse the pursuit of achievement and competence and the pursuit of tyrannical power
+- Seek first to understand
+- Of all forms of caution, caution in love is perhaps the most fatal to true happiness
+- The way to make people secure is not to protect them, but to teach them how to avoid the danger
+- For evil to succeed, all that is necessary is for good men to do nothing
+- If you're not moving toward what you want, then you're hiding from what you don't want
+- Ignorance - less blissful than advertised
+- Education is about giving people systems to understand and interface with the world
+- There's nothing more stupid than a smart person who went wrong
+- You can't have preferences without prejudices
+- You're best strategy in for success in life is not the exercise of raw power - it's skill and reciprocity
+- Music is just wiggly air
+- If you want common knowledge to be true, you have to let true knowledge be common
+- The universe is under no obligation to make sense to you
+- Every problem is an interpersonal problem
+- Rejection is just feedback of what not to do
+- A good film can survive a bad score, but a good score cannot save a bad film
+- Belief is not a matter of choice, but of conviction
+- Don't half-ass two things, whole-ass one thing
+- It takes a great deal of courage to stand up to your enemies, but a great deal more to stand up to your friends
+- Understanding does not create change, it only creates the motivation for it
+- Empires conquer with armies, but they rule with stories
+- Men's greatest weakness is their perceived strength and women's greatest strength is their perceived weakness
+- The only person you are destined to become is the person you decide to be
+- Have a pessimism of the intellect, but an optimism of the will
+- Don't assume silence means compliance
+- The amount of noise generated by a change is inversely proportional to the complexity of the change
+- Don't argue about every little feature based simply on the knowledge to do so
+- People who get ahead aren't just brilliant, they're backable
+- Just because it's arbitrary doesn't mean it's useful
+- You're not finished if you stop, you're finished if you don't start again
+- A pessimist finds difficulty in every opportunity, an optimist finds opportunity in every difficulty
+- Don't do things you're ashamed of, and don't be ashamed of the things that you do
+- Music makes you feel feelings, text make you think thoughts, songs make you feel thoughts
+- Having desire is not creepy, you're only creepy if you don't have mastery over your desire
+- Always do the right thing for the right reason at the right time with the right people and you will have no regrets for the rest of your life
+- Regret for things we did is tempered by time, but regret for things we did not do is inconsolable
+- The idle mind is the devil's playground
+- It's easy not to be jealous when you've got your own life
+- There is only one way to avoid criticism: do nothing, say nothing, and be nothing
+- Music is the joy people feel when they are counting but don't know it
+- Babe Ruth has the all-time record for the most strike-outs
+- Be patient with people who imagine that grammar is immutable
+- Confidence is the knowledge that in a given situation I will handle myself and contribute - arrogance is the assumption that in a given situation I will handle myself and contribute
+- Studying the universe is just a way of getting used to the way that God works
+- There is no justification good enough for living a life that you would regret on your death bed
+- You teach others how to treat you
+- Luck favors the prepared
+- Don't do sales, do marketing
+- Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else - you are the one who gets burned
+- Lies go down easier when you want them to be true
+- A lot of people don't like oysters and they've never had one
+- All models are wrong, but some are useful
+- Whenever you find yourself on the side of the majority, it is time to pause and reflect
+- Anyone who lives within their means suffers from a lack of imagination
+- Everything, sooner or later, is part of everything else
+- Almost everything is unknown
+- The first rule of Dunning-Kruger Cub is, you don't know you're in Dunning-Kruger Club
+- Habits are just thoughts that you have all the time
+- Ignorance gives knowledge its structure
+- The senses do not give us a picture of the world directly; rather they provide evidence for checking the hypotheses of what lies before us
+- A cynic is a passionate person who does not want to be disappointed again
+- There is no such thing as bad weather, only inappropriate clothing
+- Good and bad are categories we impose on the world - they are not of the world itself
+- What rewards do, and what they do with devastating effectiveness, is smother people's enjoyment for activities which they might otherwise enjoy
+- Rewards don't produce better work, they produce obedience
+- Make common things easy and tricky things possible
+- A good leader inspires people to have confidence in the leader, a great leader inspires people to have confidence in themselves
+- A religion is when your savior dies for you, a cult is when you are asked to die for your savior
+- There is not enough time to do all the nothing we want to do
+- With great intelligence comes great expectation
+- Mistakes of audacity can often be corrected with more audacity, but mistakes of timidity are rarely forgiven
+- Winners fail more times than losers try
+- Never marry a tennis player - to them, love means nothing
+- Hurt people hurt people
+- If you can't put your power down and pick it back up again, then you never had it in the first place
+- A harmless man is not a good man - A good man is a very dangerous man who has that under voluntary control
+- Be yourself - everyone else is already taken
+- Trauma doesn't make you stronger - healing from it does
+- The most beautiful makeup of a woman is passion - But cosmetics are easier to buy
+- The whole problem with the world is that fools and fanatics are always so certain of themselves and wise people so full of doubts
+- If you want the truth to stand clear before you, never be for or against - the struggle between “for” and “against” is the mind’s worst disease
+- Tactics is knowing what to do when there is something to do - strategy is knowing what to do when there is nothing to do
+- The way things are is not the way they must always be
+- Thinking about your thinking changes your thinking
+- Not all tools need sharp edges
+- Even decelerating the negative is a positive
+- The best decisions are made by diverse groups
+- Knowledge of human nature is the beginning and end of political education
+- An enemy is one whose story we have not heard
+- If you are out to describe the truth, leave elegance to the tailor
+- If you can't explain it to a six year old, then you don't understand it yourself
+- Focus is a skill
+- Willpower is a muscle
+- No plan survives contact with the enemy
+- Sometimes quantity has a quality all of its own
+- We suffer not from the events in our lives, but from our judgements about them
+- Rage without an outlet is only going to make things worse
+- Falling in love is not something that is done to you, it's something that you do to yourself when they're not around
+- Be safe, be sound, and be very very round
+- To get what you want you have to deserve what you want
+- Understanding is more important than knowing
+- You are not a leader because you are in charge, you are a leader because you go first - first into the danger, first into the difficult, first into the unknown
+- Laughter is the lubricant that makes life livable
+- In war you can only be killed once, but in politics you can die many times over
+- Doing physics is like learning to play chess by just watching people play
+- You don't attract what you want, you attract what you are
+- Fortune favors the bold
+- Your life is on a 3 minute timer that resets every time you take a breath
+- If you don't make time for your wellness, you will have to make time for your illness
+- Science does not prove, it describes
+- Addiction is the opposite of connection
+- In the halls of power there is no "Us"
+- Identity tends to grow with pressure
+- There are decades where nothing happens, and there are weeks where decades happen
+- Preach the gospel every day, and only if you have to, use words
+- The best apology is changed behavior
+- Every emotion you feel is a choice
+- Humans like stories and will be empathetic if they are given a way to do so
+- Be conservative in what you do, be liberal in what you accept from others
+- To say something is completely foolproof is to underestimate the ingenuity of complete fools
+- A true education is not learning things, but learning to separate what you know from what you don't know
+- Persistence without insight will lead to the same outcome
+- Sometimes things have to get worse in order to get better
+- If a man knows not which way he sails, no wind is favorable
+- Mathematics is the art of giving the same name to different things
+- Smart people overestimate what they can do in the short run and underestimate what they can do in the long run
+- Your emotions don't seem to care about the magnitude of the event, only the quality
+- Good luck is what is left over after intelligence and effort have combined at their best
+- Luck is the residue of design
+- As the area of our knowledge grows, so too does the perimeter of our ignorance
+- Dangerous times favor dangerous men
+- You do not rise to the level of your goals, you fall to the level of your systems
+- Your brain is for having ideas, not for holding them
+- The weak always make excuses
+- Brave men don't live forever, but the cautious don't live at all
+- When all else fails, read the instructions
+- Idiots are a large and powerful tribe whose influence in human affairs has always been dominant and controlling
+- Diplomacy is the art of having the other party have things your way
+- Never let your sense of morals prevent you from doing what is right
+- The light at the end of the tunnel is the headlight of an approaching train
+- An age is called dark not because the light fails to shine, but because people refuse to see it
+- The law will never make men free; it is men who have got to make the law free
+- One thought driven home is better than three left on base
+- All bibles are man-made
+- Advice is a dangerous gift; be cautious about giving and receiving it
+- All of the animals except man know that the principal business of life is to enjoy it
+- Reality is that which, when you stop believing in it, it doesn't go away
+- For every credibility gap there is a gullibility fill
+- Talent does what it can, genius does what it must, you do what you get paid to do
+- You should make a point of trying every experience once - except incest and folk-dancing
+- He who laughs last usually had to have the joke explained
+- Diplomacy is to do and say the nastiest thing in the nicest way
+- If you let a woman lead a relationship, she will lead it to the end
+- It is the mark of an educated mind to be able to entertain a thought and not accept it
+- It is our imagination that is responsible for love, not the other person
+- Nobody grows old by merely living a number of years; people grow old only by deserting their ideals
+- Wrinkles should merely indicate where smiles have been
+- The meek shall inherit the earth - they are too weak to refuse
+- To use violence is to already be defeated
+- Never argue with a woman when she's tired - or rested
+- Even if someone doesn't care what the world thinks about them, they always hope their mother doesn't find out
+- Pray to God, but keep rowing to shore
+- When in doubt, use brute force
+- Rarely do people communicate; they just take turns talking
+- The difference between genius and stupidity is that genius has its limits
+- When you speak to others for their own good it's advice; when they speak to you for your own good it's interference
+- Science is built up of facts, as a house is with stones; but a collection of facts is no more a science than a heap of stones is a house
+- Utility is when you have one telephone, luxury is when you have two, opulence is when you have three - and paradise is when you have none
+- The mark of the immature man is that he wants to die nobly for a cause, while the mark of a mature man is that he wants to live humbly for one
+- If you're not part of the solution, you're part of the precipitate
+- Every successful person has had failures but repeated failure is no guarantee of eventual success
+- If you have to think twice about it, you're wrong
+- Force has no place where there is need of skill
+- If your mind is blind to the possibility, then your eyes will be blind to the opportunity
+- Room for improvement is not synonymous with evil
+- Trust is given, not earned
+- Talk sense to a fool and he calls you foolish
+- Live in a world of your own, but always welcome visitors
+- Confidence is simply that quiet, assured feeling you have before you fall flat on your face
+- Logic is the chastity belt of the mind
+- Do what you can to prolong your life, in the hope that someday you'll learn what it's for
+- That's the thing about people who think they hate computers - what they really hate is lousy programmers
+- He who fights and runs away lives to fight another day
+- Never go to bed mad - stay up and fight
+- To err is human, to forgive is against company policy
+- A crisis is when you can't say "let's forget the whole thing"
+- He who knows, does not speak - he who speaks, does not know
+- Three may keep a secret, if two of them are dead
+- Logic is a systematic method of coming to the wrong conclusion with confidence
+- A witty saying proves nothing, but saying something pointless gets people's attention
+- It is best to confuse only one issue at a time
+- Be incomprehensible - if they can't understand, they can't disagree
+- Those of you who think you know everything are annoying those of us who do
+- If you think the problem is bad now, just wait until we've solved it
+- The secret of success is sincerity - once you can fake that, you've got it made
+- Duct tape is like the force - it has a light side, and a dark side, and holds the universe together
+- The important thing is to not stop questioning
+- The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is generally understood - indeed, the world is ruled by little else
+- I don't know who my grandfather was; I am much more concerned to know what his gransdon will be
+- Life is divided into the horrible and the miserable
+- Before you ask more questions, think about whether you really want to know the answers
+- Without ice cream life and fame are meaningless
+- Intuition, however illogical, is recognized as a command perogative
+- Parts that positively cannot be assembled in improper order will be
+- I am the mother of all things, and all things should wear a sweater
+- To every Ph.D. there is an equal and opposite Ph.D.
+- Enjoy yourself while you're still old
+- Bad men live that they may eat and drink, whereas good men eat and drink that they may live
+- In fiction the recourse of the powerless is murder; in life the recourse of the powerless is petty theft
+- Almost everything in life is easier to get into than out of
+- He who makes a beast of himself gets rid of the pain of being a man
+- A figure with a lot of curves always offers a lot of interesting angles
+- They are called computers simply because computation is the only significant job that has so far been given to them
+- The world is full of people who have never, since childhood, met an open doorway with an open mind
+- Don't you wish that all the people who sincerely want to help you could agree with each other
+- It's easier to take it apart than to put it back together
+- You can never trust a woman; she may be true to you
+- Any change or reform you make is going to have consequences you don't like
+- No bird soars too high if he soars with his own wings
+- Security is mostly a superstition - It does not exist in nature - Life is either a daring adventure or nothing
+- More software projects have gone awry for lack of calendar time than for all other causes combined
+- No man is an island, but some of us are long peninsulas
+- In the long run, every program becomes rococo, and then rubble
+- The gods gave man fire and he invented fire engines - They gave him love and he invented marriage
+- In the long run we are all dead
+- Before people decide what they think of your message, they decide what they think of you
+- A straw vote only shows which way the hot air blows
+- Your focus determines your reality
+- Secrecy is the beginning of tyranny
+- From listening comes wisdom and from speaking repentance
+- A bank is a place where they lend you an umbrella in fair weather and ask for it back when it begins to rain
+- If at first you don't succeed, you're doing about average
+- Love is an ideal thing, marriage a real thing; a confusion of the real with the ideal never goes unpunished
+- Life is the childhood of our immortality
+- One lawyer can steal more than a hundred men with guns
+- The wonderful thing about a dancing bear is not how well he dances, but that he dances at all
+- All the passions make us commit faults; love makes us commit the most ridiculous ones
+- The price of seeking to force our beliefs on others is that someday they might force their beliefs on us
+- When it is not necessary to make a decision, it is necessary to not make a decision
+- There are no emotional victims, only volunteers
+- Somehow, the world always affects you more than you affect it
+- Insufficient facts always invite danger
+- You can't win them all, but you sure as hell can lose them all
+- The farther you go, the less you know
+- There's another way to survive; mutual trust - and help
+- Admiration is our polite recognition of another's resemblance to ourselves
+- Do not cut your conscience to fit this year's fashions
+- Tact is the ability to tell a man he has an open mind when he has a hole in his head
+- An ounce of prevention is worth a pound of purge
+- Courage is resistance to fear, mastery of fear - not absence of fear
+- Language shapes the way we think, and determines what we can think about
+- Those software systems that have excited passionate fans are those that are the products of one or a few designing minds, great designers
+- A witty saying proves nothing
+- Delusions are often functional
+- You cannot propel yourself forward by patting yourself on the back
+- All that glitters is not gold; all that wander are not lost
+- No one ever built a statue to a critic
+- Honesty pays, but it doesn't seem to pay enough to suit some people
+- Success is relative: It is what we can make of the mes we have made of things
+- Love is when, if asked to choose between your lover and hapiness, you'd skip hapiness in a heartbeat
+- A strong conviction that something must be done is the parent of many bad measures
+- There are no manifestos like cannon and musketry
+- Let others praise ancient times; I am glad I was born in these
+- Don't believe everything you hear or anything you say
+- If a sufficient number of management layers are superimposed on each other, it can be assured that disaster is not left to chance
+- Rank does not intimidate hardware - neither does the lack of rank
+- It is better to be the reorganizer than the reorganizee
+- By the time the people asking the questions are ready for the answers, the people doing the work have lost track of the questions
+- Celibacy is not hereditary
+- Old age is always fifteen years older than you are
+- To have died once is enough
+- Most people's favorite way to end a game is by winning
+- Fire can't do as much damage as apathy
+- If you're always worried about crushing the ants beneath you, you won't be able to walk
+- A good death comes only after a good life
+- A man looks his best when he's going to get married or buried
+- Anything worth doing is worth half-assing
+- Eloquence is logic on fire
+- If money can't buy hapiness, I guess you'll just have to rent it
+- The early bird who catches the worm works for someone who comes in late and owns the worm farm
+- Talent goes where the action is
+- God is love, but get it in writing
+- There's nothing new under the sun, but there are lots of old things we don't know yet
+- Those who in quarrels interpose, must often wipe a bloody nose
+- After the last of 16 mounting screws has been removed from an access cover, it will be discovered that the wrong access cover has been removed
+- You can fool all the people all of the time if the advertising is right and the budget is big enough
+- The first sign of maturity is the discovery that the volume knob also turns to the left
+- There is always someone worse off than yourself
+- The avocation of assessing the failures of better men can be turned into a comfortable livelihood, providing you back it up with a Ph.D.
+- The truth you speak has no past and no future - It is, and that's all it needs to be
+- Two wrights don't make a rong, they make airplanes, or bicycles
+- The large print giveth and the small print taketh away
+- Shame needs three ingredients to grow: secrecy, silence, and judgement
+- Matrimony isn't a word, it's a sentence
+- There are two ways of disliking art - one is to dislike it, the other is to like it rationally
+- Women sometimes forgive a man who forces the opportunity, but never a man who misses one
+- The number of licorice gumballs you get out of a gumball machine increases in direct proportion to how much you hate licorice
+- Put your brain in gear before starting your mouth in motion
+- You have not converted a man because you have silenced him
+- People would rather live with a problem they cannot solve rather than accept a solution they cannot understand
+- Immature poets imitate, mature poets steal
+- May the forces of evil become confused on the way to your house
+- A candidate is a person who gets money from the rich and votes from the poor to protect them from each other
+- The duration of the passion is proportionate with the original resistance of the woman
+- Man will occasionally stumble over the truth, but most of the time he will pick himself up and continue on
+- Only a mediocre person is always at his best
+- A fanatic is one who can't change his mind and won't change the subject
+- There is no greif which time does not lessen and soften
+- Success covers a multitude of blunders
+- The first version always gets thrown away
+- In real love you want the other person's good - in romantic love you want the other person
+- Housework can kill you if done right
+- Old soldiers never die - young ones do
+- Life is a game, money is one way of keeping score
+- Only when the tide goes out will you be able to tell who's been swimming naked
+- We all do better when we all do better
+- When you're chasing a dream or doing anything hard, you're meant to feel good a third of the time, ok a third of the time, and terrible a third of the time
+- You ain't learning nothing when you're talking
+- The difference between bravery and stupidity is measured by the outcome
+- Money Talks, but wealth whispers
+- Illness is not a moral narrative
+- The meek don't want it
+- Keep cool, but don't freeze
+- We can embody the truth, but we cannot know it
+- Whatever occurs from love is always beyond good and evil
+- The best index to a person's character is how he treats people who can't do him any good, and how he treats people who can't fight back
+- Some people need a good imaginary cure for their painful imaginary ailment
+- Love and scandal are the best sweeteners of tea
+- Divorce is a game played by lawyers
+- Today's weirdness is tomorrow's reason why
+- If it wasn't so warm out today, it would be cooler
+- Modesty is being comfortable that others will discover your greatness
+- One measure of friendship consists not in the number of things friends can discuss, but in the number of things they need no longer mention
+- It may be bad manners to talk with your mouth full but it isn't too good either if you speak when your head is empty
+- Bizarreness is the essence of the exotic
+- After all is said and done, a hell of a lot more is said than done
+- There is no heavier burden than a great potential
+- There are two problems with a major hangover - you feel like you're going to die and you're afraid that you won't
+- If you fool around with something long enough, it will eventually break
+- Too many people are thinking about security instead of opportunity; they seem more afraid of life than death
+- The sooner you fall behind, the more time you have to catch up
+- Winter is the season in which people try to keep the house as warm as it was in the summer, when they complained about the heat
+- You will stop at nothing to reach your objective, but only because your breaks are defective
+- Under capitalism, man exploits man - under communism it's just the opposite
+- Great minds run in great circles
+- Money cannot buy love, nor even friendship
+- An automobile is a four-wheeled vehicle that runs up hills and down pedestrians
+- You can't cross a chasm in two small jumps
+- When we are planning for posterity, we ought to remember that virtue is not hereditary
+- A volcano is a mountain with hiccups
+- Superior ability breeds superior ambition
+- Gossip is hearing something you like about someone you don't
+- 9 out of 10 doctors agree that 1 out of 10 doctors is an idiot
+- The question of whether computers can think is just like the question of whether submarines can swim
+- Of all the forms of caution, caution in love is the most fatal
+- No snowflake in an avalanche ever feels responsible
+- No matter how great your triumphs or how tragic your defeats, approximately 1 billion chinese couldn't care less
+- You can't run away forever, but there's nothing wrong with getting a good head start
+- In these matters the only certainty is that there is nothing certain
+- Don't worry if it doesn't work right - if everything did you'd be out of a job
+- The man who raises a fist has run out of ideas
+- If you want to read about love and marriage you've got to buy two separate books
+- Fertility is hereditary - if your parents didn't have any children, neither will you
+- There is a certain impertinence in allowing oneself to be burned for an opinion
+- A woman is like your shadow; follow her, she flies; fly from her, she follows
+- Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing
+- Those who claim the dead never return to life haven't ever been around here at quitting time
+- It follows that any commander in chief who undertakes to carry out a plan which he considers defective is at fault; he must put forth his reasons, insist on the plan being changed, and finally tender his resignation rather than be the instrument of his army's downfall
+- The most hopelessly stupid man is he who is not aware that he is wise
+- When in panic, fear, and doubt, drink in barrels, eat, and shout
+- War turns promises into hopes
+- Getting started is more important than becoming an expert
+- Doing what needs to be done won't make you happy, but it will make you great
+- The most dangerous weapon is money
+- Altruism is one thing you’ll never regret
+- There is no such thing as bad publicity except your own obituary
+- The difference between sex for money and sex for free is that sex for money usually costs a lot less
+- For every credibility gap there's a gullability fill
+- Long computations which yield zero are probably all for naught
+- The trouble with being poor is that it takes up all your time
+- Only those who leisurely approach that which the masses are busy about can be busy about that which the masses take leisurely
+- The most important early product on the way to developing a good product is an imperfect version
+- If you're not embarassed by your first version, you shipped too late
+- Confession is good for the sourl, but bad for the career
+- It is better to live rich than to die rich
+- You got to be very careful if you don't know where you're going, because you might not get there
+- Never underestimate the bandwidth of a station wagon full of tapes
+- Any excuse will serve a tyrant
+- Life is a series of rude awakenings
+- Arithmetic is being able to count up to twenty without taking off your shoes
+- There can be no daily democracy without daily citizenship
+- An incorrect model can be a useful tool
+- The porcupine with the sharpest quills gets stuck on a tree more often
+- We all live under the same sky, but we don't all have the same horizon
+- A lifetime isn't nearly long enough to figure out what it's all about
+- He who laughs last didn't get the joke
+- There is no satisfaction in hanging a man who does not object to it
+- The confusion of a staff member is measured by the length of his memos
+- Anyone who is capable of getting themselves made president should on no account be allowed to do the job
+- The discerning person is always at a disadvantage
+- Good enough is never good enough
+- Money isn't everything - but it's a long way ahead of what comes next
+- A Smith & Wesson beats four aces
+- Time will end all my troubles, but I don't always approve of time's methods
+- Depend on the rabbit's foot if you will, but remember, it didn't help the rabbit
+- The most disagreeable thing that your worst enemy says to your face does not approach what your best friends say behind your back
+- What orators lack in depth they make up for in length
+- It seemed the world was divided into good and bad people - the good ones slept better... while the bad ones seemed to enjoy the waking hours much more
+- You get what you pay for
+- A yawn is a silent shout
+- Moneyliness is next to Godliness
+- Change your thoughts and you change your world
+- We all like praise, but a hike in your pay is the best kind of ways
+- Things equal to nothing else are equal to each other
+- Stop having intimate dinners for four - unless there are three other people
+- As soon as anyone says you don't need a gun, you'd better take one along that worked
+- Data is a lot like humans: It is born, matures, gets married to other data, divorced, gets old - one thing that it doesn't do is die, it has to be killed
+- Death is God's way of telling you not to be such a wise guy
+- Dreams are free, but there's a small charge for alterations
+- A sinking ship gathers no moss
+- We are so fond of each other because our ailments are the same
+- A computer lets you make more mistakes faster than any other invention, with the possible exceptions of handguns and tequila
+- Art is a lie which makes us realize the truth
+- Hapiness isn't something you experience; it's something you remember
+- A government that is big enough to give you all you want is big enough to take it all away
+- Distance doesn't make you smaller, but it does make you part of a larger picture
+- Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them
+- Virtue does not always demand a heavy sacrifice - only the willingness to make it when necessary
+- A closed mouth gathers no feet
+- There are two ways to write error-free programs; only the third one works
+- The older a man gets, the farther he had to walk to school as a boy
+- Your mind understands what you have been taught; your heart, what is true
+- Old age and treachery will overcome youth and skill
+- Trust in Allah, but tie your camel
+- Machines can certainly solve problems, store information, correlate, and play games - but not with pleasure
+- Good government never depends on laws, but upon the personal qualities of those who govern
+- The machinery of government is always subordinate to the will of those who administer that machinery
+- The most important element of government is the method of choosing leaders
+- When women love us, they forgive us everything, even our crimes; when they do not love us, the give us credit for nothing, not even our virtues
+- Virtue would go far if vanity did not keep it company
+- Truth is stronger than fiction, because fiction has to make sense
+- Love thy neighbor as thyself, but choose your neighborhood
+- Don't let go of what you've got a hold of, until you have a hold of something else
+- Marriage is the only adventure open to the cowardly
+- Unless the results are known in advance, funding agencies will reject the proposal
+- People who boast of ancestry often have little else to sustain them
+- The way to a man's heart is through the left ventricle
+- Strategy is a long-range plan whose merit cannot be evaluated until sometime after those creating it have left the organization
+- Mistakes are often the stepping stones to utter failure
+- Correction does much, but encouragement does more
+- Hapiness is a positive cash flow
+- There are two ways of constructing a software design - one way is to make it so simple that there are no obvious deficiencies and the other is to make it so complicated that there are no obvious deficiencies
+- The first duty of a revolutionary is to get away with it
+- It is only with the heart one can see clearly; what is essential is invisible to the eye
+- What we are is God's gift to us, what we become is our gift to God
+- Any philosophy that can be "put in a nutshell" belongs there
+- Anyone who makes a significant contribution to any field of endeavor, and stays in that field long ehough, becomes an obstruction to its progress - in direct proportion of their original contribution
+- If you think things can't get worse it's probably only because you lack sufficient imagination
+- When you make your mark in the world, watch out for guys with erasers
+- If you think before you speak the other guy gets his joke in first
+- Early to rise, early to bed, makes a man healthy, wealthy, and dead
+- When a camel flies, no one laughs if it doesn't get very far
+- There can be no twisted thought without a twisted molecule
+- He who knows not and knows that he knows not is ignorant - teach him
+- He who knows not and knows not that he knows not is a fool - shun him
+- He who knows and knows not that he knows is asleep - wake him
+- He who hesitates is sometimes saved
+- The hottest places in Hell are reserved for those who, in times of moral crisis, preserved their neutrality
+- There's a lot to be said for not saying a lot
+- A right is not what someone gives you; it's what no one can take from you
+- The chief cause of problems is solutions
+- It is indeed desireable to be well descended, but the glory belongs to our ancestors
+- Never argue with a fool - people may not be able to tell the difference
+- Some don't prefer the pursuit of hapiness to the hapiness of pursuit
+- Those who have some means think that the most important thing in the world is love, the poor know that it is money
+- Many a man in love with a dimple makes the mistake of marrying the whole girl
+- To avoid criticism, do nothing, say nothing, be nothing
+- He who renders warfare fatal to all engaged in it will be the greatest benefactor the world has yet known
+- Nothing so needs reforming as other people's habits
+- Modesty is a vastly overrated virtue
+- The grass is always greener on the other side of your sunglasses
+- Every program is a part of some other program, and rarely fits
+- To err is human, to repent, divine, to persist, devilish
+- If you're smart enough to know that you're not smart enough to be an engineer, than you're in business
+- Diplomacy is the art of letting the other party have things your way
+- Conformity is the refuge of the unimaginative
+- There is no sin but ignorance
+- The person who marries for money usually earns every penny of it
+- Delay is preferable to error
+- An abstainer is a weak person who yields to the temptation of denying himself a pleasure
+- How long a minute is depends on which side of the bathroom door you're on
+- A language that doesn't have everything is actually easier to program in than some that do
+- A tautology is a thing which is tautological
+- Cryptography is fractals minus the drugs
+- The more you know about the magical system you're using, the less magical it is
+- It is the universal weakness of mankind that what we are given to administer we presently imagine we own
+- Irrigation of the land with seawater desalinated by fusion power is ancient - it's called rain
+- The opposite of a correct statement is a false statement, but the opposite of a profound truth may well be another profound truth
+- There is nothing inherently bad about structure itself - only its excess use
+- All large companies are heavily optimized to discard ideas that aren't as profitable as their existing core business
+- A manager is a professional negotiator
+- With great scale comes great complexity
+- A man's true wealth is the good he does in this world
+- Love your neighbor as you love yourself
+- Martyrs tend to have a long half-life
+- A weapon is only as good as the man weilding it
+- You can't play chess with someone who's willing to light the board on fire
+- Closed mouths don't get fed
+- One of the dying's imperatives is to make the living see them; this is nobody's fault, but it is their burden
+- Courage isn't the absence of fear, but action in spite of it
+- Silent gratitude isn't very much use to anyone
+- Genius is ten percent inspiration and fifty percent capital gains
+- Many a wife thinks her husband is the world's greatest lover, but she can never catch him at it
+- A waist is a terrible thing to mind
+- Food for thought is no substitute for the real thing
+- Women, when they are not in love, have all the cold blood of an experienced attorney
+- Experience is directly proportional to the amount of equipment ruined
+- Doubt isn't the opposite of faith; it is an element of faith
+- It's useless to hold some people to anything they say while they're madly in love, drunk, or running for office
+- If you don't say anything, you won't be called on to repeat it
+- A group of politicians deciding to dump a president because his morals are bad is like the mafia getting together to bump off the godfather for not going to church on sunday
+- If you understand what you're doing, you're not learning anything
+- Your education begins when what is called your education is over
+- In matters of principle, stand like a rock; in matters of taste, swim with the current
+- For most men life is a search for the proper manila envelope in which to get themselves filed
+- An alcoholic is someone you don't like who drinks as much as you do
+- All power corrupts, but we need electricity
+- The truth is rarely pure, and never simple
+- A pipe gives a wise man time to think and a fool something to stick in his mouth
+- Hapiness isn't having what you want, it's wanting what you have
+- Doubt is not a pleasant condition, but certainty is absurd
+- Free speech is the right to shout "Theater" in a crowded fire
+- Live never to be ashamed if anything you do or say is published around the world - even if what is published is not true
+- With a rubber duck, one's never alone
+- At all times, for any task, you have not got enough done today
+- He that bringeth a present, findeth the door open
+- Cleanliness becomes more important when godliness is unlikely
+- Some changes are so slow, you don't notice them; Others are so fast, they don't notice you
+- There is nothing so deadly as not to hold up to people the opportunity to do great and wonderful things, if we wish to stimulate them in an active way
+- Today is the last day of your life so far
+- Patriotism is the last refuge of a scoundrel
+- Public office is the last refuge of a scoundrel
+- What makes the universe so hard to comprehend is that there's nothing to compare it with
+- We have more to fear from the bungling of the incompetent than from the machinations of the wicked
+- Time is the most valuable thing a man can spend
+- Lots of girls can be had for a song, unfortunately, it often turns out to be the wedding march
+- Entropy requires no maintenance
+- Standards are different for all things, so the standard set by man is by no means the only 'certain' standard - if you mistake what is relative for something certain, you have strayed far from the ulitimate truth
+- If a nation values anything more than freedom, it will lose its freedom; and the irony of it is that if it is comfort or money it values more, it will lose that, too
+- When the going gets tough, everyone leaves
+- If a string has one end, then it has another end
+- To refuse praise is to seek praise twice
+- There's an old proverb that says just about whatever you want it to
+- Work expands to fill the time available
+- 'Martyrdom' is the only way a person can become famous without ability
+- The early bird gets the coffee left over from the night before
+- Programmers do it bit by bit
+- "Good Health" is merely the slowest rate at which one can die
+- Wisdom is knowing what to do with what you know
+- An ambassador is an honest man sent abroad to lie and intrigue for the benefit of his country
+- About the time we think we can make the ends meet, somebody moves the ends
+- The things that interest people most are usually none of their business
+- Those who do not do politics will be done in by politics
+- What no spouse of a writer can ever understand is that a writer is working when he's staring out the window
+- Breadth-first search is the bulldozer of science
+- Mediocrity finds safety in standardization
+- Diplomacy is about surviving until the next century - Politics is about surviving until Friday afternoon
+- Of all possible comittee reactions to any given agenda item, the reaction that will occur is the one which will liberate the greatest amount of hot air
+- The first myth of management is that it exists, the second myth of management is that success equals skill
+- Good news is just life's way of keeping you off balance
+- The public is merely a multiplied "me"
+- The girl who swears no one has ever made love to her has a right to swear
+- An ounce of prevention is worth an ounce of purge
+- A death wish is the only wish that always comes true, whether or not one wishes it to
+- If the grass is greener on the other side, try watering yours
+- All generalizations are false, including this one
+- Do not underestimate your enemy
+- Do not overestimate your enemy
+- Humility is not thinking less of yourself, it is thinking of yourself less
+- The longer you are surrounded by illusions, the more painful it will be to find out the truth
+- Sometimes people don't want to hear the truth because they don't want their illusions destroyed
+- You treat an outside wound with rubbing alcohol, and an inside wound with drinking alcohol
+- Write Drunk, edit sober
+- The deadliest enemies of a society dwell within its borders
+- Democracies aren't overthrown, they're given away
+- Design is finding a form to fit a context
+- It’s one thing to get yourself unstuck from a place and quite another to get the place unstuck
+- There is no shame in poverty
+- If you think you have the solution, the question was poorly phrased
+- Discipline is about what you want now versus what you want the most
+- Together we bargain, divided we beg
+- Solve the crisis of belonging before you solve the crisis of beleif
+- If intelligence is the ability to respond to an argument, wisdom lies in knowing which arguments to respond to and which parts of an argument to respond to
+- Mindless adherence is superstition
+- Simulations are like miniskirts, they show a lot and hide the essentials
+- A hermit is a deserter from the army of humanity
+- Your brain is for having ideas, not storing ideas
+- If it can be done before the due date, it's a task, not an event
+- Disease does not treat people equally because society does not treat people equally
+- Stop thinking of the unfamiliar as bad and you'll be happier
+- No amount of money can buy class and no amount of poverty can excuse not having any
+- Worthwhile interaction comes with the possibility of failure
+- Discipline is an emotion
+- Opposites are in the same category
+- Doubt is the opposite of discipline
+- The opposite of doubt is resolve
+- When someone is resolved internally, what they end up behaving like is discipline
+- Admitting wrongness usually hurts more than continuing wrongness
+- The great aim of education is not knowledge but action
+- Treat your parents like feature requests - don't simply give them what they ask for, figure out why their asking, and then see if there's a better way to give them that instead
+- You only need other people to give you advice that surprises you
+- Starting a startup is simply an ulterior motive for curiosity
+- Seeing is believing, but sometimes just making stuff up is super-believing
+- If you find a solution to a problem and become attached to it, your solution may become the next problem
+- We should be careful to get out of an experience only the wistom that is in it
+- Those who cannot distinguish philia from eros reveal they have no knowledge of either
+- A habit is when not doing a specific thing causes discomfort
+- You can determine the strength of a business over time by the agony they go through in raising prices
+- If it can't be used for evil, then it's not a superpower
+- Most codes and regulations are written in blood
+- Youth is not a time of life but a state of mind, a predominance of courage over timidity, of the apetite for adventure over the love of ease
+- The first marriage is the triumph of imagination over intelligence, and the second the triumph of hope over experience
+- If I have not seen so far it is because I stood in giant's footsteps
+- Those who profess to favor freedom, and yet deprecate agitation, are men who want rain without thunder and lightning - they want the ocean without the roar of its many waters
+- He who hesitates is lunch
+- The solution to a problem changes the nature of the problem
+- Our chief want in life is somebody who shall make us do what we can - having found them, we shall then hate them for it
+- People that can't find something to live for always seem to find something to die for - the problem is, they usually want the rest of us to die for it too
+- Life is the whim of several billion cells to be you for a while
+- Nothing is so often irretrievably missed as a daily opportunity
+- Comparing information and knowledge is like asking whether the fatness of a pig is more or less green than the designated hitter rule
+- Take care of the luxuries and the necessities will take care of themselves
+- Any given program, when running, is obsolete
+- Program complexity grows until it exceeds the capability of the programmer who must maintain it
+- To laugh at men of sense is the privilege of fools
+- It's better to be wanted for murder than not to be wanted at all
+- There is not much to choose between a woman who deceives us for another, and a woman who deceives another for ourselves
+- Envy is wishing you'd been born with an unfair advantage, instead of having to try and acquire one
+- Many receive advice, few profit by it
+- Marriage is the process of finding out what kind of man your wife would have preferred
+- The last thing one knows in constructing a work is what to put first
+- Inside every large problem is a small problem struggling to get out
+- He who turns the other cheek too far gets it in the neck
+- Friends come and go, but enemies accumulate
+- The trouble with being punctual is that people think you have nothing more important to do
+- Many people are desperately looking for some wise advice which will recommend that they do what they want to do
+- It may be that your whole purpose in life is simply to serve as a warning to others
+- The visibility of an error is inversely proportional to the number of times you have looked at it
+- All bad precedents began as justifiable measures
+- A bug in the code is worth two in the documentation
+- Natural laws have no pity
+- A certain amount of opposition is a help, not a hinderance - kites rise against the wind, not with it
+- Furious activity is no substitute for understanding
+- Any medium powerful enough to extend a man's reach is powerful enough to topple his world - to get the medium's magic to work for one's aims rather than against them is to attain literacy
+- Horace's best ode would not please a young woman as much as the mediocre verses of the young man she is in love with
+- Life is cheap, but the accessories can kill you
+- Every solution breeds new problems
+- A meeting is an event at which the minutes are kept and the hours are lost
+- You cannot use your friends and have them too
+- No guest is so welcome in a friend's house that he will not become a nuisance after three days
+- Experience is something you don't get until just after you need it
+- Just because you've got a list of to-do's doesn't mean your not done
+- Learn from your successes
+- Failure is not a prerequisite for success
+- Refer to your "plans" as the guesses they are
+- You have the most information when you're doing something, not before you've done it
+- The individual who persecutes a man, his brother, because he is not of the same opinion, is a monster
+- If you want something done, ask the busiest person you know
+- Policies are organizational scar tissue
+- Ideas are immortal, inspiration is perishable
+- Capitalism sells nothing as good as status
+- Sometimes perfect isn't good enough
+- Dreams shed light on the dim places that reason has yet to voyage
+- It's not what we don't know that gets us in trouble, it's what we know for sure that just ain't so
+- War is politics by other means
+- Everyone falls short of the glory of God
+- He whose life has a "why" can bear almost any "how"
+- Piracy is almost always a service problem and not a pricing problem
+- Any idiot can choose a frame of time in which nothing matters
+- If the internal voice makes you doubt the value of your endeavors, or your life, or life itself, perhaps you should stop listening
+- If the cards are always stacked against you, perhaps the game you are playing is somehow rigged
+- If the critical voice within says the same denigrating things about everyone no matter how successful how reliable can it be
+- Compare yourself to who you were yesterday, not to who someone else is today
+- Loyalty must be negotiated fairly & honestly
+- If you buy the story that everything terrible happened on its own with no personal responsibility on the part of the victim, you deny that person all agency in the past and by implication in the present and future as well, in this manner you strip the person of all power
+- Before you help someone, you should find out why that person is in trouble
+- A hero is something positive, not just the absence of evil
+- You can't inherit blame, but you can inherit responsibility
+- Keep an open mind, but not so open that your brains fall out
+- There are catastrophies lurking at the extremes of every moral continuum
+- The throne looks omnipotent only from afar
+- No man rules alone
+- Consistent churn will always look more impressive than inconsistent excellence
+- If you can't tell someone to go to hell, then you can't negotiate with them
+- Bulls do not win bull fights, people do
+- People do not win people fights, lawyers do
+- Your perspective on your willpower is a self fulfilling profecy
+- There are two ways to dislike art, one is to dislike it, the other is to like it rationally
+- Fear is an incompetent teacher
+- Change always comes later than we think it should
+- Adding manpower to a late software project makes it later
+- If you think tough men are dangerous, wait until you see what weak men are capable of
+- Price is what you pay, value is what you get
+- The difference between rape and ravishment is love
+- It requires no courage to come up with an idea and wait for gatekeepers to greenlight it
+- A ship in harbor is safe, but that's not what ships were built for
+- You were born to live a significant life
+- Your fears & frustrations show what is important to you
+- What you complain about is what you're gifted at
+- Your burden is your mandate
+- There is only the fear of failure and the fear of insignificance
+- Your dream is not safe
+- The two most important days in your life are the day you were born and the day you discovered why
+- There is no such thing as a dream job
+- Jobs weren't designed to bring your dreams to life, they were designed to bring the dreams of the founder to life
+- You don't go after your dream, your dream comes after you
+- Experimentation is the antidote to mystery
+- Whoever best describes the problem is the one most likely to solve it
+- Everyone we regard as brilliant has endured an enormous amount of failure - the difference is the quantity of ideas
+- Questions about whether design is necessary or affordable are quite beside the point: design is inevitable - the alternative to good design is bad design, not no design at all
+- Let the student's dead grass show you where to put the sidewalk
+- If you're looking where everybody else is looking, you're looking in the wrong spot
+- You owe it to us all to get on with what you're good at
+- If our ideas aren't spreading, it's not other people's fault
+- Empires are lubricated with blood
+- It'll cost you everything to dream, and everything not to
+- Your dream is not a hobby
+- There’s nothing wrong with a paycheck, unless it interferes with your ability to earn what you’re worth - it usually does
+- A great idea is a spreadsheet with skin on
+- Bold action in the face of uncertainty is not only terrifying, but necessary in the pursuit of great work
+- Steal like an artist
+- Your vision has a dark side - the minute you start pursuing it, the burden becomes bigger than the idea
+- A system keeps you going when the inspiration is gone
+- There are no such things as successful visionaries, only architects of successful vision-producing systems
+- The cost of being wrong is less than the cost of doing nothing
+- From 30,000 feet, creativity looks like art; from ground level, it's a to-do list
+- Opportunity is missed by most people because it is dressed in overalls and looks like work
+- The problem with activity is that it can feel like productivity, even though it accomplishes nothing
+- It's the job never started that takes the longest to finish
+- Extraordinary things are done by communities of passion
+- Control belongs to those who write the checks
+- If it's important to you, you'll find a way - if it's not, you'll find an excuse
+- Desperation is sometimes as powerful an inspirer as genius
+- People base their decisions on the asker, not the ask
+- Friendship is the conduit of your dream's success
+- It's not who you know, it's who they know
+- You can't develop thick skin by resolving to have it, you get it by being rejected over and over again
+- People aren't opposed, they're just busy
+- Babe ruth was the strikeout champion
+- Life begins at the end of the comfort zone
+- Never say "no" for other people, that's their job
+- You get in life what you have the courage to ask for
+- Truth is like poetry - and most people fucking hate poetry
+- Obsession is only obsession until it pays off, then it's diligence
+- Work out like your life depended on it
+- Without talking risks, you cannot win
+- Your dream is not about you, it's about offering a gift to the world
+- Demand isn't looking for you, you have to find it
+- Nothing is as powerful as an idea whose time has come
+- You don’t have to live your life the way other people expect you to
+- One can resist the invasion of an army but one cannot resist the invasion of ideas
+- An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity
+- Remember that it’s far easier to stand back and criticize someone else than it is to put your own beliefs forward
+- The world is desperately, impatiently waiting for you to figure out what you can give it
+- The most fulfilling lives focus outward
+- No one has ever been self-taught
+- The way you fulfill your obligation to the people who helped you is by doing the great stuff you’ve always dreamed about, while helping others go even further at the same time
+- Don't let your dreams be dreams
+- if you want to achieve your most significant goals, and you want to change the world for the better in the process, you really don’t need to jump through all the hoops that people hold up for you
+- You’ll never crush your own mediocrity working only four hours a week.
+- With great power comes great responsibility
+- Everybody picks their nose, what matters is what you do afterward
+- A life spent making mistakes is not only more honorable but more useful than a life spent in doing nothing
+- Stick to a schedule most days, and once in a while, break it entirely
+- What doesn't kill you will probably try to kill you again
+- In negotiation, whoever cares more loses
+- Money is the product of a collective imagination
+- There are many things worth worrying about, the challenge, however, is to worry about the right things
+- People think that only the future can be changed, but in fact, the future is continually changing the past
+- We are the unreliable narrator of our own story
+- You can't skip to the end of healing
+- Sometimes the safest decision you can make is to be aggressive
+- Before you question anyone else, question yourself
+- You can’t change other people, but you can change your relationship with them
+- The sense that’s holding you back is inertia, and the feeling that prevents you from constructing a new reality is fear
+- You can be the juiciest, ripest, richest apple in the world, but some people just don’t like apples
+- Life is actually easier the more responsible you are
+- Not deciding is the coward's way of quitting
+- You are good enough
+- It's hard to beat a person who never gives up
+- You have to establish the conditions for quitting long before the hardship
+- The imaginary failures plague us the most
+- Quit what doesn't work
+- Whenever you see a successful business, someone once made a courageous decision
+- The only way to be taken seriously is to act seriously
+- Not having money doesn't make your dream impossible, just inconvenient
+- First they ignore you, then they laugh at you, then they fight you, then you win
+- Never look back, unless you're planning to go that way
+- There are no overnight successes
+- Give your will a chance to stand up to your whim
+- No punishment anyone might inflict on you can possibly be worse than the punishment you inflict on yourself by conspiring in your own diminishment
+- It often takes the eyes of others to help us see
+- You know it's getting real when you add a new column to your spreadsheet
+- There is no selfhood outside of relationship
+- Every act of creation is first an act of destruction
+- If you have more than 3 priorities, you don't have any
+- We can never be certain of our reality, therefore we must determine our reality
+- The only way a goal has any use is if it comes out of you as an expression of what you deem valuable
+- Goals manifest your values
+- Goal attainment is binary
+- The best way to make sense of information is together
+- The best people to make sense of information are the users of that information
+- The best judges of what information is useful or not is the users of the information
+- Stories are meaning made human
+- Goals set by others imprison us
+- Something you are good at is not a strength, it's an ability - a strength is an activity that makes you feel strong
+- You will never feel proud of your work if you find no joy within it
+- The only thing to do with good advice is pass it on, it's never any use to oneself
+- The real purpose of books is to trap the mind into doing it's own thinking
+- Even if you're on the right track, you'll get run over if you just sit there
+- If God had wanted us to be concerned for the plight of the toads, he would have made them cute and furry
+- Learned men are the cisterns of knowledge, not the fountainheads
+- Standing on head makes smile of frown, but rest of face also upside down
+- A professor is one who talks in someone else's sleep
+- Tomorrow, this will be part of the unchangeable past but fortunately, it can still be changed today
+- The reason why worry kills more people than work is that more people worry than work
+- The control of the production of wealth is the control of human life itself
+- War is an equal opportunity destroyer
+- Love tells us many things that are not so
+- The activity of debugging ends when people get tired of doing it, not when the bugs are removed
+- To err is human; to admit it, a blunder
+- It is not every question that deserves an answer
+- When you die, you lose a very important part of your life
+- In the stairway of life, you'd best take the elevator
+- Freedom is still the most radical idea of all
+- You can't evaluate man by logic alone
+- Common sense is the most evenly distributed quantity in the word - everyone thinks they have enough
+- When the bosses talk about improving productivity, they are never talking about themselves
+- A fanatic is a person who can't change his mind, and won't change the subject
+- Even the best of friends cannot attend each other's funeral
+- It is not enough to have great qualities, we should also have the management of them
+- There is nothing more difficult to plan, more doubtful of success, nor more dangerous to manage, than the creation of a new system
+- It is easier to resist at the beginning than at the end
+- People will do tomorrow what they did today because that is what they did yesterday
+- If a thing's worth having, it's worth cheating for
+- Give a small boy a hammer and he will find everything he encounters needs pounding
+- Good teaching is one-fourth preparation and three-fourths good theatre
+- Growth is not a question of figuring out how to gain ability where we lack it, but of figuring out how to increase impact where we already have ability
+- Our strength is not where our performance is easiest, but where it is most impactful and increasing
+- We learn most in our comfort zone
+- You can't escape the madness of crowds by dogmatically rejecting them
+- Under perfect competition, no company makes an economic profit
+- Monopoly is the condition of every successful business
+- Everyone loses when the war isn't one worth fighting for
+- Either don't throw any punches, or strike hard and win
+- To succeed, you must study the endgame before everything else
+- Instead of pursuing many-sided mediocrity and calling it "well-roundedness", a definite person determines the one best thing to do and then does it
+- Everyone's behavior makes sense to them
+- Consider that you might be mistaken
+- Pride is not the opposite of shame, but it's source - true humility is the antidote to shame
+- Getting humiliated is different from becoming humble
+- The greatest problem in communication is the illusion that it has been achieved
+- The difference between science and screwing around is writing it down
+- Well-informed crowds are wiser than a small group of experts
+- Half of acting is reacting
+- Only invest in companies that have the potential to return the value of the entire fund
+- Not all knowledge is widely known
+- In a democratic society, a wrongful practice persists only when most people don't perceive it to be unjust
+- If you believe something hard is impossible, you'll never even start trying to achieve it
+- A great company is a conspiracy to change the world
+- When you share your secret, the recipient becomes a fellow conspirator
+- If men were angels, no government would be necessary
+- No man is a failure who has friends
+- For fast-acting releif, try slowing down
+- Opression is the mask of fear
+- Power doesn't panic
+- There comes a time when the risk of doing nothing becomes the greatest risk of all
+- Quantity has a quality in and of itself
+- In the short run the market acts like a voting machine, in the long run it acts like a weighing machine
+- Never deal with a rascal under the expectation that you can prevent him from cheating you
+- There are only 2 days in your life that don't have 24 hours
+- If you kill a murderer, the number of murderers in the world has not decreased
+- Your heart is a muscle, you should work to help it get stronger, but you shouldn't work it to failure
+- If you're gonna be dumb, you'd better be tough
+- To change your choices, you have to change your belief system
+- When you do things right, people won't be sure you've done anything at all
+- An antagonist is only as effective as the conflict they bring to the narrative
+- Democracy dies by apathy
+- You are measured by your actions, not your words
+- Love is not enough, but it sure helps
+- A wise person makes his own decisions, a weak one obeys public opinion
+- He who wonders discovers that this in itself is wonder
+- Tact is the ability to tell a man he has an open mind when he has a hole in his head
+- Humanity has advanced, when it has advanced, not because it has been sober, responsible, and cautious, but because it has been playful, rebellious, and immature
+- It's sweet to be remembered, but it's often cheaper to be forgotten
+- The reliability of machinery is inversely proportional to the number and significance of any persons watching it
+- A computer is like an Old Testament god, with a lot of rules and no mercy
+- There's no such thing as an original sin
+- I allow the world to live as it chooses, and I allow myself to live as I choose
+- One big pile is better than two little piles
+- Most general statements are false, including this one
+- Today is the first day of the rest of your life
+- If at first you don't succeed, redefine success
+- To be great is to be misunderstood
+- You won't skid if you stay in a rut
+- Reports are written in four tenses: past tense, present tense, future tense, and pretense
+- Watch out for novel uses of "Contractor Grammer", defined by the imperfect past, the insufficient present, and the absolutely perfect future
+- The greatest griefs are those we cause ourselves
+- It is better to wear out than rust out
+- Because we don't think about future generations, they will never forget us
+- Do what you can to prolong your life, in the hope that someday you'll learn what it's for
+- If a thing's worth doing, it is worth doing badly
+- I would much rather have men ask why I have no statue, than why I have one
+- It isn't easy being a Friday kind of person in a Monday kind of world
+- Never speak ill of yourself, your friends will always say enough on that subject
+- Life is too short to be taken seriously
+- While money doesn't buy you love, it puts you in a great bargaining position
+- Every successful person has had failures, but repeated failure is no guarantee of eventual success
+- Just as most issues are seldom black or white, so are most good solutions seldom black or white
+- Beware of the solution that requires one side to be totally the loser and the other side to be totally the winner
+- The reason there are two sides to begin with usually is because neither side has all the facts
+- When the wise mediator effects a compromise, he is not acting from political motivation, rather, he is acting from a deep sense of respect for the whole truth
+- Carelessly planned projects take three times longer to complete than expected, and carefully planned projects take four times longer to complete than expected, mostly because the planners expect their planning to reduce the time it takes
+- Laugh, and the world ignores you - crying doesn't help either
+- Fools ignore complexity, pragmatists suffer it, some can avoid it, geniuses remove it
+- Truth has no special time of its own, its hour is now - always
+- An age is called dark, not because the light fails to shine, but because people refuse to see it
+- Software is like entropy - it is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics
+- A theory is better than its explanation
+- Life is cheap, but the accessories can kill you
+- Life happens to you while you're busy making other plans
+- Be unburdened by modesty
+- A warrior sees everything as a challenge, an ordinary man sees everything as either a blessing or a curse
+- Great people create their lives actively, whereas everyone else is created by their lives, passively waiting to see where it will take them next
+- Great people go to work on their lives, not in their lives
+- Great people are those who know how they got where they are, and who know what they need to do to get where they're going
+- Absent of higher purpose, all habits are deadly
+- If you don't own it, you can't depend on it
+- If you don't orchestrate it, you don't own it
+- Confidence is domain-specific
+- The work we do is a reflection of who we are
+- Life gains reflect life aims
+- If you're comfortable, you're not growing
+- Comfort makes cowards of us all
+- Talk is cheap in love and war
+- Life happens wherever you are, whether you make it or not
+- When the well is dry, we know the worth of water
+- Hope is not a strategy
+- No judge should ever be influenced by the political weather of the day, but every judge should be influenced by the climate of the era
+- You can't place all the blame of a bad outcome on a bad decision
+- You can't assign all the credit of a good outcome on a good decision
+- Every decision you make is a bet
+- An idiot admires complexity, a genius admires simplicity
+- Often the worst thing you can do with a difficult question is try to answer it too quickly
+- If you're not comfortable questioning, you're going to fear change
+- Computers are useless, they only give you answers
+- Asking why things aren't better without taking action is just complaining
+- In the beginner's mind there are many possibilities, in the expert's mind there are few
+- Fear is the enemy of curiosity
+- If all you do are things from memes, then your life is a joke
+- Liberty is not being able to do whatever you want, liberty is the ability to exercise your will
+- A prototype is a question embodied
+- More money is not a solution to poor financial management
+- Wealth cannot be experienced alone in a vacuum
+- Affordability is when you don’t have to think about it
+- Money making systems are rarely as profitable as the act of selling them
+- Process creates events that other see as luck
+- You can’t be a victim if you don’t relinquish power to someone capable of making you a victim
+- People who don’t take responsibility are victims
+- You deserve what your actions earned or haven’t earned
+- Wheelchairs don't fit in Lamborghinis
+- An absolute monarchy is one in which the sovereign does as he pleases, so long as he pleases the assassins
+- The customer is always right in matters of taste
+- If you ever see the bomb guy go pale, run
+- The true warrior fights not because he hates what's in front of him, but because he loves what's behind him
+- Change is the enemy of perfect design
+- Life isn't all roses and butterflies, but there are roses and butterflies
+- It's rather easy to turn honor into money, but almost impossible to turn money into honor
+- A necromancer is a healer that just got there a little late
+- Everything is always in the last place you look
+- Whatever can happen will happen
+- There's never time to do it right, but there's always time to do it over
+- To change is difficult, not to change is fatal
+- Action precedes motivation
+- If you want to tell somebody the truth, make it funny, or else they'll kill you
+- Every great man is the actor of his own ideal
+- Safety warnings are written in blood
+- Time heals all wounds, but usually just by forgetting
+- Even great blessings have complications
+- Wisdom is the co-existence of contradictory truths
+- Maturity means, among many other things, an ability to calibrate your behavior in a way that renders it appropriate to the circumstances
+- Womanhood is defined more by biology whereas Manhood is defined more by social construction
+- Success breeds ambition
+- Most people's natural response to success is not satisfaction, but a craving for more
+- Being smart isn't about what you know or don't know, it's about if you're willing to change your mind when you learn something new
+- For a species to continue, it is better to be alive than right
+- Nothing is more permanent than a temporary solution
+- Your relationship with others is a direct reflection of your relationship of yourself
+- The only way to feel better about yourself is to do things worth feeling good about
+- The only failure is not trying
+- The only rejection is not asking
+- The only mistake is not risking anything
+- No one is coming to save you
+- No one thing will solve your problems
+- Be the partner you want to have
+- Taking responsibility for your problems alleviates more pain than it creates
+- You give power to who you blame
+- Motivation is not the cause of action, but the effect
+- Love is not the cause of commitment, but the effect
+- Passion is not the cause of good work, but the effect
+- A happy life is not a life without stress, it's a life of meaningful stress
+- Don't view excersize as an exchange for something, view it as an investment
+- There's no such thing as a life without problems
+- The solution of today's problems will be the seed of tomorrow's
+- Change always has a component of grief
+- If you can't say no, then your yes' mean nothing
+- Be careful of how you define yourself
+- Don't make assumptions about people, including yourself
+- Confidence does not come from an expectation of success, it comes from a comfort with failure
+- The hate you get is proportional to the impact you make
+- There's no such thing as a bad emotion, only a bad response to an emotion
+- You don't have to prove anything to anyone, including yourself
+- Advice is like clothing, bad advice will be useless within a few weeks, but good advice will last you a lifetime
+- It is impossible to sustain order without meaning
+- Memory doesn't make films, it makes photographs
+- Security at the expense of usability comes at the expense of security
+- Bugs are most expensive in production, cheaper to fix in dev, but least expensive to avoid in design
+- Not all people who fight you are your enemy
+- Learning deeply is learning slowly
+- Frustration is not a sign that you are not learning, but ease is
+- The most effective learning looks like lagging behind
+- Good drivers sometimes miss their turn, bad drivers never do
+- If you're going to be dumb, you've got to be tough
+- Intentions matter only in the absence of results
+- Consensus is nice to have, but we shouldn't be optimizing happiness, we should be optimizing our decisions
+- Be careful to not be too careful
+- Programming is just excel without the boxes
+- Beware of an old man in a profession where men usually die young
+- When you find a good fit, it will look like grit
+- We learn who we are in practice, not in theory
+- A jack of all trades is a master of none, but often much better than a master of one
+- Those who say burn it down have never had to build anything
+- Catch a man a fish, and you can sell it to him; teach a man to fish, and you ruin a wonderful business opportunity
+- If passion drives you, let reason hold the reins
+- Passion, though a bad regulator, makes a powerful spring
+- A desk is a dangerous place from which to view the world
+- If you want to have an allegiance to truth, you have to trade in the comfort of constant certainty
+- You can't be lost if you don't know where you're going
+- Plans are only good intentions unless they immediately degenerate into hard work
+- Building relationships is a strategy, not a tactic
+- Advertising is like sex, only losers pay for it
+- Every great entrepreneur is first and foremost a designer
+- A business with a good plan will always be underrated in a world where people see the future as random
+- Iteration without a bold plan won't take you from 0 to 1
+- Criticism is like a nut, surrounded by a hard shell; the hard shell represents a projected experience from a biased perspective, something you should discard and ignore, if you can discard the shell there is often something you can learn from its core
+- The outside world judges our actions based almost entirely on results
+- He who isn't busy being born is busy dying
+- Out of suffering have emerged the strongest souls; the most massive characters are seared with scars
+- The mantra of the traveler is to make peace with waiting; the mantra of by the quester is to keep moving forward
+- The first 90 percent of the work is easy, the second 90 percent wears you down, and the last 90 percent - the attention to detail - makes a good product
+- A good traveler has no fixed plans, and is not intent on arriving
+- The opposite of addiction is not sobriety - it's connection
+- Find what troubles you about the world, then fix it for the rest of us
+- When you have completed 95% of your journey, you are only halfway there
+- When you make progress toward a small goal, the bigger vision expands
+- If you can't change the world, at least you can change yourself
+- The problem with the world is that the smart people are full of doubts while the stupid ones are full of confidence
+- A work is never truly completed, but abandoned
+- Not everyone needs to believe in your dream, but you do
+- Everyone dies, but not everyone truly lives
+- Both the optimist and the pessimist contribute to society: the optimist invents the airplane, and the pessimist invents the parachute
+- Be careful what you wish for, you just may get it
+- Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes
+- If something has 100 variables and you set goals on 10 of them, by default, the remaining 90 will be pushed to extreme values
+- Treat every gun not like it's loaded, but like it's bloodthirsty and motivated
+- It's better to be at the bottom of the ladder you want than the top of the one you don't
+- You can't opt out of monotony, but you can choose what form it takes
+- If you give a man a fire you'll warm him for a night, if you set him on fire he'll be warm the rest of his life
+- You can live the rest of your life underwater
+- Airports have seen more sincere kisses than the wedding halls, and hospital walls have heard more sincere prayers than the walls of churches
+- The moment you start wondering how much space you occupy in a person's heart, give them space and see how long it takes for them to fill it
+- Let people do what they want to do so you see what they'd rather do
+- If you hit a wrong note, it's the next note that determines if it was good or bad
+- If parents don't dicipline their children, the world will
+- You get what you tolerate
+- Don't let a fox guard the hen house
+- The cause of divorce is unmet expectations
+- Arrogance is counterfit confidence
+- You don't need to brush all your teeth, just the ones you want to keep
+- True freedom is not immunity from responsibility, but the ability to fulfill our responsibilities
+- Any simplification can also be misleading
+- Warning: objects in your memory are worse than they appear
+- If it disagrees with experiment, it's wrong
+- Villains aren't born, they're made
+- You can easily judge the character of a man by how he treats those who can do nothing for him
+- Paralysis by analysis and perfectionism has killed more dreams than failure ever could
+- If the perception is worse than reality, change the perception, not the reality
+- We are gods with anuses
+- When you were born, you cried and the world rejoiced - live your life so that when you die, the world cries and you rejoice
+- It is no measure of good health to be adjusted to a profoundly sick society
+- Be able to make a living without sacrificing your interests and ethics
+- Be able to listen to your loved ones without outsourcing your agency
+- Be able to form lasting friendships without relying upon flattery
+- The thing about potential is that it's invisible
+- A wise leader of state looks at the numbers, but not only the numbers
+- A country cannot function without a government, but a government cannot solve every problem
+- The news is not very useful for understanding the world
+- Data must be used to tell the truth, not to call to action
+- The people trying to solve a problem should not be the ones measuring their progress
+- If you can't track progress, you don't know whether your actions are working
+- Look for causes, not villains
+- The world cannot be understood without numbers, but it cannot be understood with numbers alone
+- Everything you need to survive is lethal in high doses
+- Dogmatism is a sure sign of a bad predictor
+- The worst part about being a champion is you have to ruin someone's dream to achieve yours
+- Easy problems evaporate, it's the hard ones that linger
+- When you see an apparent contradiction, you're about to learn something
+- The first 50 years of childhood are the most difficult
+- Men are boys who survived their childhood
+- If you can't explain it to a 6 year old, then you don't understand it yourself
+- Work is the blackmail of survival
+- In the human psyche, bad weighs heavier than good
+- A rising tide of bullshit soils all boats
+- Extraordinary claims require extraordinary evidence
+- Life is hard, but it's harder when you're stupid
+- The greatest risk to electricians is other "electricians"
+- There are no solutions, only tradeoffs
+- The reality of death is banality
+- It is rarely obvious when death is close
+- Art is not the artist
+- Evil is when you do something that you know you shouldn't
+- Everything is a conspiracy theory when you don't trust anything
+- If you can't feel connected to a character because they don't look like you, perhaps you don't actually share those noble qualities you admire so much
+- If we don't know our own history, we are doomed to live it as though it were our private fate
+- The world we inhabit is something we have made, and therefore something we can make differently
+- The status quo is something we have made and since nothing is permanent, is therefore something we could make differently
+- If everywhere you go smells like crap, check your shoe
+- The risks that scare people and the risks that kill people are very different
+- Risks that you control are much less a source of outrage than risks you can't control
+- Don't take wisdom from all old people, idiots also get old
+- The most fashionable person in the room has no reason to be embarrassed
+- When one door closes and another one opens, your house is haunted
+- No road is long with good company
+- We overestimate what we can do in a day, but underestimate what we can do in a year
+- Attention is the most basic form of love
+- Attention is the rarest and purest form of generosity
+- Nothing is more dangerous than sincere ignorance and contientous stupidity
+- Trust is always a leap of faith
+- If you have selfish, ignorant citizens you’re going to have selfish, ignorant leaders
+- Silence implies consent
+- It is not our abilities that show who we truly are, it is our choices
+- You can make more friends in 2 months by becoming genuinely interested in people than you can in 2 years by trying to get people interested in you
+- No one can break things like a malicious colleague
+- It takes a great deal of courage to stand up to your enemies, but a great deal more to stand up to your friends
+- A child’s voice, however honest and true, is meaningless to those who’ve forgotten how to listen
+- It's easier to register the presence of something than its absence
+- Every exponential curve in the real world is just the start of a logistic curve
+- In contests of persuasion counter-arguments are typically more powerful than arguments
+- In the family of ideas, there are no orphans
+- He who wants to persuade should put his trust not in the right argument, but in the right word
+- If you want to change the world, change the metaphor
+- The government you elect is the government you deserve
+- What's focal is presumed causal
+- You get the traffic you build for
+- Unfinished tasks are the more memorable
+- Always start with a mystery that you later resolve with a story
+- Always stop working before your work is done, when you know exactly what needs to be done next
+- The jump always feels scary, but often the landing is amazing
+- Fame is a mask that eats the face
+- When alternative medicine is proven to work it starts to be called medicine
+- It's always easier to promise a bright future than build a better present
+- An expert is a person who has made all the mistakes that can be made in a very narrow field
+- The time between your failures determines how long it takes to get good at something
+- Populism is not an ideology but a marketing strategy
+- It's lonely at the top
+- When you do things right, people won't be sure that you've done anything at all
+- Every tool is a hammer
+- Propaganda works best when those who are being manipulated are confident they are acting on their own free will
+- A lie travels halfway around the world while the truth is still putting on it's shoes
+- Arrogance is a sign of ignorance
+- It's cheap to be rich and expensive to be poor
+- You can't teach a person something when their income relies upon them not knowing it
+- Hard work beats talent when talent doesn't work hard
+- The height of cowardice is risk transferrance
+- Risk-taking is bravery
+- You are never dedicated to something you have complete confidence in
+- You can't talk yourself out of feeling like you never accomplish anything
+- You're only arrogant if you're wrong
+- If you uncritically produce, without thought for who gets the surplus and how the system you inhabit behaves, you will be uncritically consumed
+- Anyone who refuses to criticise their country can’t call themselves a patriot
+- The person that has never left his country will say that his country is the best in the world
+- Learning is not only fun, it's also way cooler than not learning things
+- It's one thing to protect people from Pharoh, it's another to challenge Pharoh directly
+- Sentimentality isn't a soft trait designed to bring tears to your eyes; it's a symbol of strength that emboldens the heart towards what matters
+- It's profound to experience an event that brings a cliché to life
+- Troughs birth epiphanies that then propel you towards peaks
+- It's impossible to learn that which you think you already know
+- Power doesn't corrupt, power reveals
+- Progress is not inevitable it is the result of sustained ongoing open ended funding and collaboration
+- Unless someone like you cares a whole awful lot, nothing is going to get better
+- Injustice anywhere is a threat to justice everywhere
+- If a bullet took 5 years to reach a target, very few criminals would be convicted of homicide
+- To be a leader, you have to have followers
+- You can't stand for something if you chase after everything
+- You never know what is enough unless you know what is more than enough
+- Almost everything will work again if you unplug it for a few minutes, including you
+- Suffering ceases to be suffering the moment it finds a meaning
+- Categories divide, not combine
+- The reasonable man adapts himself to the world, the unreasonable man adapts the world to himself, therefore, all progress depends on the unreasonable man
+- Companies that live by the numbers die by the numbers
+- Startups don't starve, they drown
+- The target is not the market
+- It is better to see once than to hear one hundred times
+- Real revolutions appear at the middle of the night and kind of sneak up on you
+- You'll get farther with a mediocre idea and one million dollars than with a great idea alone
+- Success is the best revenge of all
+- If you don't swing for the fences, it's impossible to hit a home run
+- No person can be wildly original in one area unless they are also posessed by emotional and physical stability in the other areas of their life
+- Creativity is allowing yourself to make mistakes; art is knowing which ones to keep
+- Failing will yield less regret than failing to try
+- The biggest barrier to originality is not idea generation but idea selection
+- When it comes to idea generation, quantity is the most predictable path to quality
+- You've got to kiss many frogs before you stumble upon a prince
+- If you're going to make connections that are innovative you have to not have the same bag of experiences that everyone else does
+- It is when people have moderate expertise in a particular domain that they are the most open to radically creative ideas
+- Products don't create value, customers do
+- Hours of hard work can save minutes of planning
+- Before you criticize people you should walk a mile in their shoes; that way, when you criticize them, you're a mile away, and you have their shoes
+- The greatest tradgedy of mankind comes from the inability of people to have thoughtful disagreement to find out what's true
+- When you tell the emperor he has no clothes, you'd better be a good tailor
+- If you're always expected to have an answer ready, you'll arrive at meetings with your diagnosis complete, missing out on the chance to learn from a broad range of perspectives
+- Argue like you're right and listen like you're wrong
+- You gain believeability by other believeable people saying you're believeable
+- Your fear of not succeeding must exceed your fear of failing
+- Courage is not the absence of fear, but the triumph over it
+- The brave man is not he who does not feel afraid, but he who conquers that fear
+- When we're anxious, the unknown is more terrifying than the negative
+- Proper revolutions are not cataclysmic explosions, they are long, controlled burns
+- The first follower is what transforms a lone nut into a leader
+- Never doubt that a small group of thoughtful citizens can change the world; indeed, it's the only thing that ever has
+- Originality comes not from people who match the culture, but from those who enrich it
+- The musician with the greatest imact on the orchestra doesn't play an instrument at all
+- Never judge a decision by its outcome
+- When the people fear the leaders you have tyranny, where the leaders fear the people you have liberty
+- A virtue can be made of necessity
+- What is learned out of necessity is more powerful than that that comes easily
+- Don't write a book unless you cannot not write the book
+- You can't connect the dots looking forwards, you can only connect them looking backwards
+- We often miss opportunity because it is dressed in overalls and looks like work
+- Power has to be seen as legitimate, or else it has the opposite of its intended effect
+- When we talk of greatness we focus not on averages, but on peaks
+- Great spirits have always encountered opposition from mediocre minds
+- Status cannot be claimed, it has to be earned or granted
+- Unfamiliarity breeds contempt
+- Familiarity doesn't breed contempt, it breeds comfort
+- Never put off until tomorrow what you can do the day after tomorrow
+- Coalitions often fall apart after people refuse to moderate their radicalism
+- For organizations the most important person to insiders is the most well-connected person but the most important person to outsiders is the most extreme person
+- Original Breakthroughs come after more criticism, not less
+- Dissenting opinions are useful, even when they're wrong
+- Courage is not something that you already have that makes you brave when the tough times start, courage is what you earn when you go through the tough times and discover that they aren't so tough after all
+- The trickster is not a trickster by nature, he's a trickster by necessity
+- If you feel threatened, you cannot feel curious
+- Humiliation is the nuclear bomb of emotions
+- You cannot own ideas, they belong to the group
+- To be brought low, we have to first see ourselves as belonging up high
+- The greatest humiliations are the ones that feel public
+- One man's transparency is anothers' humiliation
+- If humiliation is the nuclear bomb of conflict, and humiliation is subjective, then it can be manipulated, it can be incited on purpose
+- Conspiracy theories reassure us that life is not, after all, fragile and chaotic
+- Rumors can kill
+- It's easy to ignore hypocrisy when you have an enemy
+- It's through the extremes that we can see the contours of the commonplace more easily
+- Having power over someone, even the wrong someone, feels like something
+- Narrowing makes conflicts intractable
+- You don't apologize to ask forgiveness, you apologize to repent, forgiveness is a gift
+- Your emotions aren't just reactions to the outside world, they're predictions
+- It's not wrong to question, but it does become wrong when you don't accept the answer
+- There is no use putting suffering on a scale and weighing it
+- Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away
+- When people do not talk about their emotions they lose the ability to be stretched emotionally and spiritually and come out the other side with a better understanding of each other
+- Curiosity is a prerequisite to change
+- Be suspicious of simple stories
+- Persuasion requires understanding, and understanding requires listening
+- Great Storytelling is more effective than any form of coersion
+- Hatred assumes the enemy is immutable
+- War is a force that gives us meaning
+- In high conflict there is almost always false simplicity lingering somewhere in the narrative, and in that simplicity no one hears what they don't want to hear
+- All people are complicated
+- People need to believe you understand them, even as they realize you disagree, before they will hear you
+- Almost no one changes until they feel heard
+- Whenever there's blame, there's usually some kind of vulnerability underneath
+- Listening does not mean legitimizing or amplifying what other people say, you still decide what to put in the story and what to keep out
+- Listening doesn't mean agreeing
+- Shame rarely has the desired effect, even with people we know, and never with those outside our tribe
+- Separation can lead to prejudice
+- Don't allow a narrative to be the grounds on which you make a decision about people
+- The search for truth lies in controversy, not agreement
+- A fool takes no pleasure in understanding, but only in expressing his opinion
+- Only a fool or an adolescent presumes to know someone else's relationship
+- The world is shaped by those who show up
+- Symbolic concessions matter a lot in conflict, they disrupt the feedback loops and lower everyone's guard, creating space where there was none, at least for a moment
+- The kinds of changes that are significant don't really come about by coersion, they come about by understanding, and understanding is hard won
+- To help people out of conflict at scale, you must clear a path, and that path must be safe, legitimate, and easy to find
+- If you want to help people out of high conflict don't ask them to betray their remaining identities, the ones that transcend the conflict, these are the identities they will need to stay out of the conflict
+- When a man is denied to live the life he believes in, he has no choice but to become an outlaw
+- Anyone who wants to help people out of high conflict should help their families
+- Whenever you hear language that seems disproportionate to the conflict - pay attention - a high conflict exceeds itself, everything is magnified
+- High conflicts tend to erupt in places with low trust
+- When there's low trust it's very hard to create a consensus about the facts, people become so suspicious about one another that they can believe anything - this makes it easy for conflict entrepreneurs to enflame the conflict further, and any attempt to end the conflict fuels more distrust
+- Questions help us to buy some time, make some space, and consider a conflict from a little distance
+- It is undeniably possible to shift out of high conflict, but it is much easier to prevent it alltogether, to create a culture that is conflict-resilient
+- Regular people are the experts in their own lives
+- Work with others who share common tactics, not necessarily common goals or beliefs
+- When fascism becomes reality, resistance becomes duty
+- Technology is only as good as the function we assign it
+- A critic is a bundle of biases held loosely together by a sense of taste
+- To stay youthful, stay useful
+- Flattery is like cologne - to be smelled, but not swallowed
+- An effective way to deal with predators is to taste terrible
+- If you think the price of success is too high, you can always wait for the bill of regret
+- People perform up to their expectations
+- Love means nothing to a tennis player
+- Do not count your chickens before they are hatched
+- A death wish is the only wish that always comes true, whether or not one wishes it to
+- An elephant is a mouse, built to government specifications
+- To show kindness to the wretched, to see the lingering ember of humanity in the most corrupt, this is the truest form of mercy
+- Research is formalized curiosity - it is poking and prying with a purpose
+- A wrong answer draws right answers faster than a question
+- Free speech is not free, it is pre-paid
+- An object will fall so as to do the most damage
+- The chance of the bread falling with the butter side down is directly proportional to the cost of the carpet
+- It's much easier to be critical than correct
+- Premature optimisation might be the root of all evil, but overdue optimisation is the root of all frustration
+- Performance isn't technical, it's perceptual
+- Speed Kills, Slowness Saves
+- Temporary things are never as temporary as you want them to be
+- It always seems impossible until it is done
+- When a distinguished but elderly scientist states that something is possible, he is almost certainly right - when he states that something is impossible, he is very probably wrong
+- Any sufficiently advanced incompetence is indistinguishable from malice
+- Any sufficiently advanced act of benevolence is indistinguishable from malevolence
+- Any sufficiently advanced 
+- Reductio ad absurdum fails when reality is absurd
+- God's first language is silence
+- Your stop-doing list is more important than your to-do list
+- The best students are those who never quite believe their professors
+- You can accomplish anything in life provided you do not mind who gets the credit
+- Great leaders look outside the window to apportion their successes, and if they can't find anything, they attribute it to luck, and they look inside the mirror to attribute blame - bad leaders do the opposite
+- When you know you need to make a people change - act
+- The moment you feel the need to tightly manage someone, you've likely made a hiring mistake
+- The best people don't need to be managed, disciplined, motivated - guided, taught, led, yes, but not managed
+- Put your best people on your biggest opportunities, not your biggest problems
+- Managing your problems can only make you good, whereas building on your opportunities is the only way to become great
+- When you decide to sell off your problems, don't sell off your best people
+- If you create a place where the best people have a seat on the bus, they're more likely to support changes in direction
+- First, be sure you don't simply have someone in the wrong seat
+- The purpose of compensation is not to motivate the right behaviors from the wrong people, but to get and keep the right people in the first place
+- People are not your most important asset - the right people are
+- There is no worse mistake in public leadership than to hold out false hope soon to be swept away
+- Build a culture that is hostile to complacency
+- The key lies not in having better information, but in turning information into information that cannot be ignored
+- You must never confuse faith that you will prevail in the end, that you can never afford to lose, with the discipline to confront the most brutal facts of your current reality, whatever they might be
+- When you start with an honest and diligent effort to determine the truth of your situation, the right decisions often become self-evident
+- It is impossible to make good decisions without infusing the entire process with an honest confrontation of the brutal facts
+- Create a culture where people have a tremendous opportunity to be heard, not just have their say, but to be heard, and ultimately, for the truth to be heard
+- Lead with questions, not answers
+- Engage in dialogue and debate, not coersion and manipulation
+- Conduct autopsies without blame
+- Build red-flag mechanisms that turn information into information that cannot be ignored
+- Charisma can be as much a liability as an asset, it can deter people from bringing you the brutal facts
+- Leadership does not begin just with vision, it begins with getting people to confront the brutal facts and to act on the implications
+- The key is not how to motivate people, but how to not de-motivate people
+- One of the primary ways to de-motivate people is to ignore the brutal facts of reality
+- Greatness is not primarily a function of circumstance - greatness is first and foremost a function of conscious choice and discipline
+- A great company is much more likely to die of indigestion of too much opportunity, than starvation from too little - the challenge becomes not opportunity creation, but opportunity selection
+- It takes discipline to say no, no thank you, no not for us
+- That something is a once-in-a-lifetime opportunity is a fact, it is not a reason
+- Make and maintain a stop-doing list in addition to a to-do list
+- For organizations, budgeting should not be about what each initiative gets of the pie, but should be focused on which initiatives should be fully supported and which shouldn't exist at all
+- If you're clinging to the safety of the old, turns out it's just as unsafe as the new
+- The most successful investment strategy is a highly un-diversified portfolio, where you are right
+- It's much easier to become great than it is to remain great
+- Don't waste time on anything that doesn't fit
+- The signature of a truly great entity is not the absence of difficulty, but the ability to come back from difficult times even stronger than before
+- Resiliency is the signature of greatness
+- Your mind is for having ideas, not for holding them
+- Draw a distinction between share-holders and share-flippers
+- You gain confidence in what you know only when you know that it works
+- Everything not saved will be lost
+- Those who become great, never get tired of the basics
+- The best curators are picky about what they let into their collections
+- Emotions organize rather than disrupt rational thinking
+- The moment you first encounter an idea is the worst time to decide what it means
+- We don't need complex, sophisticated systems to create complex, sophisticated works
+- You are what you consume - which applies to information as well as nutrition
+- Having writer's block is not about a lack of inspiration, it's a lack of references to draw from
+- Organize ideas by where they are going, not by where you got them
+- The true test of whether a piece of knowledge is valuable is not whether it is perfectly organized and neatly labelled, but whether it can have an impact on someone or something that matters to you
+- It is only the steady completion of tangible wins that can infuse you with a sense of determination, momentum, and accomplishment - it doesn't matter how small the victories
+- Once you have a home for something, you tend to find more of it
+- To attain knowledge, add things every day - to attain wisdom, remove things every day
+- Manage the system, not the people
+- The purpose of bureaucracy is to compensate for incompetence and lack of discipline, a problem that largely goes away if you have the right people in the first place
+- You can't measure time until you're certain about what you're doing
+- Cleverness for cleverness' sake is bad
+- Work backwards from user pain
+- Design twice, code once
+- Explore the risks in a project before diving deep
+- Focus on people over processes
+- Building a product is a science
+- The first response to a new idea is "maybe later" - maybe, because it must be evaluated, and later, because it shouldn't disrupt current work
+- High team autonomy and low organizational structure leads to tech chaos
+- You do not rise to the level of your goals, you fall to the level of your systems
+- A collective psyche is loosened when someone is allowed to publicly flaunt the agreements we have all made with one another
+- Good advice is something a man gives when he is too old to set a bad example
+- Run after your passions with everything you have, just be sure to take notes along the way
+- In order to know what you want, you must first know yourself
+- We know more than we can say
+- Every external idea is like a mirror, surfacing within us the truths and the stories that want to be told
+- When you encounter an idea that resonates with you, it is because that idea reflects back to you something that is already within you
+- Knowledge is the only resource that gets better and more valuable the more it multiplies
+- Do things out of service, not obligation
+- It's never a person's toolset that constrains their potential - it's their mindset
+- Our ability to deploy our attention is now our most valuable skill
+- An idea wants to be shared, and in the sharing it becomes more complex, more interesting, and more likely to work for more people
+- Any system that must be perfect to be reliable is deeply flawed
+- Code is not an asset - it's a liability
+- You aren't a failure until you start to blame
+- The economy is like a person going for a walk, and the stock market is like their dog, yipping around them erratically
+- True strength isn't found in domination or display, but in self-mastery
+- One often meets his destiny on the road he takes to avoid it
+- You can't ever be the king, everybody else has to let you be the king
+- Status is only conferred upon you
+- Beware any religious movement that demands governments be instruments of God's wrath but never a source of God's mercy, generosity, or compassion
+- Every sport is a team sport
+- A superstar's talent can win games, but it's teamwork that wins championships
+- A champion is someone who can raise their level of play when they need to
+- The mark of a champion is the ability to win when things are not quite right
+- At its core, marketing is teaching
+- Whatever you are ignoring will never go away
+- Whatever is lurking will fester whether you choose to look or not
+- Ignorance is no protection from the consequences of inaction
+- Whatever you are wishing away will gnaw at you until you gather the courage to face what you would rather not see
+- Culture is defined by what you let happen
+- If you can't learn to do it well, learn to enjoy doing it badly
+- There is no substitute for good manners, except, perhaps, fast reflexes
+- If you think curiosity without rigor is bad, you should see rigor without curiosity
+- When neither their poverty nor their honor is touched, the majority of men live content
+- When you and your team are not familiar with a paradigm, pick a tool that enforces that paradigm
+- Everything's open-source if you can read assembly
+- Make a platform that is beautiful for developers, and the developers will build a beautiful product for the users
+- The law will never make men free; it is men who have got to make the law free
+- Some men who fear they are playing second fiddle aren't in the band at all
+- Laugh, and the world ignores you - crying doesn't help either
+- Education and religion are two things that aren't regulated by supply and demand - the less of either people have, the less they want
+- One of the largest consolations for experiencing anything unpleasant is the knowledge that one can communicate it
+- Serve two masters and you will serve neither well
+- An idealist is one who, on noticing that a rose smells better than a cabbage, concludes that it will also make better soup
+- Coincidences are spiritual puns
+- The wise shephard never trusts his flock to a smiling wolf
+- Money is better than poverty, if only for financial reasons
+- No one will remember if you launch 2 weeks late, but everyone will remember if you launch and it's a disaster
+- A commune is where people join together to share their lack of wealth
+- The truth is rarely pure, and never simple
+- People are extremely sensitive to how information is presented
+- The greater your ignorance, the more verifiably accurate must be your facts
+- Only start projects when you have 80% of the work already done
+- Some of our best creative projects are those in which we connect the dots for other people in ways they would not be able to do themselves
+- Creativity is inherently collaborative
+- The fundamental difficulty of creative work is that we are often too close to it to see it objectively
+- We only know what we make
+- By the time you sit down to make progress on something, all the work to gather and organize the source material needs to already be done
+- Innovation and problem solving depend on a routine that systematically bring interesting ideas to the surface of our awareness
+- End with the beginning in mind
+- Begin with the end in mind
+- When the full complexity of a project starts to reveal itself, most people choose to delay it - we tell ourselves we just need more time, but the delay ends up creating more problems than it solves
+- Postponing our goals and desires to later often ends up depriving us of the very experiences we need to grow
+- The problem isn't lack of time, it is that we forget that we have control over the scope of the project
+- You don't know what you should create, but you can't discover what people want until you create something
+- Share what you've made before you are ready
+- The only time we have to maintain our systems is during our actual work
+- With great responsibility, you deserve great power
+- It's not always the people who start out the smartest who end up the smartest
+- Don't give a test or an expert the power to define you
+- All effort is not created equal
+- There's only a razor's edge between self-confidence and hubris
+- True self-confidence is the courage to be open, to welcome change and new ideas, regardless of their source
+- Real self-confidence is not reflected in a title, an expensive suit, a fancy car, or a series of acquisitions, it is reflected in your mindset, your readiness to grow
+- Be a guide, not a judge
+- Negotiation is a skill, it can be learned
+- Introversion or extraversion is a skill, you can learn to like being alone or with people
+- Create an organization that prizes the development of leadership
+- To understand all is to forgive all
+- Chosing a partner is choosing a set of problems, there are no problem-free candidates, the trick is to acgnowledge each other's limitations and build from there
+- Don't judge - teach
+- Make sure it's possible to work towards the ideals you have
+- A good teacher is one who continues to learn along with their students
+- Lowering standards doesn't raise self-esteem, but neither does raising them without giving people the means of achieving them
+- Acting is reacting
+- You can buy nice, or you can buy twice
+- Appreciate endowment, but admire effort
+- The only thing worse than being blind is having sight but no vision
+- Freedom is expensive
+- Any metric used as a benchmark becomes a target
+- In a world of abundance, the bar should be higher for quality
+- The way of the world is to praise dead saints and prosecute live ones
+- Test the behavior you want to preserve
+- Far better an approximate answer to the right question which is often vague, than an exact answer to the wrong question, which can always be made more precise
+- The power of the people is greater than the people in power
+- A man's praise in his own mouth stinks
+- When people say "impossible" they usually mean "improbable"
+- Quality in software is defined by our ability to change it
+- Takeoffs are optional but landings are mandatory
+- The real drama of a story happens within the characters
+- The line of good and evil cuts through the heart of every human being
+- If you don't have a specification, then all you have is a vague idea
+- The hardest single part of building any system is deciding precisely what to build
+- Horace's best ode would not please a young woman as much as the mediocre verses of the young man she is in love with
+- The explanation requiring the fewest assumptions is most likely to be correct
+- Power is corrupt only when it is seized, rather than being carefully cultivated
+- Who you are without power says a great deal about who you will be with power
+- When you stand before God you cannot say that I was told by others to do thus, or that virtue was not convenient at the time, this will not suffice
+- Wisdom means nothing if it is not acted on
+- Wisdom is justified by all her works
+- It is much easier to suggest solutions when you know nothing of the problem
+- A truth that's told with bad intent beats all the lies you could invent
+- Modesty is the gentle art of enhancing your charm by pretending to not be aware of it
+- It's not reality that's important, but how you percieve things
+- Life sucks, but it's better than the alternative
+- When injustice becomes law, resistance becomes duty
+- It is no measure of health to be well adjusted to a profoundly sick society
+- The tension between what we’re capable of and what we’ve inherited is the core struggle of the human condition
+- Journalistic integrity is objectivity, not neutrality
+- Neutrality is not objective
+- Objectivity is not neutral
+- You know you're great when your enemies praise you as much as your own folk
+- If you want a man dead, hire an assassin, but if you need a man dead, hire an army
+- If you want to succeed, strike out on new paths rather than travel the worn paths of accepted success
+- If you don't have time to do it right, what makes you think you'll have time to do it twice?
+- There's only so much fortune a man really needs and the rest is just for showing off
+- Clarity about what matters provides clarity about what does not
+- You pilot always into an unknown future; facts are your single clue
+- To educate a person in the mind but not in morals is to educate a menace to society
+- The right time to build a brand is when you don’t need it
+- If you're feeling stagnant, that's data, not failure
+- For every problem there is a solution that is simple, neat, and wrong
+- Slow is smooth, and smooth is fast
+- Do more than anyone expects, and pretty soon everyone will expect more
+- The trouble with doing something right the first time is that nobody appreciates how difficult it was
+- Steady movement is more important than speed, much of the time
+- If a nation expects to be ignorant and free, it expects what never was and never will be
+- Compassion doesn't mean you have to be compassionate for hate
+- The boring is the engine of the brilliant
+- Don't follow your dreams, follow your tools
+- If you draw wisdom from only one place it becomes rigid and stale
+- There is a simple honor in poverty
+- Truth is light, but don't collapse the wavefunction too early
+- It's the consistency that's more important than the intensity that matters to getting things done
+- Seek freedom and become captive of your desires, seek discipline and find your liberty
+- Power is a coordination problem
+- Worker solidarity is not telling someone their job sucks it's telling their job sucks while helping them
+- Contrast is the mother of clarity
+- Poverty is not a moral failing of the poor, it's a moral failing of the rich
+- Courage is a far rarer attribute than intelligence
+- The sad truth is that most evil is done by people who have not made up their minds to do good or evil
+- When we are no longer able to change a situation, we are challenged to change ourselves
+- Freedom purchased at the price of obedience is no freedom at all
+- The death of truth is the ultimate victory of evil
+- Defiance begins with truth
+- Truth is what tyrants fear most
+- Telling the truth won't get you many friends, but they'll be the right ones
+- You will never face temptation without a way out
+- There is no unskilled labor
+- make it work, then make it right, then make it fast
+- when you work, work hard; when you're done, be done
+- Don't give your enemies problems, give them dilemmas
+- The further a society drifts from truth, the more it will hate those who speak it
+- It's very difficult to get a man to understand something when his salary depends on him not understanding it
+- Your time in power is limited, use it
+- Power is not a scarce limited resource that becomes depleted by being used
+- The more someone uses their power to get something done in ways that support themselves and their objectives, the more power they will have
+- The more you demonstrate that you have power, the more allies you will accumulate
+- Success excuses almost all
+- Victors don't just write history, they rewrite history
+- The best ideas are birthed during the creative process, and not before
+- Originality is nothing more than the reframing of old ideas
+- It is almost always impossible to implement a technical solution to a social problem
+- Data without context is noise
+- Caste makes distinctions where God has made none
+- People who do not know they are captive will not resist their bondage
+- Silence in the face of evil is itself evil
+- Not to speak is to speak, not to act is to act
+- Evil asks little of the dominant caste, only that they sit by and do nothing
+- True alphas command authority through their calm oversight of those who depend upon them, asserting their power only when necessary
+- A true alpha weilds quiet power, judiciously apportioned
+- You have encountered an insicure alpha if they must yell, scream, bully, or attack those beneath them into submission - they do not have the loyalty and trust of the pack and endangers the entire group through their insecurities, through their show of fear and lack of courage
+- Knowledge without wisdom is adequate for the powerful, but wisdom is essential for the survival of the subordinate
+- You cannot solve a problem that you do not admit exists
+- Whoever can change public opinion can change the government
+- Form will determine the nature of content
+- The medium is the message
+- One man's terrorist is another man's freedom fighter
+- If you don't produce, you won't thrive
+- To learn requires intense concentration
+- Laws are the bricks, and social rules and norms are the mortar
+- Disgust is the scariest emotion, since it's a trigger for dehumanization and that's a doorway to the worst things humans do
+- When a movement continually cries wolf, it weakens our defenses against actual wolves
+- It takes an order of magnitude more effort to debunk bullshit than it does to produce it
+- A wealth of information creates a poverty of attention
+- The devil is in the defaults
+- We shape our tools, and thereafter they shape us
+- Your communication strategy is as important as your legal strategy
+- What you love is the sum of what you focus on
+- Great creative minds think like artists but work like accountants
+- It is just as easy for a people to be opressors as opressed
+- Execution should be aimed at a small number of wildly important goals
+- There are 2 types of metrics: Lag measures and Lead measures - Lag measures measure the stuff you're actually trying to improve
+- Your ability to concentrate is only as strong as your ability to train it
+- If you want power to be used for good, more good people need to have power
+- You can believe your own eyes as long as you keep your eyes open
+- If you want to have others support you, you have to answer the question of what's in it for them if they do
+- The two fundamental aspects by which people judge others are warmth and competence
+- Warmth and competence are seen as negatively related
+- Once something is done it is harder to undo
+- We are operating with paleolithic emotions, medieval institutions, and god-like technology
+- Your greatest strengths and your greatest weaknesses are usually just two sides of the same coin
+- Luck happens when preparation meets opportunity
+- An investment in knowledge pays the best interest
+- It's easier to fool people than to convince them they've been fooled
+- Love cannot exist where lies thrive
+- Those who cannot conceive friendship as a substantive love but only as a disguise or elaboration of eros betray the fact that they have never had a friend
+- A reason is a fact or piece of information revealed at the right time
+- If you have to order someone to do something, you've already failed
+- If you are good enough at giving reasons, then you can change someone's mind
+- The difference between informing someone of a decision and persuading them that it was the right decision is reasons
+- Every accusation from a narcissist is a confession
+- Dreamers are the architects of a brighter world
+- Fascism doesn't appreciate being ridiculed; it prefers to be feared
+- Anger is Sad's bodyguard
+- People tend to make rules for others and exceptions for themselves
+- AI is just a non-deterministic advanced compiler, and your prompt is the program
+- You can't inspect quality into a product, you must build it in
+- Opportunities are usually disguised as hard work, so most people don't recognize them
+- Make the simple things easy, and the complicated things possible
+- Peculiarity breeds contempt
+- The unfortunate thing about being ahead of your time is that when people finally realize you were right they'll say it was obvious all along
+- The more cordial the buyer's secretary, the greater the odds that the competition already has the order
+- You can always tell luck from ability by its duration
+- He that teaches himself has a fool for a master
+- A truth that's told with bad intent beats all the lies you could invent
+- Talking about music is like dancing about architecture
+- You can get everything in life you want if you will help enough other people get what they want
+- Most people overestimate what they can do in a day, and underestimate what they can do in a year
+- You're one year of focus away from people saying you got lucky
+- You'll achieve much more by being consistently reliable than by being occasionally extraordinary
+- Seek not to imitate the masters, but seek what they sought
+- Good design is invisible
+- It's brave to go to war, but it's even more brave to refuse to commit violence
+- He who wants to keep his garden tidy doesn't reserve a spot for weeds
+- The voice of conscience is so delicate that it is easy to stifle, but it is so clear that it is impossible to mistake it
+- That which is most personal is most general
+- Seek first to understand
+- Don't mistake introspection for observation
+- Unless you're influenced by my uniqueness I won't be influenced by your advice
+- You can only appreciate what you can understand
+- A good manager serves like a pace car in a race, getting things going, then cleaning up oil spills afterward
+- When a boss becomes the first assistant to his subordinates he can greatly increase his span of control
+- Maturity is the balance between courage and consideration
+- Never let a good crisis go to waste
+- If you are to be betrayed, it is likely to be from those closest to you
+- Sooner or later a false belief bumps up against solid reality, usually on a battlefield
+- Anyone you can buy, you can buy again
+- Our most important accomplishments require interdependancy skills
+- The children of blame are cynicism and hopelessness
+- To learn and not to do is really not to learn - to know and not to do is really not to know
+- There is no real excellence in all this world which can be separated from right living
+- Search your own heart with all diligence for out of it flow the issues of life
+- What we are communicates far more eloquently than anything we say or even do
+- The way we see things is often a product of what we seek
+- The fastest way to change a paradigm is to give a person a new role
+- For every thousand hacking at the leaves of evil, there is one striking at the root
+- Admission of ignorance is the first step in your education
+- Love is a verb not a feeling
+- The significant problems we face cannot be solved at the same level of thinking we were at when we created them
+- If you want to be trusted, be trustworthy
+- If you want to have the secondary greatness of recognized talent, focus first on the primary greatness of character
+- It is futile to try to improve relationships with others before improving ourselves
+- Private victories precede public victories
+- We are what we repeatedly do; excellence then is not an act, but a habit
+- Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny
+- Effectiveness lies in the balance of caring about production and your production capability
+- Accomplishment may command respect but it cannot conjure love
+- When something is working too well, it appears to be doing nothing at all
+- To be peaceful you must be capable of violence otherwise you aren’t peaceful, you’re just harmless
+- It's easy to condemn the "find out" when you ignore the "fuck around" that preceded it
+- Your data model is your destiny
+- You can't do what you want until you know what you're doing
+- Men of lofty genius when they are doing the least work are the most active
+- Being good at feedback means knowing when not to give it
+- When you are up to your neck in alligators, it's easy to forget that the goal was to drain the swamp
+- If you're wondering what's going on, always look for the incentives
+- You never see the cage when the bars are made of choice
+- Be strict in what you send out and liberal in what you accept
+- Think in trade-offs and bets, not right and wrong
+- Design for change, but don’t optimize for hypothetical futures too early
+- Build the right things first, and only then worry about building them “right"
+- Prioritize simple solutions over complex ones, because complexity is a cost
+- Use proven, boring tech to build great products, and save the shiny toys for when they truly matter
+- You can't speedrun healing
+- Financial security is the best aphrodesiac
+- Change never happens when people are comfortable
+- Though the problems of the world are increasingly complex, the solutions are embarassingly simple
+- Faith that is not tested can't be trusted
+- Don’t try to imprison a monster, build something that you can actually trust
+- It is much easier to get people to follow the status quo than to change minds
+- Think of the worst that could happen, in advance - then fix it
+- When you're finished changing, you're finished
+- Exploring isn't a binary, it's a float
+- Perspective is worth 80 IQ points
+- Programmers think mathematically, designers think statistically
+- Lack of trust is the most destructive force for a team
+- Fun is just another word for learning
+- Don't rush to solutions, rush to experiments
+- Experience is something you don't get until just after you need it
+- No one is good at estimating software, those who seem good at it are actually good at managing scope and expectation
+- It's not whether you win or lose, it's how you place the blame
+- When you say "we can't do anything about it" what you mean is "we chose it, we continue to choose it, and we think it's the best option available"
+- Integrity has two children, wisdom and the abundance mentality
+- Courage is not the absence of fear but the judgement that something else is more important than fear
+- Humility is the mother of all the virtues because humility ackgnowledges that there are principles that govern the universe, pride assumes you have control
+- Wisdom is the child of integrity and integrity is the child of both humility and courage
+- Knowledge shrinks as wisdom grows for details are swallowed up in principles
+- You cannot hold people responsible for results if you supervise their methods, you then become responsible for their results and rules replace human judgement, creativity and responsibility
+- If there is no plan to get there, then "patience" is just a combination of blind hope and inaction
+- Just because someone next to you has a terminal illness doesn't mean you shouldn't try to fix your broken arm
+- Volunteers don't need contracts, they need covenants
+- The great organization must not only accomodate the fact that each member is different, but must capitalize on those differences
+- You can buy someone's back but not their mind, you can buy their hands but not their heart and spirit
+- The best way to isnpire people to a superior performance is to convince them by everything you do and by your everyday attitude that you are wholeheartedly supporting them
+- That which you desire most earnestly you believe most easily
+- The devil lies in the details, but success lies in the system
+- The system is stronger than the individuals in it
+- Fundamentally, power is in the system, not in the leaders or bureaucrats
+- Systems will override rhetoric or good intentions every time
+- The medium is the message
+- Life is a single-player game, but meaning is derived on multi-player mode
+- There is nothing new under the sun, but there are lots of old things we don't know yet
+- The moment you stop doing things that could fail spectacularly is the moment you stop doing things that could succeed spectacularly
+- Values are like fingerprints, nobody's are the same, and you'll leave them all over everything you do
+- Any time you think the problem is out there, that very thought is the problem
+- You can never succeed with stockholders until you first succeed in the marketplace, and you can never succeed in the marketplace until you first succeed in the workplace
+- The tradgedy of life is not that it ends so soon, but that we wait so long to begin it
+- If you want to know what God thinks of money, just look at the people he gave it to
+- It takes two to miscommunicate
+- Be conservative in what you send, and liberal in what you accept
+- Paradigms, like traditions, die hard
+- The body keeps the score
+- Your silence will not protect you
+- You are not responsible for the actions of others
+- While good and evil may be simple, the men who choose them are not
+- One man may be so placed that his anger sheds the blood of thousands, and another so placed that however angry he gets he will only be laughed at, nut the little mark on the soul may be much the same in both
+- You are not obligated to complete the work, but neither are you free to abandon it
+- there are many ways to make a beautiful home but precious few to destroy it
+- Evil lacks pity because evil cannot empathize
+- In the end, we will remember not the words of our enemies, but the silence of our friends
+- Non-violent does not mean peaceful
+- Everything we know, we figured out
+- utility is logarithmic to wealth
+- Do not respect status quo stockholm syndrome
+- Authoritarian systems do not respond to tragedy with reform, they respond with control
+- The devil isn’t in the details; the devil is the details
+- Don’t get to the point, start at the point
+- Training is exercise with a goal in mind
+- If you're not willing to defend your rights, then you have no rights
+- Injustice anywhere is a threat to justice everywhere
+- Darkness cannot drive out darkness; only light can do that - and hate cannot drive out hate; only love can do that
+- It is a cruel jest to say to a bootless man that he ought to lift himself by his own bootstraps
+- Freedom is never voluntarily given by the opressor; it must be demanded by the oppressed
+- The only difference between screwing around and science is writing it down
+- Facism dies in community
+- Not all time in life is equal
+- Women sometimes forgive a man who forces the opportunity, but never a man who misses one
+- Measuring is knowing, if you know what you are measuring
+- The market can stay irrational longer than you can stay solvent
+- Money is like manure, it's not worth a thing unless it's spread around encouraging young things to grow
+- Don't tell me what you believe, show me how you treat other people and I'll tell you what you believe
+- A fool with a tool is still a fool
+- Science is built up of facts, as a house is with stones, but a collection of facts is no more a science than a heap of stones is a house
+- It's a dangerous thing to mistake speaking without thought for speaking the truth
+- The freedom to choose badly is better than being forced to choose "correctly"
+- Between stimulus and response, man has the freedom to choose, and in those choices lie our growth and hapiness
+- Our behavior is a function of our decisions, not our conditions
+- No one can hurt you without your consent
+- They cannot take away our self respect if we do not give it to them
+- It is our willing permission, our consent to what happens to us that hurts us far more than what happens to us in the first place
+- Nothing has a greater, longer lasting impression upon another person than the awareness that someone has transcended suffering, has transcended circumstance, and is embodying and expressing a value that inspires and enobles and lifts life
+- Courage is not the absence of fear, but the awareness of something else more important
+- Act or be acted upon
+- The difference between positive thinking and proactivity is facing the facts
+- Love is a verb
+- Success is on the far side of failure
+- It is not our mistakes or the mistakes of others that hurt us the most, it is our response to those mistakes
+- Management is doing things right; Leadership is doing the right thing
+- People can't live with change if there's not a changeless core inside them
+- The key to the ability to change is a changeless sense of who you are, what you are about, and what you value
+- We are free to choose our actions, but we are not free to choose our consequences
+- We detect - rather than invent - our own missions in life
+- Everyone has his own specific vocation or mission in life, therein he cannot be replaced, nor can his life be repeated, thus everyone's task is as unique as is his specific opportunity to implement it
+- He that is good with a hammer tends to think everything is a nail
+- Without involvement there is no commitment
+- Organize and execute around priorities
+- Form follows function
+- You can be efficient with things, but not with people
+- Don't prioritize your schedule, instead, schedule your priorities
+- You think effectiveness with people and efficiency with things
+- Frustration is a function of our expectations
+- Trust is the highest form of motivation
+- There can be no friendship without confidence, and no confidence without integrity
+- Real self-respect comes from dominion over self - true independence
+- Independence is an acheivement, interdependence is a choice only independent people can make
+- The most important ingredient we put into any relationship is not what we say or what we do, but who we are
+- When working on long-term relationships, don't pull up the flowers to see how the roots are coming
+- One person's mission is another person's minutia
+- One person's trash is another person's treasure
+- It is the weak who are cruel, gentleness can only be expected from the strong
+- Satisfied needs do not motivate
+- Diagnose before you prescribe
+- In order to influence you have to open yourself up to being influenced
+- The amateur salesman sells products, the mature salesman sells solutions to needs and problems
+- The greatest battles in life are fought in the silent chambers of the soul
+- The person who doesn't read is no better off than the person who can't read
+- Wars are won in the general's tent
+- We are not human beings having a spiritual experience, we are spiritual beings having a human experience
+- Integrity is the highest form of loyalty
+- It is better to be trusted than to be liked
+- You cannot ask a question outside your field of knowledge
+- The questions you ask reveal your field of knowledge
+- Humility is the mother of all the virtues, and courage is the father
+- Seek to serve your god, and your god will elude you - seek to find your soul, and your soul you will not find - seek to serve your brother, and you will find all three
+- The greatest sources of our suffering are the lies we tell ourselves
+- People can never get better without knowing what they know and feeling what they feel
+- Healing depends on experiential knowledge; you can be fully in charge of your life only if you acknowledge the reality of your body, in all it's visceral dimensions
+- Our capacity to destroy one another is matched by our capacity to heal one another
+- We get our first lessons in self-care by the way we are cared for
+- Every life is a piece of art, put together with all means available
+- Truth, like love and sleep, resents approaches that are too intense
+- The problem is never how to get new innovative thoughts into your mind, but how to get the old thoughts out
+- Know yourself, control yourself, then give yourself
+- Managing energy, not time, is the key to performance and renewal
+- If you think education is expensive, just try ignorance
+- When a man is getting better he understands more and more clearly the evil that is still left in him - when a man is getting worse, he understands his own badness less and less
+- A moderately bad man knows that he is not very good - a thoroughly bad man things he is alright
+- Whatever weakens your reason impairs the tenderness of your conscience, obscures your sense of god, takes off your relish for spiritual things
+- Whatever increases the authority of the body over the mind, that thing is sin to you, however innocent it may seem in itself
+- The fruit of silence is prayer, the fruit of prayer is faith, the fruit of faith is love, the fruit of love is service, the fruit of service is peace
+- Leadership is the capacity to translate vision into reality
+- The best way to predict the future is to create it
+- It is never too late for us to become what we might have been
+- The saddest words are "it might have been"
+- The more you use and magnify the gifts or talents you have been given the more gifts and talents you are given, but if they are ignored or buried and remain undeveloped and unused the very talents or gifts that you have been given will be lost and often given to another, and thus you will also lose influence and opportunities
+- Leadership is communicating to people their worth and potential so clearly that they come to see it in themselves
+- An organization is nothing more and nothing less than a relationship with a purpose
+- Leadership is about coping with change - management is about coping with complexity
+- Leaders are concerned with what things mean to people - managers are concerned with how things get done
+- Leaders are the architects - managers are the builders
+- You can't lead things
+- All organizations are perfectly aligned to get the results they get
+- That which we desire most earnestly we believe most easily
+- Lying makes a problem part of the future - truth makes a problem part of the past
+- Anger is an acid that can do more harm to the vessel in which it stands than to anything onto which it is poured
+- Foregiveness breaks the chain of causality because he who forgives you out of love takes upon himself the consequences of what you have done, forgiveness therefore always entails a sacrifice
+- Treat a man as he is and he will remain as he is, treat a man as he can and should be and he will become as he can and should be
+- A picture is worth a thousand words
+- A video is worth a thousand pictures
+- An experience is worth a thousand videos
+- Almost all communication problems are caused by either differences in either semantics or perception
+- Solitude requires being alone, whereas loneliness is felt most sharply in the company of others
+- You have not done enough, you have never done enough so long as you have something left to contribute
+- Wisdom is the beneficial use of knowledge
+- Wisdom is information and knowledge impregnated with higher purposes and principles
+- Wisdom teaches us to respect all people, to celebrate their differences, to be guided by a single ethic of service above self
+- Moral authority is primary greatness, formal authority is secondary greatness
+- The only authority deserving one's allegience is that which is freely and knowingly granted by the led to the leader in response to and in proportion to the clearly evident servant stature of the leader
+- When norms are sufficient laws are unnecessary, when norms are insufficient laws are unenforceable
+- No sacrifice or service requires any other reward than that which conscience gives to every man who does his duty
+- Everyone gives their life to what they believe, sometimes people believe in little or nothing and so they give their lives to little or nothing
+- To every man there comes in his lifetime that special moment when he is figuratively tapped on the shoulder and offered a chance to do a very special thing, unique to him and fitted to his talents - what a tradgedy if that moment finds him unprepared or unqualified for the work that would be his finest hour
+- Life is a mission, not a career
+- Sacrifice is the path of least resistance to one who is deeply, spiritually and emotionally connected to a cause, calling, or the serving of another
+- Cultural moral authority always develops slower than institutional or visionary moral authority
+- The death of truth is the ultimate victory of evil
+- The need for control is so desperate because it is so unnatural - tyrrany requires constant effort, it breaks, it leaks, authority is brittle
+- Oppression is the mask of fear
+- You don't speak democracy to the man in the foxhole
+- Until we know we are wrong, being wrong feels exactly like being right
+- Novelty emerges only with difficulty, manifested by resistance, against the background provided by expectation
+- When we don't know what we don't know, at first we only see what we expect to see, even when what we see doesn't match our expectation
+- In crisis we become radically open to changing our minds
+- We cannot predict the future, but we can create it
+- As soon as there is life, there is danger
+- The only mistakes you can learn from are the ones you survive
+- Change is not the most difficult part, far more difficult than implementing change is figuring out what works, understanding why it works, grasping when to change, and knowing when not to
+- The signature of mediocrity is chronic inconsistency
+- Resilience is the signature of success
+- Resiliance, not luck, is the signature of greatness
+- There's only one truly definitive form of luck, and that's the luck that ends the game
+- Luck favors the persistent, but you can persist only if you survive
+- The dominant pattern of history isn't stability, but instability and disruption
+- A bet is a decision about an uncertain future
+- There are two forces that impact your outcomes in life, the quality of the decisions you make and luck
+- Don't judge a decision by its outcome
+- In science "I don't know" is not a failure but a necessary step towards enlightenment
+- Thoroughly conscious ignorance is the prelude to every real advance in science - in fact, it's a prelude to every great decision that has ever been made
+- What makes a decision great is not that it has a good outcome, a great decision is the result of a good process, and that process must include an attempt to accurately represent our own state of knowledge, and that state of knowledge is some variation of "I'm not sure"
+- Ackgnowledging uncertainty is the first step in executing on our goals to get closer to what is objectively true
+- In general, losses feel two times as bad as wins feel good
+- Experience is necessary to becoming an expert, but not sufficient
+- It's easy to win a bet against someone who takes extreme positions
+- Don't shoot the messenger
+- Don't shoot the message
+- Hard work is a prison sentence only if it does not have meaning
+- Work needs to be complexity, autonomy, connection and reward to be satisfying
+- Its extremely hard to win an argument against someone smart, but it is impossible to win an argument against someone idiotic
+- Progress doesn't satiate our ambitions; it whets them
+- Evil is cowardly
+- All evil ultimately stems from pride, and pride insists upon itself, regardless of cost
+- Evil cannot love
+- Evil is isolating
+- If you only ever care about yourself, then you are all that you will ever have, and there will come a day when you find yourself to be not enough, your only hope is that that day will not come too late
+- Ranking is a farce - apparent performance is actually attributable mostly to the system that the individual works in, not to the individual himself
+- Accountability for quality belongs to top management - it can not he delegated
+- It is important that an aim never be defined in terms of a specific activity or method
+- When a measure becomes a target, it ceases to be a good measure
+- To copy an example of success, without understanding it with the aid of theory, may lead to disaster
+- Without prediction, experience and examples teach nothing
+- You aren't going to fix quality problems by doing the same thing you were doing, only better
+- Predictable results are where quality comes from
+- The supreme art of war is to subdue the enemy without fighting
+- You must let go of your feelings of shame if you want your anger to go away
+- Make the change easy first, then make the easy change
+- The problem isn't how you chose the deadline, it's that you had a deadline at all
+- The easiest way to cut through bullshit is to ask for elaboration
+- Its easier to walk away when you know what you're walking towards
+- Estimates only have accuracy in aggregate
+- In the real world, the failure rate is never zero, even if you do your job perfectly
+- A society grows great when old men plant trees in whose shade they'll never sit
+- Mockery is often just very confident ignorance
+- You should be more afraid of succeeding at something that doesn't matter than failing at something that does matter
+- Ambition must be tempered by prudence
+- The stronger or more prone to anger a man is, the stricter his control and more finely-tuned his self-mastery must be
+- No one truly knows a nation until one has been inside its jails
+- Indiscriminate generosity feels holy but is oftentimes foolishness and cowardice
+- Every dollar that goes to an unfaithful recipient is a dollar that doesn't go to a faithful one
+- God does not give wealth based on those who need it
+- You have to say no to the wrong things to be able to say yes to the right things
+- You are not called to be a peacekeeper, you are called to be a peacemaker
+- The gates to change can only be opened from the inside
+- You can't fight something that you don't recognize
+- We cannot intentionally improve what we do not measure
+- People can be led to change as horses can be led to water, but deprecation will rarely inspire the results you are aiming for
+- The moment you use a medium to criticize, the subject of your criticism is compelled to defend, and when another is defensive there is little you can say to break through the barriers he has raised
+- When we treat man as he is we make him worse than he is, when we treat him as if he already were what he potentially could be we make him what he should be
+- Violence is only one part of warfare, and not even the preferred part
+- Be an emotional thermostat, not a thermometer
+- The problem is the solution
+- There's no such thing as waste, there are only resource for which we have yet to find a use
+- A randomly selected collection of problem solvers outperforms a collection of the best individual problem solvers
+- The person whose calls you always take, that's the relationship you're in
+- Don't measure value by what you have but by what you'd be willing to give up
+- He that is to follow a philosophy must be a freeman in mind
+- The first responsibility of a leader is to define reality, the last is to say thank you, between that it is to be a servant
+- Humility and perspective are the progenitors of empathy
+- Any fool can defend a mistake, but admitting your mistake raises you above the pack and gives you a feeling of exaltation
+- None need a smile so much as he who has no more to give
+- We like people who like us
+- The moment an abstraction stops reducing cognitive load and starts hiding essential behavior, it flips from "helper" to "liability"
+- Continuous improvement is better than delayed perfection
+- What people consider rich is about 3 times what they currently make

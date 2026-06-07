@@ -25,9 +25,12 @@
 	import Stocks from "$lib/images/notes/stocks.webp"
 	import Cells from "$lib/images/notes/cells.webp"
 	import Conversation from "$lib/images/notes/conversation.webp"
-	
+	import Model from "$lib/images/notes/model.webp"
+	import Thinker from "$lib/images/notes/thinker.webp"
+	import Blocks from "$lib/images/notes/blocks.webp"
+
 	////////////////////////////////////////////////////////////////////////////////
-	
+
 	const notes = [
 		{title: "Introduction to Aeronautics & Astronautics", 	category: "engineering", 		image: PaperAirplane, 	link: "https://drive.google.com/file/d/1doYLopcwT0dWmhyOpV39Z57Jy_4iJRrx/view?usp=sharing"},
 		{title: "Aircraft Dynamics", 							category: "engineering", 		image: Aerobatics, 		link: "https://drive.google.com/file/d/1wv71SEp84QhQ5_nHYs3fHtnzxQhkllg7/view?usp=sharing"},
@@ -64,11 +67,27 @@
 	<a href="/notes" class="underline">Notes</a>
 	<a href="/recommendations" class="hover:underline">Recommendations</a>
 </nav>
-<main class="flex justify-between flex-wrap gap-6 p-6">
-	{#each notes as note, index (index)}
-		<a href={note.link} class="bg-slate-800 flex items-center shadow-lg grow max-w-96 hover:scale-105 transition-all">
-			<img src={note.image} alt="icon" class="h-16">
-			<span class="text-white text-lg px-6">{note.title}</span>
+<main>
+	<div class="flex justify-between flex-wrap gap-6 p-6">
+		<a href="/notes/Mental Models.pdf" class="bg-slate-800 flex items-center shadow-lg grow max-w-96 hover:scale-105 transition-all">
+			<img src={Model} alt="icon" class="h-24">
+			<span class="text-white text-xl px-6">Mental Models</span>
 		</a>
-	{/each}
+		<a href="/notes/Wisdom.md" class="bg-slate-800 flex items-center shadow-lg grow max-w-96 hover:scale-105 transition-all">
+			<img src={Thinker} alt="icon" class="h-24">
+			<span class="text-white text-xl px-6">Wisdom</span>
+		</a>
+		<a href="/notes/Graph Catalog.pdf" class="bg-slate-800 flex items-center shadow-lg grow max-w-96 hover:scale-105 transition-all">
+			<img src={Blocks} alt="icon" class="h-24">
+			<span class="text-white text-xl px-6">Graph Catalog</span>
+		</a>
+	</div>
+	<div class="flex justify-between flex-wrap gap-6 p-6">
+		{#each notes as note, index (index)}
+			<a href={note.link} class="bg-slate-800 flex items-center shadow-lg grow max-w-96 hover:scale-105 transition-all">
+				<img src={note.image} alt="icon" class="h-16">
+				<span class="text-white text-lg px-6">{note.title}</span>
+			</a>
+		{/each}
+	</div>
 </main>
