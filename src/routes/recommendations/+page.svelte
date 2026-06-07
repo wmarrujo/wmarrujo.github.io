@@ -4,7 +4,7 @@
 
 <nav class="flex items-center gap-4 p-3">
 	<a href="/"><img src={logo} alt="Logo" class="w-6 min-w-6"></a>
-	<a href="/#about" class="hover:underline">About</a>
+	<a href="/about" class="hover:underline">About</a>
 	<a href="/projects" class="hover:underline">Projects</a>
 	<a href="/notes" class="hover:underline">Notes</a>
 	<a href="/recommendations" class="underline">Recommendations</a>
@@ -34,6 +34,8 @@
 					<li><a href="https://store.steampowered.com/app/1256230/Hyperbolica/">Hyperbolica</a></li>
 					<li><a href="https://store.steampowered.com/app/1049410/Superliminal/">Superliminal</a></li>
 					<li><a href="https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/">5D Chess</a></li>
+					<li><a href="">Outer Wilds</a></li>
+					<li><a href="">Daybreak</a></li>
 				</ul>
 			</li>
 			<li>Organizations
