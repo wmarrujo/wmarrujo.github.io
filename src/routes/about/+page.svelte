@@ -1,5 +1,6 @@
 <script lang="ts">
 	import logo from "$lib/images/logos/logo.svg"
+	import EmailLink from "$lib/components/EmailLink.svelte"
 </script>
 
 <nav class="flex items-center gap-4 p-3">
@@ -72,10 +73,50 @@
 		</ul>
 		
 		<h2 id="contact">How to contact</h2>
-		<!-- TODO: emails & instructions -->
-		Still setting up my emails. Please check again later.
-		
-		<!-- <h2>Other recommendations</h2> -->
-		<!-- TODO: link -->
+		<div class="not-prose flex flex-wrap gap-4 my-6">
+			<div class="flex flex-col gap-2 rounded-lg bg-secondary p-4 flex-1 min-w-60">
+				<p class="text-sm text-white/60">
+					Have something interesting to share with me?
+				</p>
+				<EmailLink
+					user="interesting"
+					domain="wmarrujo.com"
+					class="text-accent font-medium hover:underline"
+				/>
+			</div>
+			<div class="flex flex-col gap-2 rounded-lg bg-secondary p-4 flex-1 min-w-60">
+				<p class="text-sm text-white/60">
+					Is there an opportunity I should know about?
+				</p>
+				<EmailLink
+					user="opportunity"
+					domain="wmarrujo.com"
+					class="text-accent font-medium hover:underline"
+				/>
+			</div>
+			<div class="flex flex-col gap-2 rounded-lg bg-secondary p-4 flex-1 min-w-60">
+				<p class="text-sm text-white/60">
+					Something wrong with the website?
+				</p>
+				<EmailLink
+					user="admin"
+					domain="wmarrujo.com"
+					class="text-accent font-medium hover:underline"
+				/>
+			</div>
+			<div class="flex flex-col gap-2 rounded-lg bg-secondary p-4 flex-1 min-w-60">
+				<p class="text-sm text-white/60">Anything else</p>
+				<EmailLink
+					user="contact"
+					domain="wmarrujo.com"
+					class="text-accent font-medium hover:underline"
+				/>
+			</div>
+		</div>
+		<p>In order for me to not think it's spam, please help me by telling me:</p>
+		<ol>
+			<li>who you are (&amp; how I can verify that)</li>
+			<li>why you're contacting me</li>
+		</ol>
 	</article>
 </main>
