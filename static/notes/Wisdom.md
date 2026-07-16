@@ -2502,3 +2502,15 @@
 - What people consider rich is about 3 times what they currently make
 - An organization designs systems that mirror its own communication structure
 - No effort is wasted
+- Confidence is not evidence of competence
+- Don't mistake failure of imagination as evidence
+- When confidence and error travel together they tend to amplify one another
+- The skills you need to be good at something are the very same skills you need to judge if you are good at it
+- An information system is only worth having if it saves more attention than it costs
+- You need privacy, not because your actions are questionable, but because others' judgement and intentions are
+- When you make use of a resource more efficiently, you often end up using more of it, not less
+- Work consists of whatever a body is obliged to do - play consists of whatever a body is not obliged to do
+- Most people aren't trying to save time, they're trying to spend it
+- Happiness comes from between
+- If context is king, architecture is the castle
+- Empathy is an antidote to righteousness
