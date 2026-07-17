@@ -115,10 +115,6 @@
 			]
 		},
 	}
-
-	function openDialog(e: Event) {
-		((e.currentTarget as HTMLElement).nextElementSibling as HTMLDialogElement).showModal()
-	}
 </script>
 
 <nav class="flex items-center gap-4 p-3 sticky top-0 z-10 bg-primary">
@@ -130,39 +126,71 @@
 </nav>
 
 <main class="p-4">
-	<ul class="grid grid-cols-[repeat(auto-fit,12rem)] justify-evenly gap-4">
-		{#each Object.entries(recommendations as Record<string, List>) as [name, items]}
-			{@render deck(name, items)}
+	<ul class="grid grid-cols-[repeat(auto-fit,12rem)] justify-center gap-4">
+		{#each Object.entries(recommendations as Record<string, List>) as [name, items], i}
+			{@render deck(name, items, `r${i}`)}
 		{/each}
 	</ul>
 </main>
 
+{#snippet cardBody(item: Recommendation)}
+	{#if item.image}
+		<img src={item.image} alt={item.title} class="w-full h-[60%] object-cover">
+	{:else}
+		<div class="w-full h-[60%] flex items-center justify-center bg-primary text-accent font-title text-5xl">{item.title.charAt(0)}</div>
+	{/if}
+	<div class="flex flex-col gap-1 p-3 flex-1 min-h-0">
+		<h3 class="m-0 font-title text-lg leading-tight">{item.title}</h3>
+		{#if item.author}
+			<p class="m-0 text-xs opacity-70">{item.author}</p>
+		{/if}
+		{#if item.thesis}
+			<p class="m-0 text-xs opacity-85 line-clamp-3">{item.thesis}</p>
+		{/if}
+		{#if item.pitch}
+			<p class="m-0 text-xs opacity-60 line-clamp-2">{item.pitch}</p>
+		{/if}
+	</div>
+{/snippet}
+
 {#snippet card(item: Recommendation)}
 	<li class="w-48 aspect-[3/4]">
 		{#if item.link}
-			<a class="flex items-center justify-center w-full h-full rounded-xl bg-secondary shadow-md text-center p-4 text-lg text-white no-underline" href={item.link}>{item.title}</a>
+			<a class="flex flex-col w-full h-full rounded-xl bg-secondary shadow-md overflow-hidden no-underline text-white transition-transform duration-200 hover:-translate-y-1 hover:scale-105 hover:shadow-lg" href={item.link}>
+				{@render cardBody(item)}
+			</a>
 		{:else}
-			<span class="flex items-center justify-center w-full h-full rounded-xl bg-secondary shadow-md text-center p-4 text-lg text-white">{item.title}</span>
+			<span class="flex flex-col w-full h-full rounded-xl bg-secondary shadow-md overflow-hidden text-white transition-transform duration-200 hover:-translate-y-1 hover:scale-105 hover:shadow-lg">
+				{@render cardBody(item)}
+			</span>
 		{/if}
 	</li>
 {/snippet}
 
-{#snippet deck(name: string, items: List)}
+{#snippet deck(name: string, items: List, id: string)}
 	<li class="w-48 aspect-[3/4]">
-		<button class="flex items-center justify-center w-full h-full rounded-xl bg-secondary shadow-md text-center p-4 font-title text-2xl text-white border-none cursor-pointer" onclick={openDialog} aria-haspopup="dialog">{name}</button>
-		<dialog aria-label={name}>
-			<div class="flex items-center justify-between gap-4 p-4">
-				<h2 class="m-0 font-title text-2xl">{name}</h2>
-				<form method="dialog"><button class="border-none rounded-lg bg-secondary text-white font-sans p-2 px-4 cursor-pointer">Close</button></form>
+		<button class="flex flex-col w-full h-full rounded-xl bg-secondary shadow-md p-4 font-title text-2xl text-white border-none cursor-pointer transition-transform duration-200 hover:-translate-y-1 hover:scale-105 hover:shadow-lg" popovertarget={id} aria-haspopup="dialog">
+			<span class="flex-1"></span>
+			<span class="text-center">{name}</span>
+			<span class="flex-[2]"></span>
+		</button>
+		<!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
+		<dialog popover="manual" id={id} aria-label={name}
+			onkeydown={(e) => { if (e.key === "Escape") { (e.currentTarget as HTMLElement).hidePopover(); e.stopPropagation() } }}>
+			<div class="relative flex items-center justify-center p-4">
+				<h2 class="m-0 font-title text-2xl text-center">{name}</h2>
+				<button class="absolute right-4 top-1/2 -translate-y-1/2 border-none rounded-lg bg-secondary text-white p-2 cursor-pointer" popovertarget={id} popovertargetaction="hide" aria-label="Close">
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-x-icon lucide-x"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+				</button>
 			</div>
-			<ul class="grid grid-cols-[repeat(auto-fit,12rem)] justify-evenly gap-4 flex-1 overflow-auto p-4">
+			<ul class="grid grid-cols-[repeat(auto-fit,12rem)] justify-center gap-4 flex-1 overflow-auto p-4">
 				{#if Array.isArray(items)}
 					{#each items as item}
 						{@render card(item)}
 					{/each}
 				{:else}
-					{#each Object.entries(items) as [subName, subItems]}
-						{@render deck(subName, subItems)}
+					{#each Object.entries(items) as [subName, subItems], j}
+						{@render deck(subName, subItems, `${id}-${j}`)}
 					{/each}
 				{/if}
 			</ul>
@@ -175,10 +203,9 @@
 		--nav-height: 3rem;
 	}
 
-	/* the opened list: a full-screen modal below the nav bar */
-	dialog[open] {
+	:popover-open {
 		position: fixed;
-		inset: var(--nav-height) 0 0 0;
+		inset: var(--nav-height) 1rem 1rem 1rem;
 		margin: 0;
 		width: auto;
 		height: auto;
@@ -186,14 +213,16 @@
 		max-height: none;
 		padding: 0;
 		border: none;
+		border-radius: 0.75rem;
 		background: #003566;
 		color: inherit;
 		display: flex;
 		flex-direction: column;
 		overflow: hidden;
+		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
 	}
 
-	dialog::backdrop {
+	[popover]::backdrop {
 		inset: var(--nav-height) 0 0 0;
 		background: rgba(0, 0, 0, 0.5);
 	}
