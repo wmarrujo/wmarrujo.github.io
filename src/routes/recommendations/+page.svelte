@@ -28,6 +28,14 @@
 				{title: "What's Our Problem?", author: "Tim Urban", thesis: "The Psychology Behind the Politics", pitch: "Why is America (and the world) so divided? Why are republicans burning anything the left touches? Why is the left cancelling everything? What are the Implications? Read how we got here, building up the psychology from first principles.", link: "https://waitbutwhy.com/whatsourproblem"},
 				{title: "High Conflict", author: "Amanda Ripley", thesis: "How to see & stop High Conflict", pitch: "Many conflicts are a trap, however much you fight and struggle, the conflict deepens. This book talks about why that happens, how to see it for what it is, and what you can do to get out of it and to build cultures resilient to it.", link: "https://www.amandaripley.com/high-conflict"},
 			],
+			"Entrepreneurship & Leadership": [
+				{title: "The Millionaire Fastlane", author: "M.J. DeMarco", thesis: "3 roads to life, take the fastlane", pitch: "Proposes that there are 3 roads to life, the sidewalk, the slowlane, and the fastlane. They each have their formulas for relating to money and strategies for getting wealthy. This book tells you about the author's path to wealth and implores you to take a bet on the fastlane. It gives direct advice on what to do and what mindsets to shift.", link: "https://www.themillionairefastlane.com/"},
+				{title: "Dream Year", author: "Ben Arment", thesis: "Instructions on how to start", pitch: "Why did you put your dreams to the side? Take a risk. This book explains what to expect, and how to get through it.", link: "https://www.penguinrandomhouse.com/books/316435/dream-year-by-ben-arment/"},
+			],
+			"Lifestyle": [
+				{title: "King Warrior Magician Lover", author: "Robert Moore & Douglas Gillette", thesis: "The 4 Archetypes of a Man", pitch: "What is manhood? especially today? uses archetypes to help understand the different aspects of what makes great men, and what aspects can make bad men. How boys become men.", link: "https://www.barnesandnoble.com/w/king-warrior-magician-lover-robert-moore/1100537240"},
+				{title: "Building a Second Brain", author: "Tiago Forte", thesis: "Structured Note Taking & Mindset", pitch: "Your brain is good at ideas, but bad at remembering and keeping track of things. Here is a framework that you can follow that will work to be that part, which frees up your brain to do what it's good at. It points to a new way of thinking about your knowledge.", link: "https://www.buildingasecondbrain.com/book"},
+			]
 		},
 		"Games": [
 			{title: "4D Golf", link: "https://store.steampowered.com/app/2147950/4D_Golf/"},
@@ -108,15 +116,12 @@
 		},
 	}
 
-	let open = $state<string[]>([])
-	function isOpen(path: string[]): boolean {
-		return open.length >= path.length && path.every((n, i) => open[i] === n)
+	function openDialog(e: Event) {
+		((e.currentTarget as HTMLElement).nextElementSibling as HTMLDialogElement).showModal()
 	}
-	function openList(path: string[]) { open = path }
-	function closeList(path: string[]) { if (isOpen(path)) open = path.slice(0, -1) }
 </script>
 
-<nav class="flex items-center gap-4 p-3">
+<nav class="flex items-center gap-4 p-3 sticky top-0 z-10 bg-primary">
 	<a href="/"><img src={logo} alt="Logo" class="w-6 min-w-6"></a>
 	<a href="/about" class="hover:underline">About</a>
 	<a href="/projects" class="hover:underline">Projects</a>
@@ -127,7 +132,7 @@
 <main class="p-4">
 	<ul>
 		{#each Object.entries(recommendations as Record<string, List>) as [name, items]}
-			{@render deck([], name, items)}
+			{@render deck(name, items)}
 		{/each}
 	</ul>
 </main>
@@ -136,33 +141,34 @@
 	<li><a class="card" href={item.link}>{item.title}</a></li>
 {/snippet}
 
-{#snippet deck(path: string[], name: string, items: List)}
+{#snippet deck(name: string, items: List)}
 	<li>
-		<button class="card" aria-expanded={isOpen([...path, name])}
-			onclick={() => (isOpen([...path, name]) ? closeList([...path, name]) : openList([...path, name]))}>
-			{name}
-		</button>
-		{#if isOpen([...path, name])}
-			<div class="panel">
-				{#if Array.isArray(items)}
-					<ul>
-						{#each items as item}
-							{@render card(item)}
-						{/each}
-					</ul>
-				{:else}
-					<ul>
-						{#each Object.entries(items) as [subName, subItems]}
-							{@render deck([...path, name], subName, subItems)}
-						{/each}
-					</ul>
-				{/if}
+		<button class="card" onclick={openDialog}>{name}</button>
+		<dialog>
+			<div class="dialog-bar">
+				<h2 class="dialog-title">{name}</h2>
+				<form method="dialog"><button class="close-btn" aria-label="Close">Close</button></form>
 			</div>
-		{/if}
+			<ul class="dialog-content">
+				{#if Array.isArray(items)}
+					{#each items as item}
+						{@render card(item)}
+					{/each}
+				{:else}
+					{#each Object.entries(items) as [subName, subItems]}
+						{@render deck(subName, subItems)}
+					{/each}
+				{/if}
+			</ul>
+		</dialog>
 	</li>
-{/snippet}
+	{/snippet}
 
 <style lang="postcss">
+	:global(:root) {
+		--nav-height: 3rem;
+	}
+
 	ul {
 		list-style: none;
 		padding: 0;
@@ -174,19 +180,16 @@
 	}
 
 	li {
-		display: contents;
-	}
-
-	.panel {
-		grid-column: 1 / -1;
+		width: 12rem;
+		aspect-ratio: 3 / 4;
 	}
 
 	.card {
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		width: 12rem;
-		aspect-ratio: 3 / 4;
+		width: 100%;
+		height: 100%;
 		border-radius: 0.75rem;
 		background: #002a52;
 		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
@@ -198,8 +201,66 @@
 	button.card {
 		border: none;
 		color: inherit;
+		font: inherit;
 		font-family: "Josefin Sans", sans-serif;
 		font-size: 1.5rem;
 		cursor: pointer;
+	}
+
+	a.card {
+		text-decoration: none;
+	}
+
+	/* the opened list: a full-screen modal below the nav bar */
+	dialog[open] {
+		position: fixed;
+		inset: var(--nav-height) 0 0 0;
+		margin: 0;
+		width: auto;
+		height: auto;
+		max-width: none;
+		max-height: none;
+		padding: 0;
+		border: none;
+		background: #003566;
+		color: inherit;
+		display: flex;
+		flex-direction: column;
+		overflow: hidden;
+	}
+
+	dialog::backdrop {
+		inset: var(--nav-height) 0 0 0;
+		background: rgba(0, 0, 0, 0.5);
+	}
+
+	.dialog-bar {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 1rem;
+		padding: 1rem;
+	}
+
+	.dialog-title {
+		margin: 0;
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 1.5rem;
+	}
+
+	.close-btn {
+		border: none;
+		border-radius: 0.5rem;
+		background: #002a52;
+		color: inherit;
+		font: inherit;
+		padding: 0.5rem 1rem;
+		cursor: pointer;
+	}
+
+	.dialog-content {
+		flex: 1;
+		overflow: auto;
+		padding: 1rem;
 	}
 </style>
