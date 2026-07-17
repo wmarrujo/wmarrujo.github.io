@@ -3,6 +3,7 @@
 	import Deck from "./Deck.svelte"
 	import Card from "./Card.svelte"
 	import {isGroup, type List} from "./types"
+	import {withFlip} from "./flip"
 
 	////////////////////////////////////////////////////////////////////////////////
 
@@ -126,8 +127,11 @@
 	]
 
 	let openTop = $state<number | null>(null)
+	let gridEl = $state<HTMLDivElement | null>(null)
 	function toggleTop(i: number) {
-		openTop = openTop === i ? null : i
+		withFlip(gridEl, ":scope > .deck, :scope > a", () => {
+			openTop = openTop === i ? null : i
+		})
 	}
 </script>
 
@@ -140,7 +144,7 @@
 </nav>
 <main class="p-6">
 	<h1 class="text-center font-title text-4xl mb-6">Recommendations</h1>
-	<div class="grid grid-cols-1 tablet:grid-cols-2 laptop:grid-cols-3 monitor:grid-cols-4 gap-6">
+	<div class="grid grid-cols-1 tablet:grid-cols-2 laptop:grid-cols-3 monitor:grid-cols-4 gap-6" bind:this={gridEl}>
 		{#each recommendations as node, i}
 			{#if isGroup(node)}
 				<Deck group={node} isOpen={openTop === i} onToggle={() => toggleTop(i)} />

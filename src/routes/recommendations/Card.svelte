@@ -29,7 +29,7 @@
 
 <style lang="postcss">
 	.card {
-		width: min(24rem, 85vw);
+		width: var(--card-w, min(17rem, 85vw));
 		flex-shrink: 0;
 		display: flex;
 		flex-direction: column;

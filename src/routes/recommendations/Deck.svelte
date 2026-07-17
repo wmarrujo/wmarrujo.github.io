@@ -1,8 +1,10 @@
 <script lang="ts">
-	import {slide} from "svelte/transition"
+	import {fade} from "svelte/transition"
 	import type {Group, Item} from "./types"
 	import {isGroup} from "./types"
+	import {withFlip} from "./flip"
 	import Card from "./Card.svelte"
+	import PileCard from "./PileCard.svelte"
 	import Self from "./Deck.svelte"
 
 	let {
@@ -18,72 +20,130 @@
 	const subgroups = group.items.filter(isGroup)
 	const cards = group.items.filter((i): i is Item => !isGroup(i))
 	const hasSubs = subgroups.length > 0
+	const total = cards.length
 
 	// 2–5 card-backs in the closed stack, based on direct children count.
 	const stackShow = Math.min(Math.max(group.items.length, 2), 5)
 
 	let openSub = $state<number | null>(null)
+	let gridEl = $state<HTMLDivElement | null>(null)
 	function toggleSub(i: number) {
-		openSub = openSub === i ? null : i
+		withFlip(gridEl, ":scope > .deck", () => {
+			openSub = openSub === i ? null : i
+		})
 	}
 
-	let strip = $state<HTMLDivElement | null>(null)
-	let canLeft = $state(false)
-	let canRight = $state(true)
+	// --- open list: left pile | spread | right pile ---
+	let listEl = $state<HTMLDivElement | null>(null)
+	let start = $state(0)
+	let spreadCount = $state(1)
+	let peek = $state(40)
+	let push = $state(0)
+	let pilePeek = $state(40)
 
-	function onScroll() {
-		if (!strip) return
-		const max = strip.scrollWidth - strip.clientWidth
-		canLeft = strip.scrollLeft > 4
-		canRight = strip.scrollLeft < max - 4
+	const hasLeftPile = $derived(start > 0)
+	const hasRightPile = $derived(start + spreadCount < total)
+	const spreadCards = $derived(cards.slice(start, start + spreadCount))
+
+	function move(dir: 1 | -1) {
+		const maxStart = Math.max(0, total - spreadCount)
+		start = Math.max(0, Math.min(maxStart, start + dir))
 	}
 
-	function advance(dir: 1 | -1) {
-		if (!strip) return
-		const c = strip.querySelector<HTMLElement>("[data-card]")
-		const w = c ? c.getBoundingClientRect().width : 384
-		strip.scrollBy({left: dir * (w + 16), behavior: "smooth"}) // 16 = gap
+	function compute() {
+		if (!listEl) return
+		const listWidth = listEl.clientWidth
+		const cardW = Math.min(272, window.innerWidth * 0.85)
+		let n = listWidth < 500 ? 1 : listWidth < 900 ? 3 : 5
+		n = Math.max(1, Math.min(n, total))
+
+		// shrink n until cards don't overlap too far
+		for (;;) {
+			const right = total > n
+			const p = n > 1 ? 40 : 0
+			const pk = n > 1 ? (n - 1) * p : 40
+			const reserved = pk + (right ? pk : 0) // left pile + (right pile absorbs hover-push)
+			const q = n > 1 ? (listWidth - reserved - cardW) / (n - 1) : 40
+			if (q >= 30 || n <= 1) {
+				spreadCount = n
+				push = right && n > 1 ? 40 : 0
+				pilePeek = pk
+				peek = q
+				listEl.style.setProperty("--card-w", cardW + "px")
+				listEl.style.setProperty("--pile-peek", pk + "px")
+				listEl.style.setProperty("--peek", q + "px")
+				listEl.style.setProperty("--push", push + "px")
+				return
+			}
+			n -= 1
+		}
 	}
 
-	// Update arrow visibility when the strip mounts (open) or on resize.
 	$effect(() => {
-		if (!strip) return
-		onScroll()
+		// recompute when the list mounts or the window resizes
+		compute()
 	})
 	$effect(() => {
-		const handler = () => onScroll()
+		// recompute when start changes (piles appear/disappear)
+		start
+		compute()
+	})
+	$effect(() => {
+		const handler = () => compute()
 		window.addEventListener("resize", handler)
 		return () => window.removeEventListener("resize", handler)
 	})
+
+	// keep start in range when spreadCount changes
+	$effect(() => {
+		const max = Math.max(0, total - spreadCount)
+		if (start > max) start = max
+	})
+
+	// swipe to advance
+	let pointerStartX = 0
+	function onPointerDown(e: PointerEvent) {
+		pointerStartX = e.clientX
+	}
+	function onPointerUp(e: PointerEvent) {
+		const dx = e.clientX - pointerStartX
+		if (dx > 40) move(-1)
+		else if (dx < -40) move(1)
+	}
 </script>
 
 <section class="deck" class:col-span-full={isOpen}>
-	<button class="header" onclick={onToggle} aria-expanded={isOpen}>
-		<span class="chev" aria-hidden="true">{isOpen ? "▼" : "▶"}</span>
-		<span class="name">{group.name}</span>
-	</button>
-
 	{#if isOpen}
-		<div class="content" transition:slide={{duration: 250}}>
+		<button class="header" onclick={onToggle} aria-expanded={isOpen}>
+			<span class="chev" aria-hidden="true">▼</span>
+			<span class="name">{group.name}</span>
+		</button>
+		<div class="content" transition:fade={{duration: 200}}>
 			{#if hasSubs}
-				<div class="grid grid-cols-1 tablet:grid-cols-2 laptop:grid-cols-3 monitor:grid-cols-4 gap-6">
+				<div class="grid grid-cols-1 tablet:grid-cols-2 laptop:grid-cols-3 monitor:grid-cols-4 gap-6" bind:this={gridEl}>
 					{#each subgroups as sub, i}
 						<Self group={sub} isOpen={openSub === i} onToggle={() => toggleSub(i)} />
 					{/each}
 				</div>
 			{:else}
-				<div class="strip-wrap">
-					{#if canLeft}
-						<button class="arrow left" onclick={() => advance(-1)} aria-label="Previous">‹</button>
+				<div
+					class="list"
+					bind:this={listEl}
+					onpointerdown={onPointerDown}
+					onpointerup={onPointerUp}
+					onpointercancel={onPointerUp}
+				>
+					{#if hasLeftPile}
+						<PileCard item={cards[start - 1]} side="left" onAdvance={() => move(-1)} />
 					{/if}
-					{#if canRight}
-						<button class="arrow right" onclick={() => advance(1)} aria-label="Next">›</button>
-					{/if}
-					<div class="strip" bind:this={strip} onscroll={onScroll}>
-						{#each cards as card}
-							<Card item={card} />
+					<div class="spread">
+						{#each spreadCards as card}
+							<div class="spread-card"><Card item={card} /></div>
 						{/each}
 					</div>
+					{#if hasRightPile}
+						<PileCard item={cards[start + spreadCount]} side="right" onAdvance={() => move(1)} />
+					{/if}
 				</div>
 			{/if}
 		</div>
@@ -113,16 +173,16 @@
 	.header {
 		display: flex;
 		align-items: center;
+		justify-content: center;
 		gap: 0.5rem;
 		width: 100%;
 		background: none;
 		border: none;
-		padding: 0.25rem 0;
+		padding: 0.5rem 0;
 		color: inherit;
 		font-family: "Josefin Sans", sans-serif;
-		font-size: 1.25rem;
+		font-size: 1.5rem;
 		cursor: pointer;
-		text-align: left;
 	}
 
 	.header:hover {
@@ -140,67 +200,60 @@
 		width: 100%;
 	}
 
-	/* horizontal strip */
-	.strip-wrap {
-		position: relative;
+	/* open list: piles + overlapping spread */
+	.list {
+		display: flex;
+		align-items: flex-start;
+		width: 100%;
 		overflow: hidden;
+		touch-action: pan-y;
 	}
 
-	.strip {
+	.spread {
 		display: flex;
-		gap: 1rem;
-		overflow-x: auto;
-		scroll-snap-type: x mandatory;
-		padding: 0.5rem;
-		scrollbar-width: none; /* Firefox */
+		align-items: flex-start;
+		flex: 1;
+		min-width: 0;
 	}
 
-	.strip::-webkit-scrollbar {
-		display: none; /* Chrome/Safari */
+	.spread-card {
+		position: relative;
+		left: 0;
+		width: var(--card-w, 17rem);
+		flex-shrink: 0;
+		margin-left: calc(var(--peek, 40px) - var(--card-w, 17rem));
+		transition: left 0.4s ease-out, transform 0.4s ease-out;
 	}
 
-	.arrow {
-		position: absolute;
-		top: 50%;
-		transform: translateY(-50%);
-		z-index: 10;
-		width: 2rem;
-		height: 2rem;
-		border-radius: 9999px;
-		border: none;
-		background: rgba(0, 53, 102, 0.8);
-		color: #ffc300; /* accent */
-		font-size: 1.25rem;
-		line-height: 1;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		cursor: pointer;
+	.spread-card:first-child {
+		margin-left: 0;
 	}
 
-	.arrow:hover {
-		background: rgba(0, 53, 102, 1);
+	.spread-card:hover {
+		transform: translateY(-20px);
 	}
 
-	.arrow.left {
-		left: 0.25rem;
-	}
-
-	.arrow.right {
-		right: 0.25rem;
+	/* hovering a card shoves the cards after it to the right */
+	.spread-card:hover ~ .spread-card {
+		left: var(--push, 0px);
 	}
 
 	/* closed stack of face-down card-backs */
 	.stack {
 		position: relative;
 		width: 100%;
-		max-width: 24rem;
+		max-width: 17rem;
 		aspect-ratio: 3 / 4;
 		margin: 0 auto;
 		background: none;
 		border: none;
 		padding: 0;
 		cursor: pointer;
+		transition: transform 200ms ease-out;
+	}
+
+	.stack:hover {
+		transform: translateY(-4px) scale(1.02);
 	}
 
 	.back {
@@ -216,7 +269,6 @@
 		overflow: hidden;
 	}
 
-	/* subtle noise texture on the card back */
 	.back::before {
 		content: "";
 		position: absolute;
