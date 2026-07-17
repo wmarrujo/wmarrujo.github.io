@@ -112,39 +112,36 @@
 	<a href="/notes" class="hover:underline">Notes</a>
 	<a href="/recommendations" class="underline">Recommendations</a>
 </nav>
+
 <main>
-	<h1>Recommendations</h1>
 	<ul>
-		{#each Object.entries(recommendations as Record<string, List>) as [name, list]}
-			<li>
-				<details>
-					<summary>{name}</summary>
-					{#if Array.isArray(list)}
-						<ul>
-							{#each list as item}
-								<li><a href={item.link}>{item.title}</a></li>
-							{/each}
-						</ul>
-					{:else}
-						<ul>
-							{#each Object.entries(list) as [subName, subList]}
-								<li>
-									<details>
-										<summary>{subName}</summary>
-										{#if Array.isArray(subList)}
-											<ul>
-												{#each subList as item}
-													<li><a href={item.link}>{item.title}</a></li>
-												{/each}
-											</ul>
-										{/if}
-									</details>
-								</li>
-							{/each}
-						</ul>
-					{/if}
-				</details>
-			</li>
+		{#each Object.entries(recommendations as Record<string, List>) as [name, items]}
+			{@render deck(name, items)}
 		{/each}
 	</ul>
 </main>
+
+{#snippet card(item: Recommendation)}
+	<li><a href={item.link}>{item.title}</a></li>
+{/snippet}
+
+{#snippet deck(name: string, items: List)}
+	<li>
+		<details>
+			<summary>{name}</summary>
+			{#if Array.isArray(items)}
+				<ul>
+					{#each items as item}
+						{@render card(item)}
+					{/each}
+				</ul>
+			{:else}
+				<ul>
+					{#each Object.entries(items) as [subName, subItems]}
+						{@render deck(subName, subItems)}
+					{/each}
+				</ul>
+			{/if}
+		</details>
+	</li>
+{/snippet}
