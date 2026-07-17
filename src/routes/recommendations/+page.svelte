@@ -113,7 +113,7 @@
 	<a href="/recommendations" class="underline">Recommendations</a>
 </nav>
 
-<main>
+<main class="p-4">
 	<ul>
 		{#each Object.entries(recommendations as Record<string, List>) as [name, items]}
 			{@render deck(name, items)}
@@ -122,13 +122,13 @@
 </main>
 
 {#snippet card(item: Recommendation)}
-	<li><a href={item.link}>{item.title}</a></li>
+	<li><a class="card" href={item.link}>{item.title}</a></li>
 {/snippet}
 
 {#snippet deck(name: string, items: List)}
 	<li>
 		<details>
-			<summary>{name}</summary>
+			<summary class="card">{name}</summary>
 			{#if Array.isArray(items)}
 				<ul>
 					{#each items as item}
@@ -145,3 +145,39 @@
 		</details>
 	</li>
 {/snippet}
+
+<style lang="postcss">
+	ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, 12rem);
+		gap: 1rem;
+	}
+
+	.card {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 12rem;
+		aspect-ratio: 3 / 4;
+		border-radius: 0.75rem;
+		background: #002a52;
+		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+		text-align: center;
+		padding: 1rem;
+		font-size: 1.15rem;
+	}
+
+	summary.card {
+		cursor: pointer;
+		list-style: none;
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 1.5rem;
+	}
+
+	summary.card::-webkit-details-marker {
+		display: none;
+	}
+</style>
