@@ -130,7 +130,7 @@
 </nav>
 
 <main class="p-4">
-	<ul>
+	<ul class="grid grid-cols-[repeat(auto-fit,12rem)] justify-evenly gap-4">
 		{#each Object.entries(recommendations as Record<string, List>) as [name, items]}
 			{@render deck(name, items)}
 		{/each}
@@ -138,18 +138,24 @@
 </main>
 
 {#snippet card(item: Recommendation)}
-	<li><a class="card" href={item.link}>{item.title}</a></li>
+	<li class="w-48 aspect-[3/4]">
+		{#if item.link}
+			<a class="flex items-center justify-center w-full h-full rounded-xl bg-secondary shadow-md text-center p-4 text-lg text-white no-underline" href={item.link}>{item.title}</a>
+		{:else}
+			<span class="flex items-center justify-center w-full h-full rounded-xl bg-secondary shadow-md text-center p-4 text-lg text-white">{item.title}</span>
+		{/if}
+	</li>
 {/snippet}
 
 {#snippet deck(name: string, items: List)}
-	<li>
-		<button class="card" onclick={openDialog}>{name}</button>
-		<dialog>
-			<div class="dialog-bar">
-				<h2 class="dialog-title">{name}</h2>
-				<form method="dialog"><button class="close-btn" aria-label="Close">Close</button></form>
+	<li class="w-48 aspect-[3/4]">
+		<button class="flex items-center justify-center w-full h-full rounded-xl bg-secondary shadow-md text-center p-4 font-title text-2xl text-white border-none cursor-pointer" onclick={openDialog} aria-haspopup="dialog">{name}</button>
+		<dialog aria-label={name}>
+			<div class="flex items-center justify-between gap-4 p-4">
+				<h2 class="m-0 font-title text-2xl">{name}</h2>
+				<form method="dialog"><button class="border-none rounded-lg bg-secondary text-white font-sans p-2 px-4 cursor-pointer">Close</button></form>
 			</div>
-			<ul class="dialog-content">
+			<ul class="grid grid-cols-[repeat(auto-fit,12rem)] justify-evenly gap-4 flex-1 overflow-auto p-4">
 				{#if Array.isArray(items)}
 					{#each items as item}
 						{@render card(item)}
@@ -162,53 +168,11 @@
 			</ul>
 		</dialog>
 	</li>
-	{/snippet}
+{/snippet}
 
 <style lang="postcss">
 	:global(:root) {
 		--nav-height: 3rem;
-	}
-
-	ul {
-		list-style: none;
-		padding: 0;
-		margin: 0;
-		display: grid;
-		grid-template-columns: repeat(auto-fit, 12rem);
-		justify-content: space-evenly;
-		gap: 1rem;
-	}
-
-	li {
-		width: 12rem;
-		aspect-ratio: 3 / 4;
-	}
-
-	.card {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 100%;
-		height: 100%;
-		border-radius: 0.75rem;
-		background: #002a52;
-		box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
-		text-align: center;
-		padding: 1rem;
-		font-size: 1.15rem;
-	}
-
-	button.card {
-		border: none;
-		color: inherit;
-		font: inherit;
-		font-family: "Josefin Sans", sans-serif;
-		font-size: 1.5rem;
-		cursor: pointer;
-	}
-
-	a.card {
-		text-decoration: none;
 	}
 
 	/* the opened list: a full-screen modal below the nav bar */
@@ -232,35 +196,5 @@
 	dialog::backdrop {
 		inset: var(--nav-height) 0 0 0;
 		background: rgba(0, 0, 0, 0.5);
-	}
-
-	.dialog-bar {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		gap: 1rem;
-		padding: 1rem;
-	}
-
-	.dialog-title {
-		margin: 0;
-		font-family: "Josefin Sans", sans-serif;
-		font-size: 1.5rem;
-	}
-
-	.close-btn {
-		border: none;
-		border-radius: 0.5rem;
-		background: #002a52;
-		color: inherit;
-		font: inherit;
-		padding: 0.5rem 1rem;
-		cursor: pointer;
-	}
-
-	.dialog-content {
-		flex: 1;
-		overflow: auto;
-		padding: 1rem;
 	}
 </style>
