@@ -194,12 +194,22 @@
 {#snippet card(item: Recommendation)}
 	<li class="w-[15rem] aspect-[3/4]">
 		{#if item.link}
-			<a class="flex flex-col w-full h-full rounded-xl bg-secondary shadow-md overflow-hidden no-underline text-white transition-transform duration-200 hover:-translate-y-1 hover:scale-105 hover:shadow-lg" href={item.link}>
-				{@render cardBody(item)}
+			<a class="flip-card block w-full h-full rounded-xl no-underline text-white transition-transform duration-200 hover:-translate-y-1 hover:scale-105 hover:shadow-lg {item.pitch ? 'flippable' : ''}" href={item.link}>
+				<div class="flip">
+					<div class="flip-front bg-secondary rounded-xl shadow-md overflow-hidden">{@render cardBody(item)}</div>
+					{#if item.pitch}
+						<div class="flip-back bg-secondary rounded-xl shadow-md">{item.pitch}</div>
+					{/if}
+				</div>
 			</a>
 		{:else}
-			<span class="flex flex-col w-full h-full rounded-xl bg-secondary shadow-md overflow-hidden text-white transition-transform duration-200 hover:-translate-y-1 hover:scale-105 hover:shadow-lg">
-				{@render cardBody(item)}
+			<span class="flip-card block w-full h-full rounded-xl text-white transition-transform duration-200 hover:-translate-y-1 hover:scale-105 hover:shadow-lg {item.pitch ? 'flippable' : ''}">
+				<div class="flip">
+					<div class="flip-front bg-secondary rounded-xl shadow-md overflow-hidden">{@render cardBody(item)}</div>
+					{#if item.pitch}
+						<div class="flip-back bg-secondary rounded-xl shadow-md">{item.pitch}</div>
+					{/if}
+				</div>
 			</span>
 		{/if}
 	</li>
@@ -261,6 +271,40 @@
 	}
 
 	[popover]::backdrop {
-		background: transparent;
-	}
-</style>
+			background: transparent;
+		}
+
+		.flip {
+			position: relative;
+			width: 100%;
+			height: 100%;
+			transform-style: preserve-3d;
+			transition: transform 0.6s ease;
+		}
+		.flip-front,
+		.flip-back {
+			position: absolute;
+			inset: 0;
+			display: flex;
+			flex-direction: column;
+			backface-visibility: hidden;
+			-webkit-backface-visibility: hidden;
+		}
+		.flip-front {
+			overflow: hidden;
+		}
+		.flip-back {
+			transform: rotateY(180deg);
+			padding: 0.75rem;
+			font-size: 0.875rem;
+			line-height: 1.25;
+			text-align: left;
+			overflow-y: auto;
+		}
+		.flippable:hover .flip {
+			transform: rotateY(180deg);
+		}
+		.flippable:hover .flip-front {
+			pointer-events: none;
+		}
+	</style>
