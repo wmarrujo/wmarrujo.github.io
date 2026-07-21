@@ -2514,3 +2514,10 @@
 - Happiness comes from between
 - If context is king, architecture is the castle
 - Empathy is an antidote to righteousness
+- We do not inherit the earth from our ancestors; we borrow it from our children
+- Perfectionism is not a badge of honor, it's just the PR spin for a deeply ingrained fear of failure
+- Sometimes overplanning is actually just well disguised postponing and avoiding
+- Creativity requires boredom and space
+- If you're not making mistakes, you're not doing anything new
+- One of the most important life skills you can have as an adult is to know how and when to break the rules
+- No one else can see the vision in your head - don't expect them to
